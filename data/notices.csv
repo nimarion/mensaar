@@ -1,0 +1,52 @@
+id,name,isAllergen,isNegated
+fs,Farbstoff,False,False
+ks,Konservierungsstoff,False,False
+ao,Antioxidationsmittel,False,False
+gv,Geschmacksverstärker,False,False
+su,geschwefelt,False,False
+bl,geschwärzt,False,False
+gw,gewachst,False,False
+ph,Phosphat,False,False
+sm,Süßungsmittel,False,False
+pa,Paranüsse,True,False
+me,Milcheiweiß,False,False
+gf,Geflügel,False,False
+swf,Schweinefleisch,False,False
+al,Alkohol,False,False
+nu,Schalenfrüchte (Nüsse),True,False
+nsf,ohne Schweinefleisch,False,True
+kn,Knoblauch,False,False
+ve,vegetarisch,False,False
+bio,biologisches Esses,False,False
+ba,Backtriebmittel,False,False
+nla,laktosefrei,False,False
+vn,vegan,False,False
+fnf,Fisch aus nachhaltigem Fang,False,False
+azf,aus zum Teil fein zerkleinertem Fleisch,False,False
+gl,Gluten,True,False
+kr,"Krebstiere, Krusten- und Schalentiere",True,False
+ei,Ei,True,False
+fi,Fisch,True,False
+en,Erdnüsse,True,False
+so,Soja,True,False
+la,Milch und Laktose,True,False
+lab,mit tierischem LAB,True,False
+sl,Sellerie,True,False
+snf,Senf,True,False
+se,Sesamsamen,True,False
+sw,Schwefeldioxid / Sulfite,True,False
+lu,Lupinen,True,False
+wt,Weichtiere,True,False
+we,Weizen,True,False
+ro,Roggen,True,False
+ge,Gerste,True,False
+ha,Hafer,True,False
+di,Dinkel,True,False
+ka,Kamut,True,False
+ma,Mandeln,True,False
+has,Haselnüsse,True,False
+wa,Walnüsse,True,False
+kas,Kaschunüsse,True,False
+pe,Pecannüsse,True,False
+pi,Pistazien,True,False
+mq,Macadamia-oder-Queenslandnüsse,True,False
