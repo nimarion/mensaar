@@ -1,0 +1,29 @@
+name: Crawl mensaar data
+
+on:
+  schedule:
+    - cron: "0 16,4 * * *"
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Install Requirements
+        run: pip install -r requirements.txt
+      - uses: actions/checkout@v3
+      - run: |
+          python mensaar.py
+          git config user.name Github Action
+          git config user.email actions@github.com
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "update mensaar data: ${timestamp}" || exit 0
+          git push
