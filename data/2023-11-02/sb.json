@@ -21,20 +21,12 @@
             },
             "meals": [
                 {
-                    "name": "Linseneintopf-vegan-",
+                    "name": "Chili con Gr\u00fcnkern mit Reis",
                     "notices": [
-                        "gv",
-                        "sl",
+                        "kn",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -56,7 +48,7 @@
                             ]
                         },
                         {
-                            "name": "Obst",
+                            "name": "Dessert",
                             "notices": []
                         }
                     ],
@@ -87,26 +79,20 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes Schnitzel vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit J\u00e4gerso\u00dfe",
                     "notices": [
                         "swf",
                         "ei",
-                        "we"
+                        "we",
+                        "ks",
+                        "ao",
+                        "al",
+                        "la",
+                        "sw"
                     ],
                     "components": [
                         {
-                            "name": "J\u00e4gerso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "ao",
-                                "swf",
-                                "al",
-                                "la",
-                                "sw"
-                            ]
-                        },
-                        {
-                            "name": "Pommes Frites",
+                            "name": "Reis (aus biologischem Anbau)",
                             "notices": []
                         },
                         {
@@ -123,9 +109,10 @@
                             ]
                         },
                         {
-                            "name": "Erdbeerquark",
+                            "name": "Dessert",
                             "notices": [
-                                "la"
+                                "la",
+                                "has"
                             ]
                         }
                     ],
@@ -156,10 +143,12 @@
             },
             "meals": [
                 {
-                    "name": "Panierte H\u00fchner-Filetspitzen",
+                    "name": "H\u00fchnernuggets im Tempurateig",
                     "notices": [
                         "gf",
-                        "we"
+                        "we",
+                        "kn",
+                        "la"
                     ],
                     "components": [
                         {
@@ -178,10 +167,15 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,70",
+                        "m": "5,75",
+                        "g": "6,40"
+                    }
                 },
                 {
-                    "name": "Rotes Linsengem\u00fcse(Mediterran)",
+                    "name": "Rotes Linsengem\u00fcse (Mediterran)",
                     "notices": [
                         "kn"
                     ],
@@ -191,6 +185,11 @@
                             "notices": []
                         }
                     ],
+                    "prices": {
+                        "s": "3,00",
+                        "m": "4,05",
+                        "g": "4,70"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -198,7 +197,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -246,6 +245,16 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
                         }
                     ],
                     "prices": {
@@ -281,6 +290,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "5,15",
+                        "m": "6,20",
+                        "g": "6,85"
+                    },
                     "category": "Vegan"
                 }
             ]

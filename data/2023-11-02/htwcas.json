@@ -151,7 +151,12 @@
                 {
                     "name": "Bratkartoffelpfanne mit Karotten",
                     "notices": [],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,55"
+                    }
                 },
                 {
                     "name": "Gebratene H\u00e4hnchenstreifen in Honig-Senf-So\u00dfe mit Walnuss-Kartoffeln dazu Kopfsalat",
@@ -162,6 +167,11 @@
                         "wa"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "5,00",
+                        "m": "6,40",
+                        "g": "7,25"
+                    },
                     "category": "mensaVital"
                 }
             ]

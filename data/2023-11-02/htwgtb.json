@@ -21,20 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "Linseneintopf-vegan-",
+                    "name": "Linseneintopf-vegan- mit Br\u00f6tchen",
                     "notices": [
                         "gv",
                         "sl",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -87,30 +81,20 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes Schnitzel vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit J\u00e4gerso\u00dfe",
                     "notices": [
                         "swf",
                         "ei",
-                        "we"
+                        "we",
+                        "ks",
+                        "ao",
+                        "al",
+                        "la",
+                        "sw"
                     ],
                     "components": [
                         {
-                            "name": "J\u00e4gerso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "ao",
-                                "swf",
-                                "al",
-                                "la",
-                                "sw"
-                            ]
-                        },
-                        {
-                            "name": "Pommes Frites",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
+                            "name": "Reis (aus biologischem Anbau)",
                             "notices": []
                         },
                         {
@@ -130,9 +114,9 @@
                         }
                     ],
                     "prices": {
-                        "s": "3,35",
-                        "m": "6,40",
-                        "g": "9,05"
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
                     }
                 }
             ]

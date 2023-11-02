@@ -151,26 +151,26 @@
             },
             "meals": [
                 {
-                    "name": "Sellerieschnitzel",
+                    "name": "Sellerieschnitzel mit Tomatenso\u00dfe",
                     "notices": [
                         "ao",
                         "ei",
                         "sl",
-                        "we"
+                        "we",
+                        "ks",
+                        "kn"
                     ],
                     "components": [
                         {
                             "name": "Bratkartoffeln",
                             "notices": []
-                        },
-                        {
-                            "name": "Tomatenso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "kn"
-                            ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,50",
+                        "m": "4,55",
+                        "g": "5,20"
+                    }
                 }
             ]
         }
