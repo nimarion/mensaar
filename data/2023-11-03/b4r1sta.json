@@ -1,0 +1,35 @@
+{
+    "date": "2023-11-03T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Caf\u00e9 B4.r1sta",
+            "displayName": "Caf\u00e9 B4.r1sta",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 128,
+                "g": 0,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2023-11-03T10:30:00.000Z",
+                "end": "2023-11-04T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Kr\u00e4uter-Gnocchi-Pfanne mit Broccoli und Pilzen",
+                    "notices": [
+                        "kn",
+                        "we"
+                    ],
+                    "components": [],
+                    "category": "Vegan"
+                }
+            ]
+        }
+    ]
+}
