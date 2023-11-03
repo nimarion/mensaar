@@ -21,10 +21,11 @@
             },
             "meals": [
                 {
-                    "name": "Rum\u00e4nisches Kartoffelgulasch",
+                    "name": "pikantes Gem\u00fcseragout mit Gr\u00fcnkern",
                     "notices": [
                         "kn",
-                        "la"
+                        "la",
+                        "we"
                     ],
                     "components": [
                         {
@@ -32,21 +33,19 @@
                             "notices": []
                         },
                         {
-                            "name": "Krautsalat",
+                            "name": "Salat",
                             "notices": [
                                 "sm",
                                 "ei",
                                 "la",
                                 "snf",
-                                "we"
+                                "we",
+                                "se"
                             ]
                         },
                         {
-                            "name": "Schoko-Bananen-Quark",
-                            "notices": [
-                                "so",
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -76,20 +75,15 @@
             },
             "meals": [
                 {
-                    "name": "Gebackene H\u00e4hnchenkeule",
+                    "name": "Gebackene H\u00e4hnchenkeule mit Chili-Kr\u00e4uterdip",
                     "notices": [
-                        "gf"
+                        "gf",
+                        "so",
+                        "la",
+                        "snf",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Chili-Kr\u00e4uterdip",
-                            "notices": [
-                                "so",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Reis (aus biologischem Anbau)",
                             "notices": []
@@ -99,23 +93,14 @@
                             "notices": []
                         },
                         {
-                            "name": "Bunt gemischter Blattsalat",
-                            "notices": []
-                        },
-                        {
-                            "name": "Klare Salatso\u00dfe",
-                            "notices": [
-                                "snf"
-                            ]
-                        },
-                        {
-                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "name": "Salat",
                             "notices": [
                                 "sm",
                                 "ei",
                                 "la",
                                 "snf",
-                                "we"
+                                "we",
+                                "se"
                             ]
                         },
                         {
@@ -150,15 +135,23 @@
             },
             "meals": [
                 {
-                    "name": "Gebratener Seelachs mit K\u00fcrbis-M\u00f6hren-Kartoffelp\u00fcree und Lauch-Mais-Salat",
+                    "name": "Gebackener Seelachs mit K\u00fcrbis-M\u00f6hren-Kartoffelp\u00fcree und Lauch-Mais-Salat",
                     "notices": [
+                        "ba",
                         "fnf",
                         "fi",
                         "so",
                         "la",
-                        "se"
+                        "snf",
+                        "se",
+                        "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "5,60",
+                        "m": "7,00",
+                        "g": "7,85"
+                    },
                     "category": "mensaVital"
                 },
                 {
@@ -166,7 +159,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -214,6 +207,12 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
                         }
                     ],
                     "prices": {
@@ -249,7 +248,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,50"
+                    }
                 },
                 {
                     "name": "Flammkuchen mit buntem Gem\u00fcse",
@@ -257,7 +261,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,90"
+                    }
                 }
             ]
         }

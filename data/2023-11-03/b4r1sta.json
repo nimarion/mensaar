@@ -21,13 +21,22 @@
             },
             "meals": [
                 {
-                    "name": "Kr\u00e4uter-Gnocchi-Pfanne mit Broccoli und Pilzen",
+                    "name": "Rum\u00e4nisches Kartoffelgulasch",
                     "notices": [
                         "kn",
-                        "we"
+                        "la"
                     ],
-                    "components": [],
-                    "category": "Vegan"
+                    "components": [
+                        {
+                            "name": "Reis (aus biologischem Anbau)",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    }
                 }
             ]
         }

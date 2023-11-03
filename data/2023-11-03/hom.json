@@ -139,24 +139,6 @@
             },
             "meals": [
                 {
-                    "name": "Bunter Salatteller",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "und Br\u00f6tchen",
-                            "notices": [
-                                "gl",
-                                "se"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
-                    }
-                },
-                {
                     "name": "Pizza Salami",
                     "notices": [],
                     "components": [
@@ -202,6 +184,48 @@
                         "s": "4,15",
                         "m": "5,20",
                         "g": "5,80"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aktion",
+            "displayName": "Aktionstheke",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 165,
+                "g": 204,
+                "b": 102
+            },
+            "feedback": {
+                "start": "2023-11-03T10:15:00.000Z",
+                "end": "2023-11-04T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Cr\u00eapes mit Nutella oder Zimt-Zucker",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "",
+                            "notices": [
+                                "gl",
+                                "ei",
+                                "so",
+                                "la",
+                                "we",
+                                "has"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "1,80",
+                        "m": "2,50",
+                        "g": "2,95"
                     }
                 }
             ]

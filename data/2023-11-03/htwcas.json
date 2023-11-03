@@ -21,20 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "Semmelkn\u00f6del",
+                    "name": "Semmelkn\u00f6del mit Lauchcreme",
                     "notices": [
                         "ba",
                         "ei",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Lauchcreme",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Kombisalat",
                             "notices": []
@@ -164,13 +158,37 @@
             },
             "meals": [
                 {
-                    "name": "Rote-Bete-Gnocchi-Pfanne mit Spinat und getrockneten Tomaten",
+                    "name": "Fleischb\u00e4llchen oder H\u00e4hnchenw\u00fcrfel in Hokkaido-Creme",
                     "notices": [
-                        "kn",
+                        "gf",
+                        "swf",
+                        "azf",
+                        "ei",
+                        "snf",
                         "we"
                     ],
-                    "components": [],
-                    "category": "Vegan"
+                    "components": [
+                        {
+                            "name": "Buttesp\u00e4tzle",
+                            "notices": [
+                                "ei",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Rahmspinat",
+                            "notices": [
+                                "kn",
+                                "la",
+                                "we"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,70",
+                        "m": "6,10",
+                        "g": "7,00"
+                    }
                 }
             ]
         }

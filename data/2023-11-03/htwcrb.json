@@ -144,7 +144,40 @@
                         "snf",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,70",
+                        "m": "4,75",
+                        "g": "5,40"
+                    }
+                },
+                {
+                    "name": "H\u00e4hnchengulasch in Pesto-Sahneso\u00dfe",
+                    "notices": [
+                        "ks",
+                        "gf",
+                        "ei",
+                        "la",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Gem\u00fcsereis",
+                            "notices": [
+                                "sl"
+                            ]
+                        },
+                        {
+                            "name": "Solange Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 }
             ]
         }

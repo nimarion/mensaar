@@ -76,26 +76,17 @@
             },
             "meals": [
                 {
-                    "name": "Gebackene H\u00e4hnchenkeule",
+                    "name": "Gebackene H\u00e4hnchenkeule mit Chili-Kr\u00e4uterdip",
                     "notices": [
-                        "gf"
+                        "gf",
+                        "so",
+                        "la",
+                        "snf",
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "Chili-Kr\u00e4uterdip",
-                            "notices": [
-                                "so",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
                             "name": "Reis (aus biologischem Anbau)",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
                             "notices": []
                         },
                         {
