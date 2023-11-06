@@ -1,0 +1,323 @@
+{
+    "date": "2023-11-06T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "Aufgang B",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:30:00.000Z"
+            },
+            "color": {
+                "r": 21,
+                "g": 135,
+                "b": 207
+            },
+            "feedback": {
+                "start": "2023-11-06T10:30:00.000Z",
+                "end": "2023-11-07T13:30:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Rigatoni (biologischer Anbau)",
+                    "notices": [
+                        "ve",
+                        "bio",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Tomaten-Bechamelso\u00dfe",
+                            "notices": [
+                                "kn",
+                                "ve",
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Geriebener K\u00e4se",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Bunt gemischter Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "Aufgang A",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:30:00.000Z"
+            },
+            "color": {
+                "r": 217,
+                "g": 38,
+                "b": 26
+            },
+            "feedback": {
+                "start": "2023-11-06T10:30:00.000Z",
+                "end": "2023-11-07T13:30:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Pfannengyros vom Schwein",
+                    "notices": [
+                        "swf",
+                        "kn",
+                        "sl",
+                        "snf"
+                    ],
+                    "components": [
+                        {
+                            "name": "Knoblauchso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "kn",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Pommes Frites",
+                            "notices": []
+                        },
+                        {
+                            "name": "Krautsalat",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Vanillepudding",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Wahlessen",
+            "displayName": "Wahlessen",
+            "description": "Aufgang C",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 245,
+                "g": 204,
+                "b": 43
+            },
+            "feedback": {
+                "start": "2023-11-06T10:30:00.000Z",
+                "end": "2023-11-07T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Chicken Tikka Masala mit Basmatireis",
+                    "notices": [
+                        "gf",
+                        "la",
+                        "we"
+                    ],
+                    "components": [],
+                    "category": "mensaVital"
+                },
+                {
+                    "name": "Asiatische Kokos-Curry-Pfanne",
+                    "notices": [
+                        "so",
+                        "sl",
+                        "snf",
+                        "se",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Nudeln Chinesische Art",
+                            "notices": [
+                                "we"
+                            ]
+                        }
+                    ],
+                    "category": "Vegan"
+                },
+                {
+                    "name": "Salatbuffet",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Tomatensalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Weisskraut",
+                            "notices": []
+                        },
+                        {
+                            "name": "Gurken",
+                            "notices": []
+                        },
+                        {
+                            "name": "Zwiebel Ringe",
+                            "notices": []
+                        },
+                        {
+                            "name": "Karotten",
+                            "notices": []
+                        },
+                        {
+                            "name": "Gemischter Paprika",
+                            "notices": []
+                        },
+                        {
+                            "name": "Mais",
+                            "notices": []
+                        },
+                        {
+                            "name": "Peperoni",
+                            "notices": []
+                        },
+                        {
+                            "name": "Lollo Bianco",
+                            "notices": []
+                        },
+                        {
+                            "name": "Lollo Rosso",
+                            "notices": []
+                        },
+                        {
+                            "name": "Radicchio",
+                            "notices": []
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,40",
+                        "m": "4,50",
+                        "g": "5,20"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "mensacafe",
+            "displayName": "Mensacaf\u00e9",
+            "description": "Erdgeschoss",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2023-11-06T10:15:00.000Z",
+                "end": "2023-11-07T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Spaghetti (aus biologischem Anbau)",
+                    "notices": [
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Carbonara (Schinkensahneso\u00dfe)",
+                            "notices": [
+                                "ks",
+                                "ao",
+                                "swf",
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Geriebener K\u00e4se",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Spaghetti (aus biologischem Anbau)",
+                    "notices": [
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "So\u00dfe Florentiner Art",
+                            "notices": [
+                                "ks",
+                                "kn",
+                                "ve",
+                                "ei",
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Geriebener K\u00e4se",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
