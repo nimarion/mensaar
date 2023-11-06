@@ -31,12 +31,17 @@
                     ],
                     "components": [
                         {
-                            "name": "Nudeln Chinesische Art",
+                            "name": "Nudeln \u201eChinesische Art\u201c",
                             "notices": [
                                 "we"
                             ]
                         }
                     ],
+                    "prices": {
+                        "s": "3,50",
+                        "m": "4,55",
+                        "g": "5,20"
+                    },
                     "category": "Vegan"
                 }
             ]

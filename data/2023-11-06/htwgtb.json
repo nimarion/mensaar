@@ -21,21 +21,15 @@
             },
             "meals": [
                 {
-                    "name": "Rigatoni (biologischer Anbau)",
+                    "name": "Rigatoni (biologischer Anbau) mit Tomaten-Bechamelso\u00dfe",
                     "notices": [
                         "ve",
                         "bio",
-                        "we"
+                        "we",
+                        "kn",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Tomaten-Bechamelso\u00dfe",
-                            "notices": [
-                                "kn",
-                                "ve",
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
@@ -68,9 +62,9 @@
                         }
                     ],
                     "prices": {
-                        "s": "3,35",
-                        "m": "6,40",
-                        "g": "9,05"
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
                     }
                 }
             ]
@@ -94,27 +88,19 @@
             },
             "meals": [
                 {
-                    "name": "Pfannengyros vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit Knoblauchso\u00dfe",
                     "notices": [
                         "swf",
+                        "ei",
+                        "we",
+                        "sm",
                         "kn",
-                        "sl",
+                        "la",
                         "snf"
                     ],
                     "components": [
                         {
-                            "name": "Knoblauchso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "kn",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Pommes Frites",
+                            "name": "Beilage",
                             "notices": []
                         },
                         {
@@ -135,9 +121,9 @@
                         }
                     ],
                     "prices": {
-                        "s": "2,80",
-                        "m": "5,30",
-                        "g": "7,50"
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
                     }
                 }
             ]

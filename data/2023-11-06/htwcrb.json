@@ -21,18 +21,12 @@
             },
             "meals": [
                 {
-                    "name": "Karotten in K\u00e4sebechamelso\u00dfe",
+                    "name": "Karotten in K\u00e4sebechamelso\u00dfe mit Pasta",
                     "notices": [
                         "la",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Pasta",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Kombisalat",
                             "notices": []
@@ -151,24 +145,24 @@
             },
             "meals": [
                 {
-                    "name": "Kohlroulade",
+                    "name": "Kohlroulade mit K\u00fcmmelso\u00dfe",
                     "notices": [
-                        "swf"
+                        "swf",
+                        "gv",
+                        "sl",
+                        "we"
                     ],
                     "components": [
                         {
                             "name": "Salzkartoffeln",
                             "notices": []
-                        },
-                        {
-                            "name": "K\u00fcmmelso\u00dfe",
-                            "notices": [
-                                "gv",
-                                "sl",
-                                "we"
-                            ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,65",
+                        "m": "5,70",
+                        "g": "6,35"
+                    }
                 }
             ]
         }

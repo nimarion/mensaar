@@ -21,18 +21,12 @@
             },
             "meals": [
                 {
-                    "name": "Pasta Fusilli",
+                    "name": "Punjabi Rajma (Indisches Gericht) mit Pasta Fusilli",
                     "notices": [
+                        "kn",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Punjabi Rajma (Indisches Gericht)",
-                            "notices": [
-                                "kn",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Kombisalat",
                             "notices": []
@@ -79,17 +73,13 @@
             },
             "meals": [
                 {
-                    "name": "Hackfleischtopf Thail\u00e4ndische Art",
+                    "name": "Hackfleischtopf \u201eThail\u00e4ndische Art\u201c mit Basmatireis",
                     "notices": [
                         "nsf",
                         "kn",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Basmatireis",
-                            "notices": []
-                        },
                         {
                             "name": "Kombisalat",
                             "notices": []
@@ -147,24 +137,30 @@
                 {
                     "name": "Kartoffel-Zucchini-Pfanne",
                     "notices": [],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "3,85",
+                        "g": "4,50"
+                    }
                 },
                 {
-                    "name": "Grillkartoffel",
-                    "notices": [],
+                    "name": "Grillkartoffel mit Avocado-Quark-Creme",
+                    "notices": [
+                        "la",
+                        "ma"
+                    ],
                     "components": [
                         {
                             "name": "Eingelegtes Gem\u00fcse",
                             "notices": []
-                        },
-                        {
-                            "name": "Avocado-Quark-Creme",
-                            "notices": [
-                                "la",
-                                "ma"
-                            ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "6,00",
+                        "m": "7,05",
+                        "g": "7,70"
+                    }
                 }
             ]
         }
