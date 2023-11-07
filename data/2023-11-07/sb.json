@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Blumenkohl-K\u00e4se-Medaillon",
+                    "name": "Blumenkohl-K\u00e4se-Medaillon mit Tomatenso\u00dfe",
                     "notices": [
                         "ei",
                         "la",
@@ -29,10 +29,6 @@
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Tomatenso\u00dfe",
-                            "notices": []
-                        },
                         {
                             "name": "Pommes Frites",
                             "notices": []
@@ -134,7 +130,7 @@
             "description": "Aufgang C",
             "openingHours": {
                 "start": "1970-01-01T11:30:00.000Z",
-                "end": "1970-01-01T14:00:00.000Z"
+                "end": "1970-01-01T13:45:00.000Z"
             },
             "color": {
                 "r": 245,
@@ -143,39 +139,39 @@
             },
             "feedback": {
                 "start": "2023-11-07T10:30:00.000Z",
-                "end": "2023-11-08T13:00:00.000Z"
+                "end": "2023-11-08T12:45:00.000Z"
             },
             "meals": [
                 {
-                    "name": "Gebackenes Merlanfischfilet",
+                    "name": "Paniertes Fischfilet mit Tirolienne So\u00dfe",
                     "notices": [
                         "fi",
-                        "we"
+                        "we",
+                        "fs",
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf"
                     ],
                     "components": [
                         {
-                            "name": "So\u00dfe Tirolienne",
-                            "notices": [
-                                "fs",
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Salzkartoffeln (aus der Region)",
+                            "name": "Pommes Frites",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,35",
+                        "m": "5,40",
+                        "g": "6,05"
+                    }
                 },
                 {
-                    "name": "Kartoffelgratin",
+                    "name": "Klimateller: Italienische Nudelpfanne",
                     "notices": [
                         "vn",
-                        "so",
-                        "ha"
+                        "kn",
+                        "we",
+                        "sl"
                     ],
                     "components": [
                         {
@@ -192,14 +188,19 @@
                                 "sw"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,70",
+                        "m": "4,75",
+                        "g": "5,40"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -247,6 +248,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Cocktailso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -282,7 +297,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,15",
+                        "m": "6,20",
+                        "g": "6,85"
+                    }
                 },
                 {
                     "name": "Pizza Vier K\u00e4se",
@@ -293,7 +313,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,15",
+                        "m": "6,20",
+                        "g": "6,85"
+                    }
                 }
             ]
         }

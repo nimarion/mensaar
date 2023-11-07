@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Kartoffelgratin",
+                    "name": "Klimateller: Kartoffelgratin",
                     "notices": [
                         "vn",
                         "so",
@@ -42,7 +42,12 @@
                                 "sw"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,70",
+                        "m": "4,75",
+                        "g": "5,40"
+                    }
                 }
             ]
         }

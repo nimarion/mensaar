@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Blumenkohl-K\u00e4se-Medaillon",
+                    "name": "Blumenkohl-K\u00e4se-Medaillon mit Tomatenso\u00dfe",
                     "notices": [
                         "ei",
                         "la",
@@ -30,11 +30,7 @@
                     ],
                     "components": [
                         {
-                            "name": "Tomatenso\u00dfe",
-                            "notices": []
-                        },
-                        {
-                            "name": "Pommes Frites",
+                            "name": "Beilage",
                             "notices": []
                         },
                         {

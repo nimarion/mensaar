@@ -83,21 +83,16 @@
             },
             "meals": [
                 {
-                    "name": "Crispy Chickenbratling (pikant)",
+                    "name": "Crispy Chickenbratling (pikant) mit Rahmso\u00dfe Crema",
                     "notices": [
                         "fs",
                         "gf",
                         "azf",
                         "we",
-                        "ge"
+                        "ge",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Rahmso\u00dfe Crema",
-                            "notices": [
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Bratkartoffeln mit Karotten",
                             "notices": []
@@ -157,23 +152,22 @@
             },
             "meals": [
                 {
-                    "name": "Pasta",
+                    "name": "Pasta und Tomatenso\u00dfe mit Gem\u00fcsestreifen",
                     "notices": [
-                        "we"
+                        "we",
+                        "ks",
+                        "kn",
+                        "sl"
                     ],
-                    "components": [
-                        {
-                            "name": "Tomatenso\u00dfe mit Gem\u00fcsestreifen",
-                            "notices": [
-                                "ks",
-                                "kn",
-                                "sl"
-                            ]
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "2,90",
+                        "m": "3,95",
+                        "g": "4,60"
+                    }
                 },
                 {
-                    "name": "H\u00e4hnchen Cordon bleu",
+                    "name": "H\u00e4hnchen Cordon bleu mit Champignon-Rahmso\u00dfe",
                     "notices": [
                         "ks",
                         "gf",
@@ -182,12 +176,6 @@
                     ],
                     "components": [
                         {
-                            "name": "Champignon-Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
                             "name": "Pommes Frites",
                             "notices": [
                                 "fs",
@@ -195,7 +183,12 @@
                                 "sl"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,90",
+                        "m": "5,95",
+                        "g": "6,60"
+                    }
                 }
             ]
         }
