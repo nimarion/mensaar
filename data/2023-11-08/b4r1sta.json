@@ -1,0 +1,48 @@
+{
+    "date": "2023-11-08T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Caf\u00e9 B4.r1sta",
+            "displayName": "Caf\u00e9 B4.r1sta",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 128,
+                "g": 0,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2023-11-08T10:30:00.000Z",
+                "end": "2023-11-09T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Rustico B\u00e4rlauch (Mit B\u00e4rlauch gef\u00fcllte Pasta)",
+                    "notices": [
+                        "ei",
+                        "so",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "Zitronen-Kr\u00e4uterso\u00dfe",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Geriebener K\u00e4se",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
