@@ -80,20 +80,15 @@
             },
             "meals": [
                 {
-                    "name": "Frikadelle (Rind)",
+                    "name": "Frikadelle (Rind) mit Champignon-Rahmso\u00dfe",
                     "notices": [
                         "nsf",
                         "azf",
                         "ei",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Champignon-Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Sp\u00e4tzle",
                             "notices": [
@@ -164,7 +159,12 @@
                         "sl",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,25",
+                        "m": "6,30",
+                        "g": "6,95"
+                    }
                 }
             ]
         }

@@ -21,15 +21,11 @@
             },
             "meals": [
                 {
-                    "name": "Bratkartoffeln",
-                    "notices": [],
+                    "name": "Bratkartoffeln mit Champignon-Rahmso\u00dfe",
+                    "notices": [
+                        "la"
+                    ],
                     "components": [
-                        {
-                            "name": "Champignon-Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Hirtenk\u00e4se gew\u00fcrfelt",
                             "notices": [
@@ -160,32 +156,37 @@
             },
             "meals": [
                 {
-                    "name": "Chinesische Reispfanne mit Gem\u00fcse",
+                    "name": "Gebratene Nudeln",
                     "notices": [
-                        "ks",
                         "so",
+                        "se",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,15",
+                        "m": "4,20",
+                        "g": "4,85"
+                    }
                 },
                 {
-                    "name": "Putensteak",
+                    "name": "Putensteak mit Frischk\u00e4seso\u00dfe",
                     "notices": [
-                        "gf"
+                        "gf",
+                        "la",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Frischk\u00e4seso\u00dfe",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Zucchinispaghetti",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "6,10",
+                        "m": "7,15",
+                        "g": "7,80"
+                    }
                 }
             ]
         }

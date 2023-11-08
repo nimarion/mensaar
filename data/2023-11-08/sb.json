@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Germkn\u00f6del mit Fruchtf\u00fcllung",
+                    "name": "Germkn\u00f6del mit Fruchtf\u00fcllung und Vanilleso\u00dfe",
                     "notices": [
                         "ve",
                         "ei",
@@ -29,12 +29,6 @@
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Vanilleso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -89,7 +83,7 @@
             },
             "meals": [
                 {
-                    "name": "K\u00f6ttbullar",
+                    "name": "K\u00f6ttbullar mit Rahmso\u00dfe und Champignons",
                     "notices": [
                         "swf",
                         "ei",
@@ -98,16 +92,10 @@
                         "sl",
                         "snf",
                         "we",
-                        "ge"
+                        "ge",
+                        "ao"
                     ],
                     "components": [
-                        {
-                            "name": "Rahmso\u00dfe mit Champignons",
-                            "notices": [
-                                "ao",
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Reis (aus biologischem Anbau)",
                             "notices": []
@@ -168,10 +156,15 @@
                             "name": "Basmatireis (aus biologischem Anbau)",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,45",
+                        "m": "6,50",
+                        "g": "7,15"
+                    }
                 },
                 {
-                    "name": "Rustico B\u00e4rlauch (Mit B\u00e4rlauch gef\u00fcllte Pasta)",
+                    "name": "Rustico B\u00e4rlauch (Mit B\u00e4rlauch gef\u00fcllte Pasta) und Zitronenso\u00dfe",
                     "notices": [
                         "ei",
                         "so",
@@ -179,25 +172,24 @@
                     ],
                     "components": [
                         {
-                            "name": "Zitronen-Kr\u00e4uterso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -245,6 +237,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Schnittlauch-Senfdressing",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -274,14 +280,19 @@
             },
             "meals": [
                 {
-                    "name": "T\u00fcrkische Pizza Lahmacun",
+                    "name": "Klimateller: T\u00fcrkische Pizza Lahmacun",
                     "notices": [
                         "kn",
                         "so",
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    }
                 },
                 {
                     "name": "Vegetarische T\u00fcrkische Pizza Lahmacun",
@@ -291,7 +302,36 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,50"
+                    }
+                },
+                {
+                    "name": "Pizza Salami mit Salami und Paprika",
+                    "notices": [
+                        "fs",
+                        "ks",
+                        "ao",
+                        "swf",
+                        "la",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 }
             ]
         }

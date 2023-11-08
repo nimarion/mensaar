@@ -21,45 +21,32 @@
             },
             "meals": [
                 {
-                    "name": "Germkn\u00f6del mit Fruchtf\u00fcllung",
+                    "name": "K\u00f6ttbullar mit Rahmso\u00dfe und Champignons",
                     "notices": [
-                        "ve",
+                        "swf",
                         "ei",
+                        "so",
                         "la",
-                        "we"
+                        "sl",
+                        "snf",
+                        "we",
+                        "ge",
+                        "ao"
                     ],
                     "components": [
                         {
-                            "name": "Vanilleso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Bunt gemischter Blattsalat",
+                            "name": "Reis (aus biologischem Anbau)",
                             "notices": []
                         },
                         {
-                            "name": "Klare Salatso\u00dfe",
+                            "name": "Karottensalat mit Erbsen",
                             "notices": [
                                 "snf"
                             ]
                         },
                         {
-                            "name": "Wei\u00dfe Salatso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Ananasquark",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -89,38 +76,39 @@
             },
             "meals": [
                 {
-                    "name": "K\u00f6ttbullar",
+                    "name": "Germkn\u00f6del mit Fruchtf\u00fcllung und Vanilleso\u00dfe",
                     "notices": [
-                        "swf",
+                        "ve",
                         "ei",
-                        "so",
                         "la",
-                        "sl",
-                        "snf",
-                        "we",
-                        "ge"
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "Rahmso\u00dfe mit Champignons",
-                            "notices": [
-                                "ao",
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Reis (aus biologischem Anbau)",
+                            "name": "Bunt gemischter Blattsalat",
                             "notices": []
                         },
                         {
-                            "name": "Karottensalat mit Erbsen",
+                            "name": "Klare Salatso\u00dfe",
                             "notices": [
                                 "snf"
                             ]
                         },
                         {
-                            "name": "Obst",
-                            "notices": []
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Ananasquark",
+                            "notices": [
+                                "la"
+                            ]
                         }
                     ],
                     "prices": {
