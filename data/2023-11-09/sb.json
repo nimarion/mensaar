@@ -72,24 +72,17 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchenschnitzel Wiener Art",
+                    "name": "Paniertes Schnitzel vom Schwein mit Paprikarahmso\u00dfe",
                     "notices": [
-                        "gf",
+                        "swf",
                         "ei",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
                         {
-                            "name": "Paprikarahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Hausgemachter Kartoffelstampf",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Pommes Frites",
+                            "notices": []
                         },
                         {
                             "name": "Bunt gemischter Blattsalat",
@@ -112,7 +105,7 @@
                             ]
                         },
                         {
-                            "name": "Mandarinenquark",
+                            "name": "Ananasquark",
                             "notices": [
                                 "la"
                             ]
@@ -183,7 +176,12 @@
                                 "sl"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,15",
+                        "m": "6,20",
+                        "g": "6,85"
+                    }
                 },
                 {
                     "name": "Gebratener Reis mit exotischem Gem\u00fcse",
@@ -193,6 +191,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "3,15",
+                        "m": "4,20",
+                        "g": "4,85"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -200,7 +203,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -248,6 +251,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -277,7 +294,7 @@
             },
             "meals": [
                 {
-                    "name": "Wurstsalat nach Art des Hauses",
+                    "name": "Wurstsalat nach Art des Hauses mit Pommes",
                     "notices": [
                         "gv",
                         "sm",
@@ -285,15 +302,15 @@
                         "snf",
                         "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Pommes Frites",
-                            "notices": []
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "3,80",
+                        "m": "4,85",
+                        "g": "5,50"
+                    }
                 },
                 {
-                    "name": "Schnittlauch-Eiersalat",
+                    "name": "Erbsen-Eiersalat mit Schnittlauch mit Pommes",
                     "notices": [
                         "sm",
                         "ei",
@@ -301,12 +318,12 @@
                         "snf",
                         "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Pommes Frites",
-                            "notices": []
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "4,30",
+                        "m": "5,35",
+                        "g": "6,00"
+                    }
                 }
             ]
         }

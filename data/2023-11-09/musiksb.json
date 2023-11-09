@@ -21,24 +21,68 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchenschnitzel Wiener Art",
+                    "name": "Bandnudeln mit gebratenen Pilzen",
                     "notices": [
-                        "gf",
+                        "ks",
+                        "kn",
                         "ei",
+                        "la",
                         "we"
                     ],
                     "components": [
                         {
-                            "name": "Paprikarahmso\u00dfe",
+                            "name": "Karottensalat",
                             "notices": [
-                                "la"
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
                             ]
                         },
                         {
-                            "name": "Hausgemachter Kartoffelstampf",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:45:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 197,
+                "g": 94,
+                "b": 247
+            },
+            "feedback": {
+                "start": "2023-11-09T10:45:00.000Z",
+                "end": "2023-11-10T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "H\u00e4hnchenschnitzel Wiener Art mit Paprikarahmso\u00dfe",
+                    "notices": [
+                        "gf",
+                        "ei",
+                        "we",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "Salzkartoffeln (aus der Region)",
+                            "notices": []
                         },
                         {
                             "name": "Bunt gemischter Blattsalat",
@@ -71,57 +115,6 @@
                         "s": "3,35",
                         "m": "6,40",
                         "g": "9,05"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "Men\u00fc 2",
-            "displayName": "Men\u00fc 2",
-            "description": "",
-            "openingHours": {
-                "start": "1970-01-01T11:45:00.000Z",
-                "end": "1970-01-01T14:00:00.000Z"
-            },
-            "color": {
-                "r": 197,
-                "g": 94,
-                "b": 247
-            },
-            "feedback": {
-                "start": "2023-11-09T10:45:00.000Z",
-                "end": "2023-11-10T13:00:00.000Z"
-            },
-            "meals": [
-                {
-                    "name": "Bandnudeln mit gebratenen Pilzen",
-                    "notices": [
-                        "ks",
-                        "kn",
-                        "ei",
-                        "la",
-                        "we"
-                    ],
-                    "components": [
-                        {
-                            "name": "Karottensalat",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Obst",
-                            "notices": []
-                        }
-                    ],
-                    "prices": {
-                        "s": "2,80",
-                        "m": "5,30",
-                        "g": "7,50"
                     }
                 }
             ]

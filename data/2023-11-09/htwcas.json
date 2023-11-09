@@ -76,20 +76,14 @@
             },
             "meals": [
                 {
-                    "name": "Rindswurst",
+                    "name": "Rindswurst mit Curryso\u00dfe",
                     "notices": [
                         "ks",
-                        "ao"
+                        "ao",
+                        "sl",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Curryso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "sl",
-                                "snf"
-                            ]
-                        },
                         {
                             "name": "Pommes Frites",
                             "notices": [
@@ -162,25 +156,24 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "2,95",
+                        "m": "4,00",
+                        "g": "4,65"
+                    }
                 },
                 {
-                    "name": "Gem\u00fcsefrikadelle",
+                    "name": "Gem\u00fcsefrikadelle mit Kr\u00e4uterso\u00dfe",
                     "notices": [
                         "gv",
                         "kn",
                         "ei",
                         "snf",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Kr\u00e4uterso\u00dfe",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "R\u00f6sti",
                             "notices": []
@@ -189,7 +182,12 @@
                             "name": "Blumenkohlgem\u00fcse",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,45",
+                        "m": "5,85",
+                        "g": "6,70"
+                    }
                 }
             ]
         }

@@ -213,8 +213,17 @@
                     ],
                     "components": [
                         {
-                            "name": "Gem\u00fcse-Reissalat",
-                            "notices": []
+                            "name": "bunter Nudelsalat",
+                            "notices": [
+                                "fs",
+                                "sm",
+                                "kn",
+                                "gl",
+                                "ei",
+                                "sl",
+                                "snf",
+                                "sw"
+                            ]
                         },
                         {
                             "name": "Tomaten-Frischk\u00e4se-Dipp",

@@ -155,7 +155,17 @@
                         "we",
                         "ge"
                     ],
-                    "components": []
+                    "components": [
+                        {
+                            "name": "Pommes Frites",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "5,35",
+                        "m": "6,75",
+                        "g": "7,60"
+                    }
                 }
             ]
         }
