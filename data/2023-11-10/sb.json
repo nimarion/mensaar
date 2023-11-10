@@ -89,23 +89,17 @@
             },
             "meals": [
                 {
-                    "name": "Gebackenes Seelachsfilet",
+                    "name": "Gebackenes Seelachsfilet mit Remouladenso\u00dfe",
                     "notices": [
                         "fnf",
                         "fi",
-                        "we"
+                        "we",
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Remouladenso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Petersilienkartoffel",
                             "notices": []
@@ -117,10 +111,8 @@
                             ]
                         },
                         {
-                            "name": "Schokoladenpudding",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -150,6 +142,28 @@
             },
             "meals": [
                 {
+                    "name": "Bandnudeln mit gebratenen Pilzen",
+                    "notices": [
+                        "ks",
+                        "kn",
+                        "ei",
+                        "la",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
                     "name": "K\u00e4sesp\u00e4tzle",
                     "notices": [
                         "ks",
@@ -160,7 +174,7 @@
                     ],
                     "components": [
                         {
-                            "name": "Mischsalat",
+                            "name": "Blattsalat",
                             "notices": []
                         },
                         {
@@ -179,14 +193,19 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,00",
+                        "m": "5,05",
+                        "g": "5,70"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -234,6 +253,16 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -263,7 +292,7 @@
             },
             "meals": [
                 {
-                    "name": "S\u00fc\u00dfkartoffel-Gnocchi-Pfanne mit Tomaten und Basilikum",
+                    "name": "Klimateller: S\u00fc\u00dfkartoffel-Gnocchi-Pfanne mit Tomaten und Basilikum",
                     "notices": [
                         "ks",
                         "kn",
@@ -271,7 +300,11 @@
                         "we"
                     ],
                     "components": [],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,90"
+                    }
                 }
             ]
         }

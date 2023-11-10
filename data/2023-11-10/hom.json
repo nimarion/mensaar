@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Gem\u00fcsefarfalle mit geriebenem Gouda",
+                    "name": "Gem\u00fcsenudeln mit geriebenem Gouda",
                     "notices": [
                         "la",
                         "sl",
@@ -140,24 +140,6 @@
             },
             "meals": [
                 {
-                    "name": "Bunter Salatteller",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "mit Br\u00f6tchen",
-                            "notices": [
-                                "gl",
-                                "se"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
-                    }
-                },
-                {
                     "name": "Pizza Salami",
                     "notices": [],
                     "components": [
@@ -228,14 +210,19 @@
             },
             "meals": [
                 {
-                    "name": "Hausgemachte Waffeln mit hei\u00dfen Kirschen",
-                    "notices": [
-                        "gl",
-                        "ei",
-                        "la",
-                        "we"
+                    "name": "An der Essenausgabe",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Hausgemachte Waffeln mit hei\u00dfen Kirschen",
+                            "notices": [
+                                "gl",
+                                "ei",
+                                "la",
+                                "we"
+                            ]
+                        }
                     ],
-                    "components": [],
                     "prices": {
                         "s": "2,85",
                         "m": "3,90",

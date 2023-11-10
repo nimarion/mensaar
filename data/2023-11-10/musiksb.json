@@ -21,67 +21,6 @@
             },
             "meals": [
                 {
-                    "name": "Gebackenes Seelachsfilet",
-                    "notices": [
-                        "fnf",
-                        "fi",
-                        "we"
-                    ],
-                    "components": [
-                        {
-                            "name": "Remouladenso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Petersilienkartoffel",
-                            "notices": []
-                        },
-                        {
-                            "name": "Schlemmersalat",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Schokoladenpudding",
-                            "notices": [
-                                "la"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "3,35",
-                        "m": "6,40",
-                        "g": "9,05"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "Men\u00fc 2",
-            "displayName": "Men\u00fc 2",
-            "description": "",
-            "openingHours": {
-                "start": "1970-01-01T11:45:00.000Z",
-                "end": "1970-01-01T14:00:00.000Z"
-            },
-            "color": {
-                "r": 197,
-                "g": 94,
-                "b": 247
-            },
-            "feedback": {
-                "start": "2023-11-10T10:45:00.000Z",
-                "end": "2023-11-11T13:00:00.000Z"
-            },
-            "meals": [
-                {
                     "name": "Hausgemachte vegetarische K\u00fcrbissuppe",
                     "notices": [
                         "gv",
@@ -129,6 +68,61 @@
                         "s": "2,80",
                         "m": "5,30",
                         "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:45:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 197,
+                "g": 94,
+                "b": 247
+            },
+            "feedback": {
+                "start": "2023-11-10T10:45:00.000Z",
+                "end": "2023-11-11T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Gebackenes Seelachsfilet mit Remouladenso\u00dfe",
+                    "notices": [
+                        "fnf",
+                        "fi",
+                        "we",
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf"
+                    ],
+                    "components": [
+                        {
+                            "name": "Petersilienkartoffel",
+                            "notices": []
+                        },
+                        {
+                            "name": "Schlemmersalat",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Schokoladenpudding",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
                     }
                 }
             ]

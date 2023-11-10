@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "K\u00e4sesp\u00e4tzle mkt R\u00f6stzwiebeln",
+                    "name": "K\u00e4sesp\u00e4tzle mit R\u00f6stzwiebeln",
                     "notices": [
                         "fs",
                         "ei",
@@ -84,20 +84,14 @@
             },
             "meals": [
                 {
-                    "name": "Seelachsfilet paniert",
+                    "name": "Seelachsfilet paniert mit Spinatcreme",
                     "notices": [
                         "fnf",
                         "fi",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Spinatcreme",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bandnudeln",
                             "notices": [
@@ -160,12 +154,31 @@
             },
             "meals": [
                 {
+                    "name": "Pasta Tomatenso\u00dfe mit Lauchstreifen",
+                    "notices": [
+                        "we",
+                        "ks",
+                        "kn"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "3,85",
+                        "g": "4,50"
+                    }
+                },
+                {
                     "name": "Flammkuchen mit Ziegenk\u00e4se, Honig und Rosmarin",
                     "notices": [
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,10",
+                        "m": "5,15",
+                        "g": "5,80"
+                    }
                 }
             ]
         }

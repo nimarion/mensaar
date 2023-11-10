@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "S\u00fc\u00dfkartoffel-Gnocchi-Pfanne mit Tomaten und Basilikum",
+                    "name": "Klimateller: S\u00fc\u00dfkartoffel-Gnocchi-Pfanne mit Tomaten und Basilikum",
                     "notices": [
                         "ks",
                         "kn",
@@ -29,7 +29,11 @@
                         "we"
                     ],
                     "components": [],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,90"
+                    }
                 }
             ]
         }

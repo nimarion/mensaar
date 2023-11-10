@@ -158,7 +158,60 @@
                             "name": "Rosmarinkartoffel",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,45",
+                        "m": "5,85",
+                        "g": "6,70"
+                    }
+                },
+                {
+                    "name": "Putengeschnetzeltes Indisch Curry",
+                    "notices": [
+                        "ks",
+                        "gf",
+                        "la",
+                        "sl",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Basmatireis",
+                            "notices": []
+                        },
+                        {
+                            "name": "Kombisalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang\n\nSolange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 }
             ]
         }
