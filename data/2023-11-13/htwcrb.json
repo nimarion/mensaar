@@ -85,7 +85,10 @@
                     "name": "Chili con Carne",
                     "notices": [
                         "nsf",
-                        "sl"
+                        "kn",
+                        "sl",
+                        "we",
+                        "ge"
                     ],
                     "components": [
                         {
@@ -145,13 +148,13 @@
             },
             "meals": [
                 {
-                    "name": "Gef\u00fcllte Zucchini mit Tomatenso\u00dfe",
+                    "name": "Gef\u00fcllte Zucchini mit Tomaten-K\u00e4seso\u00dfe",
                     "notices": [
-                        "ks",
                         "kn",
                         "la",
                         "sl",
-                        "we"
+                        "we",
+                        "lab"
                     ],
                     "components": [
                         {
@@ -159,18 +162,13 @@
                             "notices": [
                                 "we"
                             ]
-                        },
-                        {
-                            "name": "Tomaten-K\u00e4seso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "kn",
-                                "ei",
-                                "la",
-                                "we"
-                            ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,00",
+                        "m": "5,05",
+                        "g": "5,70"
+                    }
                 }
             ]
         }

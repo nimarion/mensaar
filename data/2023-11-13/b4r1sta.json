@@ -21,27 +21,27 @@
             },
             "meals": [
                 {
-                    "name": "Spaghetti (aus biologischem Anbau)",
+                    "name": "Spaghetti (aus biologischem Anbau) mit veganer Soja Bolognaise",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "vn",
+                        "so",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Vegan: Soja Bolognaise",
-                            "notices": [
-                                "kn",
-                                "vn",
-                                "so",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Vegan: Geriebener K\u00e4se",
                             "notices": [
                                 "vn"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,60",
+                        "m": "4,65",
+                        "g": "5,30"
+                    }
                 }
             ]
         }

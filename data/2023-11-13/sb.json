@@ -92,10 +92,11 @@
             },
             "meals": [
                 {
-                    "name": "Scharfes Hackfleischgericht mit Reis",
+                    "name": "Scharfes Hackfleischgericht mit Beilage",
                     "notices": [
                         "nsf",
-                        "kn"
+                        "kn",
+                        "we"
                     ],
                     "components": [
                         {
@@ -109,12 +110,8 @@
                             ]
                         },
                         {
-                            "name": "Martinsbrezel",
-                            "notices": [
-                                "ei",
-                                "la",
-                                "we"
-                            ]
+                            "name": "obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -144,7 +141,7 @@
             },
             "meals": [
                 {
-                    "name": "Coq au Vin",
+                    "name": "Coq au Vin mit Kartoffelkl\u00f6\u00dfe",
                     "notices": [
                         "gf",
                         "al",
@@ -159,35 +156,107 @@
                                 "al",
                                 "sw"
                             ]
-                        },
-                        {
-                            "name": "Kartoffelkl\u00f6\u00dfe",
-                            "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,95",
+                        "m": "6,35",
+                        "g": "6,65"
+                    }
                 },
                 {
-                    "name": "Spaghetti (aus biologischem Anbau)",
+                    "name": "Spaghetti (aus biologischem Anbau) mit veganer Soja Bolognaise",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "vn",
+                        "so",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Vegan: Soja Bolognaise",
-                            "notices": [
-                                "kn",
-                                "vn",
-                                "so",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Vegan: Geriebener K\u00e4se",
                             "notices": [
                                 "vn"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,60",
+                        "m": "4,65",
+                        "g": "5,30"
+                    }
+                },
+                {
+                    "name": "Salatbuffet",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Salattheke: Tomatensalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Weisskraut",
+                            "notices": []
+                        },
+                        {
+                            "name": "Gurken",
+                            "notices": []
+                        },
+                        {
+                            "name": "Zwiebel Ringe",
+                            "notices": []
+                        },
+                        {
+                            "name": "Karotten",
+                            "notices": []
+                        },
+                        {
+                            "name": "Gemischter Paprika",
+                            "notices": []
+                        },
+                        {
+                            "name": "Mais",
+                            "notices": []
+                        },
+                        {
+                            "name": "Peperoni",
+                            "notices": []
+                        },
+                        {
+                            "name": "Lollo Bianco",
+                            "notices": []
+                        },
+                        {
+                            "name": "Lollo Rosso",
+                            "notices": []
+                        },
+                        {
+                            "name": "Radicchio",
+                            "notices": []
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,40",
+                        "m": "4,50",
+                        "g": "5,20"
+                    }
                 }
             ]
         },
@@ -221,7 +290,12 @@
                         "snf",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,15",
+                        "m": "5,20",
+                        "g": "5,85"
+                    }
                 },
                 {
                     "name": "Bami Goreng mit Nudeln",
@@ -235,6 +309,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "3,65",
+                        "m": "4,70",
+                        "g": "5,35"
+                    },
                     "category": "Vegan"
                 }
             ]

@@ -87,21 +87,15 @@
             },
             "meals": [
                 {
-                    "name": "Cevapcici",
+                    "name": "Cevapcici mit Knoblauch-Zitronenso\u00dfe",
                     "notices": [
                         "kn",
                         "azf",
-                        "ei"
+                        "ei",
+                        "la",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Knoblauch-Zitronenso\u00dfe",
-                            "notices": [
-                                "kn",
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bratkartoffeln",
                             "notices": []
@@ -161,9 +155,19 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "K\u00e4sesp\u00e4tzle",
+                    "notices": [
+                        "fs",
+                        "ei",
+                        "la",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,95",
+                        "m": "4,00",
+                        "g": "4,65"
+                    }
                 },
                 {
                     "name": "Gulasch nach Martins Art",
@@ -189,7 +193,12 @@
                                 "sw"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,20",
+                        "m": "6,60",
+                        "g": "7,45"
+                    }
                 }
             ]
         }
