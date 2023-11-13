@@ -1,0 +1,178 @@
+{
+    "date": "2023-11-13T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 238,
+                "g": 238,
+                "b": 0
+            },
+            "feedback": {
+                "start": "2023-11-13T10:00:00.000Z",
+                "end": "2023-11-14T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Dibbelabbes mit Apfelmus",
+                    "notices": [
+                        "ao",
+                        "gv",
+                        "ei",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Kombisalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 193,
+                "b": 37
+            },
+            "feedback": {
+                "start": "2023-11-13T10:00:00.000Z",
+                "end": "2023-11-14T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Chili con Carne",
+                    "notices": [
+                        "nsf",
+                        "sl"
+                    ],
+                    "components": [
+                        {
+                            "name": "Reis",
+                            "notices": []
+                        },
+                        {
+                            "name": "Kombisalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,30",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Wahlessen",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2023-11-13T10:00:00.000Z",
+                "end": "2023-11-14T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Gef\u00fcllte Zucchini mit Tomatenso\u00dfe",
+                    "notices": [
+                        "ks",
+                        "kn",
+                        "la",
+                        "sl",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Bulgur",
+                            "notices": [
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Tomaten-K\u00e4seso\u00dfe",
+                            "notices": [
+                                "ks",
+                                "kn",
+                                "ei",
+                                "la",
+                                "we"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
