@@ -78,18 +78,13 @@
             },
             "meals": [
                 {
-                    "name": "VeggieDay: Gem\u00fcse-K\u00f6ttbullar",
+                    "name": "VeggieDay: Gem\u00fcse-K\u00f6ttbullar mit Kr\u00e4uterso\u00dfe",
                     "notices": [
-                        "ei"
+                        "ei",
+                        "la",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Kr\u00e4uterso\u00dfe",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Pommes Wedges",
                             "notices": [
@@ -151,9 +146,18 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Gem\u00fcse-Rahmso\u00dfe mit Beilage",
+                    "notices": [
+                        "la",
+                        "ei",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,05",
+                        "m": "4,10",
+                        "g": "4,75"
+                    }
                 },
                 {
                     "name": "Hausgemachtes Sellerieschnitzel",
@@ -178,7 +182,12 @@
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,00",
+                        "m": "5,40",
+                        "g": "6,25"
+                    }
                 }
             ]
         }

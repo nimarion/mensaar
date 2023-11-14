@@ -133,26 +133,6 @@
             },
             "meals": [
                 {
-                    "name": "Bunter Salatteller Allg\u00e4uer Art",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "mit Br\u00f6tchen",
-                            "notices": [
-                                "fs",
-                                "gl",
-                                "ei",
-                                "la"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
-                    }
-                },
-                {
                     "name": "Pizza vegetarisch",
                     "notices": [],
                     "components": [
@@ -169,18 +149,6 @@
                         "s": "4,50",
                         "m": "5,55",
                         "g": "6,15"
-                    }
-                },
-                {
-                    "name": "Gebackener Schafsk\u00e4se auf Ofengem\u00fcse",
-                    "notices": [
-                        "kn"
-                    ],
-                    "components": [],
-                    "prices": {
-                        "s": "3,95",
-                        "m": "5,00",
-                        "g": "5,60"
                     }
                 }
             ]

@@ -75,19 +75,15 @@
             },
             "meals": [
                 {
-                    "name": "Gebackene K\u00fcrbis-Falafel",
-                    "notices": [],
+                    "name": "Gebackene K\u00fcrbis-Falafel mit Kr\u00e4uterdip",
+                    "notices": [
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf",
+                        "we"
+                    ],
                     "components": [
-                        {
-                            "name": "Kr\u00e4uterdip",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Reis (aus biologischem Anbau)",
                             "notices": []

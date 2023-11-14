@@ -3,6 +3,23 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "Heute ist Veggie Day",
+                    "notices": [],
+                    "components": []
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -75,35 +92,21 @@
             },
             "meals": [
                 {
-                    "name": "Gebackene K\u00fcrbis-Falafel",
-                    "notices": [],
+                    "name": "Gebackene K\u00fcrbis-Falafel mit Kr\u00e4uterdip",
+                    "notices": [
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf",
+                        "we"
+                    ],
                     "components": [
-                        {
-                            "name": "Kr\u00e4uterdip",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Reis (aus biologischem Anbau)",
                             "notices": []
                         },
                         {
-                            "name": "Bunt gemischter Blattsalat",
-                            "notices": []
-                        },
-                        {
-                            "name": "Klare Salatso\u00dfe",
-                            "notices": [
-                                "snf"
-                            ]
-                        },
-                        {
-                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "name": "Vitaminsalat",
                             "notices": [
                                 "sm",
                                 "ei",
@@ -113,8 +116,10 @@
                             ]
                         },
                         {
-                            "name": "Obst",
-                            "notices": []
+                            "name": "Himbeer-Vanillejoghurt",
+                            "notices": [
+                                "la"
+                            ]
                         }
                     ],
                     "prices": {
@@ -157,37 +162,39 @@
                             "notices": []
                         }
                     ],
+                    "prices": {
+                        "s": "4,25",
+                        "m": "5,30",
+                        "g": "5,95"
+                    },
                     "category": "Vegan"
                 },
                 {
-                    "name": "Soja-Gyros aus der Pfanne",
+                    "name": "Vegane Fingers Chicken Style mit Kr\u00e4uter-Dip",
                     "notices": [
-                        "so",
-                        "sl",
-                        "snf"
+                        "ph",
+                        "we",
+                        "kn",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Vegan:Knoblauch-Kr\u00e4uter-Dip",
-                            "notices": [
-                                "kn",
-                                "vn",
-                                "so"
-                            ]
-                        },
                         {
                             "name": "Pommes Frites",
                             "notices": []
                         }
                     ],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "4,90",
+                        "m": "5,95",
+                        "g": "6,60"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -235,6 +242,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Cocktailso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -269,7 +290,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,15",
+                        "m": "6,20",
+                        "g": "6,85"
+                    }
                 }
             ]
         }

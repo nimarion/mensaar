@@ -21,19 +21,25 @@
             },
             "meals": [
                 {
-                    "name": "Fagottoni mit Tomaten-Basilikumf\u00fcllung",
+                    "name": "K\u00e4rntner-Tomaten-Mozzarella Nudel mit Tomatenso\u00dfe",
                     "notices": [
-                        "kn",
-                        "vn",
+                        "sm",
+                        "la",
                         "we"
                     ],
                     "components": [
                         {
-                            "name": "Tomatenso\u00dfe",
-                            "notices": []
+                            "name": "Geriebener K\u00e4se",
+                            "notices": [
+                                "la"
+                            ]
                         }
                     ],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "4,25",
+                        "m": "5,30",
+                        "g": "5,95"
+                    }
                 }
             ]
         }

@@ -85,20 +85,15 @@
             },
             "meals": [
                 {
-                    "name": "Vegetarisches W\u00fcrstchen",
+                    "name": "Vegetarisches W\u00fcrstchen mit Curryso\u00dfe",
                     "notices": [
                         "ei",
-                        "we"
+                        "we",
+                        "ks",
+                        "sl",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Curryso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "sl",
-                                "snf"
-                            ]
-                        },
                         {
                             "name": "Pommes Frites",
                             "notices": [
@@ -165,6 +160,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,55"
+                    },
                     "category": "mensaVital"
                 }
             ]
