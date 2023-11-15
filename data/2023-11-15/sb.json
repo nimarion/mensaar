@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -107,14 +129,15 @@
                             "notices": [
                                 "ao",
                                 "sl",
-                                "snf"
+                                "snf",
+                                "ei",
+                                "la",
+                                "we"
                             ]
                         },
                         {
-                            "name": "Sahnepudding",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -144,45 +167,70 @@
             },
             "meals": [
                 {
+                    "name": "Gem\u00fcsesp\u00e4tzle",
+                    "notices": [
+                        "ve",
+                        "ei",
+                        "la",
+                        "sl",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
                     "name": "ZiS: Spezialit\u00e4tentag",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Spezialit\u00e4tentag  Georgien  Sojapfpfanne mit Br\u00f6tchen",
+                            "name": "Spezialit\u00e4tentag  \u201eGeorgien\u201c  Sojapfanne mit Br\u00f6tchen",
                             "notices": [
                                 "so",
                                 "sl",
                                 "snf"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,70",
+                        "m": "5,75",
+                        "g": "6,40"
+                    }
                 },
                 {
-                    "name": "Rote-Beete Sandwich",
+                    "name": "Klimateller: Rote-Beete Sandwich mit veganem Kr\u00e4uter-Dip",
                     "notices": [
                         "vn",
                         "se",
                         "we",
                         "ge",
-                        "ha"
+                        "ha",
+                        "so"
                     ],
-                    "components": [
-                        {
-                            "name": "Vegan: Kr\u00e4uter-Dip",
-                            "notices": [
-                                "vn",
-                                "so"
-                            ]
-                        }
-                    ],
-                    "category": "Vegan"
+                    "components": [],
+                    "prices": {
+                        "s": "4,85",
+                        "m": "5,90",
+                        "g": "6,55"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -230,6 +278,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Schnittlauch-Senfdressing",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -259,18 +321,13 @@
             },
             "meals": [
                 {
-                    "name": "Tomatensuppe",
+                    "name": "Tomatensuppe mit Wiener W\u00fcrstchen",
                     "notices": [
                         "ve",
-                        "la"
+                        "la",
+                        "swf"
                     ],
                     "components": [
-                        {
-                            "name": "Wiener W\u00fcrstchen",
-                            "notices": [
-                                "swf"
-                            ]
-                        },
                         {
                             "name": "Br\u00f6tchen",
                             "notices": [
@@ -278,7 +335,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,80",
+                        "m": "5,20",
+                        "g": "6,10"
+                    }
                 },
                 {
                     "name": "Tomatensuppe",
@@ -294,7 +356,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "2,35",
+                        "m": "3,40",
+                        "g": "4,05"
+                    }
                 }
             ]
         }

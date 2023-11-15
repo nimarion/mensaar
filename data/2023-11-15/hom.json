@@ -141,25 +141,28 @@
             },
             "meals": [
                 {
-                    "name": "Bunter Salatteller",
+                    "name": "Winter Aktion",
                     "notices": [],
                     "components": [
                         {
-                            "name": "mit gebratenem Spitzkohl",
-                            "notices": []
-                        },
-                        {
-                            "name": "und Br\u00f6tchen",
+                            "name": "Tofu-Pilzragout",
                             "notices": [
                                 "gl",
-                                "se"
+                                "so",
+                                "sl",
+                                "we",
+                                "ma"
                             ]
+                        },
+                        {
+                            "name": "mit Reis aus biologischem Anbau",
+                            "notices": []
                         }
                     ],
                     "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
+                        "s": "2,95",
+                        "m": "4,00",
+                        "g": "4,60"
                     }
                 },
                 {
@@ -212,6 +215,48 @@
                         "s": "5,20",
                         "m": "6,25",
                         "g": "6,85"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Salatteller",
+            "displayName": "Salatteller",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 34,
+                "g": 177,
+                "b": 76
+            },
+            "feedback": {
+                "start": "2023-11-15T10:15:00.000Z",
+                "end": "2023-11-16T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Bunter Salatteller",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "mit gebratenem Spitzkohl",
+                            "notices": []
+                        },
+                        {
+                            "name": "und Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "se"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,85"
                     }
                 }
             ]

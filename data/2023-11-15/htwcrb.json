@@ -82,7 +82,7 @@
             },
             "meals": [
                 {
-                    "name": "Putengulasch G\u00e4rtnerin Art",
+                    "name": "Putengulasch \u201eG\u00e4rtnerin Art\u201c",
                     "notices": [
                         "gf"
                     ],
@@ -146,11 +146,13 @@
             },
             "meals": [
                 {
-                    "name": "Broccoli-Nussecke",
+                    "name": "Broccoli-Nussecke mit Jus",
                     "notices": [
                         "ei",
                         "we",
-                        "has"
+                        "has",
+                        "gv",
+                        "sl"
                     ],
                     "components": [
                         {
@@ -158,22 +160,36 @@
                             "notices": [
                                 "la"
                             ]
-                        },
-                        {
-                            "name": "Jus",
-                            "notices": [
-                                "gv",
-                                "sl",
-                                "we"
-                            ]
                         }
                     ],
                     "prices": {
-                        "s": "3,55",
-                        "m": "4,60",
-                        "g": "5,25"
+                        "s": "3,95",
+                        "m": "5,00",
+                        "g": "5,65"
                     },
                     "category": "Vegan"
+                },
+                {
+                    "name": "Chili con Carne mit Reis",
+                    "notices": [
+                        "ks",
+                        "gv",
+                        "nsf",
+                        "sl",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 }
             ]
         }
