@@ -77,11 +77,11 @@
             },
             "meals": [
                 {
-                    "name": "Gefl\u00fcgelcurry mit Paprika",
+                    "name": "Gefl\u00fcgelcurry mit Gem\u00fcse",
                     "notices": [],
                     "components": [
                         {
-                            "name": "und Bambussprossen",
+                            "name": "",
                             "notices": [
                                 "gf",
                                 "la",
@@ -139,8 +139,10 @@
             },
             "meals": [
                 {
-                    "name": "Bunter Salatteller mit Gem\u00fcsespie\u00df",
-                    "notices": [],
+                    "name": "Bunter Salatteller mit Gem\u00fcseborrito",
+                    "notices": [
+                        "we"
+                    ],
                     "components": [
                         {
                             "name": "und Br\u00f6tchen",

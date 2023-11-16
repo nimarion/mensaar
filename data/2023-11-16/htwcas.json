@@ -21,15 +21,11 @@
             },
             "meals": [
                 {
-                    "name": "Kichererbsen-Tomateneintopf",
-                    "notices": [],
+                    "name": "Kichererbsen-Tomateneintopf mit Ebly",
+                    "notices": [
+                        "we"
+                    ],
                     "components": [
-                        {
-                            "name": "Ebly",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -86,18 +82,13 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes H\u00e4hnchenschnitzel",
+                    "name": "Paniertes H\u00e4hnchenschnitzel mit Paprikaso\u00dfe",
                     "notices": [
                         "gf",
-                        "we"
+                        "we",
+                        "ks"
                     ],
                     "components": [
-                        {
-                            "name": "Paprikaso\u00dfe",
-                            "notices": [
-                                "ks"
-                            ]
-                        },
                         {
                             "name": "Pasta Farfalle",
                             "notices": [
@@ -159,30 +150,42 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Reispfanne mit Curryso\u00dfe",
+                    "notices": [
+                        "ks",
+                        "so",
+                        "we",
+                        "la",
+                        "sl",
+                        "snf"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,55"
+                    }
                 },
                 {
-                    "name": "Ged\u00fcnstetes Fischfilet",
+                    "name": "Ged\u00fcnstetes Fischfilet mit Weissweinso\u00dfe",
                     "notices": [
-                        "fi"
+                        "fi",
+                        "al",
+                        "la",
+                        "sw",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Weissweinso\u00dfe",
-                            "notices": [
-                                "al",
-                                "la",
-                                "sw",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Kartoffel-Karottenpfanne mit Linsen",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,45",
+                        "m": "5,50",
+                        "g": "6,15"
+                    }
                 }
             ]
         }

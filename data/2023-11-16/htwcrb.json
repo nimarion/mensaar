@@ -82,22 +82,17 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchenbrustfilet",
+                    "name": "H\u00e4hnchenbrustfilet mit  Ratatouilleso\u00dfe",
                     "notices": [
-                        "gf"
+                        "gf",
+                        "ks",
+                        "kn"
                     ],
                     "components": [
                         {
                             "name": "Ebly",
                             "notices": [
                                 "we"
-                            ]
-                        },
-                        {
-                            "name": "Ratatouilleso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "kn"
                             ]
                         },
                         {
@@ -153,13 +148,48 @@
             },
             "meals": [
                 {
-                    "name": "Flammkuchen Birne Gorgonzola",
+                    "name": "Putengulasch \u201eG\u00e4rtnerin Art\u201c",
                     "notices": [
-                        "lab",
-                        "la",
-                        "we"
+                        "gf"
                     ],
-                    "components": []
+                    "components": [
+                        {
+                            "name": "Pasta",
+                            "notices": [
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kombisalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,05",
+                        "m": "5,45",
+                        "g": "6,30"
+                    }
                 }
             ]
         }

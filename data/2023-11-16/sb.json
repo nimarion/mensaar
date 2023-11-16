@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,20 +43,15 @@
             },
             "meals": [
                 {
-                    "name": "Reisgericht mit Pilzen",
+                    "name": "Quinoa-Pfanne mit Bohnen und Chili-Kr\u00e4uterdip",
                     "notices": [
-                        "kn"
+                        "kn",
+                        "so",
+                        "la",
+                        "snf",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Chili-Kr\u00e4uterdip",
-                            "notices": [
-                                "so",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunter Rohkostsalat",
                             "notices": [
@@ -46,10 +63,8 @@
                             ]
                         },
                         {
-                            "name": "Kirsch-Bananenquark",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -79,7 +94,7 @@
             },
             "meals": [
                 {
-                    "name": "Hausgemachtes Gyroshackst\u00fcck",
+                    "name": "Hausgemachtes Gyroshackst\u00fcck mit Tzatziki",
                     "notices": [
                         "gv",
                         "bl",
@@ -88,19 +103,17 @@
                         "la",
                         "sl",
                         "snf",
-                        "we"
+                        "we",
+                        "kn"
                     ],
                     "components": [
                         {
-                            "name": "Tzatziki",
+                            "name": "Kartoffelsalat",
                             "notices": [
-                                "kn",
-                                "la"
+                                "gv",
+                                "snf",
+                                "we"
                             ]
-                        },
-                        {
-                            "name": "Salzkartoffeln (aus der Region)",
-                            "notices": []
                         },
                         {
                             "name": "Bunt gemischter Blattsalat",
@@ -154,24 +167,39 @@
             },
             "meals": [
                 {
-                    "name": "Gebackenes Welsfilet",
+                    "name": "Sojapfanne mit Quinoah (aus biologischem Anbeu)",
                     "notices": [
-                        "fi",
+                        "so",
+                        "sl",
+                        "snf",
                         "we"
                     ],
                     "components": [
                         {
-                            "name": "Aioliso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "kn",
-                                "ve",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
+                    "name": "Gebackenes Welsfilet mit Aioliso\u00dfe",
+                    "notices": [
+                        "fi",
+                        "we",
+                        "sm",
+                        "kn",
+                        "ve",
+                        "ei",
+                        "la",
+                        "snf"
+                    ],
+                    "components": [
                         {
                             "name": "Kartoffelsalat",
                             "notices": [
@@ -180,21 +208,31 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,00",
+                        "m": "6,05",
+                        "g": "6,70"
+                    }
                 },
                 {
-                    "name": "Quinoa-K\u00fcrbis-Bowl mit ger\u00f6steten Pinienkernen",
+                    "name": "Klimateller: Quinoa-K\u00fcrbis-Bowl mit ger\u00f6steten Pinienkernen",
                     "notices": [
                         "kn"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -242,6 +280,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -271,25 +323,27 @@
             },
             "meals": [
                 {
-                    "name": "Hot Dog mit R\u00f6stzwiebeln",
+                    "name": "Klimateller: Hot Dog mit R\u00f6stzwiebeln",
                     "notices": [
                         "ks",
                         "ao",
                         "swf",
                         "al",
-                        "vn",
                         "snf",
                         "we",
                         "ge"
                     ],
                     "components": [
                         {
-                            "name": "Pommes Wedges",
-                            "notices": [
-                                "we"
-                            ]
+                            "name": "Pommes Frites",
+                            "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,00",
+                        "m": "6,40",
+                        "g": "7,25"
+                    }
                 },
                 {
                     "name": "Hot Dog vegetarisch mit R\u00f6stzwiebeln",
@@ -302,7 +356,17 @@
                         "we",
                         "ge"
                     ],
-                    "components": []
+                    "components": [
+                        {
+                            "name": "Pommes Frites",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "5,00",
+                        "m": "6,40",
+                        "g": "7,25"
+                    }
                 }
             ]
         }
