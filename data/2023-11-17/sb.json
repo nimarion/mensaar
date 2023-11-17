@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -80,7 +102,7 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes Schnitzel vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit Ketchup",
                     "notices": [
                         "swf",
                         "ei",
@@ -88,23 +110,20 @@
                     ],
                     "components": [
                         {
-                            "name": "Ketchup",
-                            "notices": []
-                        },
-                        {
                             "name": "Pommes Frites",
                             "notices": []
                         },
                         {
-                            "name": "Jagsttalersalat",
+                            "name": "Gurkensalat",
                             "notices": [
                                 "snf"
                             ]
                         },
                         {
-                            "name": "Stracciatella-Quark",
+                            "name": "Pudding",
                             "notices": [
-                                "la"
+                                "la",
+                                "has"
                             ]
                         }
                     ],
@@ -135,7 +154,7 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchen-Cordon-Bleu (mit Putenschinken)",
+                    "name": "H\u00e4hnchen-Cordon-Bleu (mit Putenschinken) mit Rahmso\u00dfe",
                     "notices": [
                         "ks",
                         "ao",
@@ -147,35 +166,24 @@
                     ],
                     "components": [
                         {
-                            "name": "Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
                             "name": "Sahnep\u00fcree mit Kr\u00e4uter",
                             "notices": [
                                 "la"
                             ]
                         }
-                    ]
-                },
-                {
-                    "name": "Penne mit Spinat-Erdnussso\u00dfe",
-                    "notices": [
-                        "kn",
-                        "en",
-                        "we"
                     ],
-                    "components": [],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "5,35",
+                        "m": "6,40",
+                        "g": "7,05"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -223,6 +231,23 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        },
+                        {
+                            "name": "veganer Quinoa Bohnen-Salat",
+                            "notices": [
+                                "kn",
+                                "snf"
+                            ]
                         }
                     ],
                     "prices": {
@@ -252,21 +277,18 @@
             },
             "meals": [
                 {
-                    "name": "Flammkuchen mit H\u00e4hnchenfiletstreifen",
+                    "name": "Klimateller: Penne mit Spinat-Erdnussso\u00dfe",
                     "notices": [
-                        "gf",
-                        "la",
+                        "kn",
+                        "en",
                         "we"
                     ],
-                    "components": []
-                },
-                {
-                    "name": "Flammkuchen Griechische Art mit Fetak\u00e4se, Peperoni, Mais",
-                    "notices": [
-                        "la",
-                        "we"
-                    ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "2,90",
+                        "m": "3,95",
+                        "g": "4,60"
+                    }
                 }
             ]
         }

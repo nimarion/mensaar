@@ -145,24 +145,6 @@
             },
             "meals": [
                 {
-                    "name": "Bunter Salatteller",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "mit Br\u00f6tchen",
-                            "notices": [
-                                "gl",
-                                "se"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
-                    }
-                },
-                {
                     "name": "Pizza Salami",
                     "notices": [],
                     "components": [

@@ -21,14 +21,18 @@
             },
             "meals": [
                 {
-                    "name": "Penne mit Spinat-Erdnussso\u00dfe",
+                    "name": "Klimateller: Penne mit Spinat-Erdnussso\u00dfe",
                     "notices": [
                         "kn",
                         "en",
                         "we"
                     ],
                     "components": [],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "2,90",
+                        "m": "3,95",
+                        "g": "4,60"
+                    }
                 }
             ]
         }

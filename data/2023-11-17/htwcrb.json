@@ -82,11 +82,16 @@
             },
             "meals": [
                 {
-                    "name": "Seelachsfilet paniert",
+                    "name": "Seelachsfilet paniert mit hausgemachtem Tomaten-Dip",
                     "notices": [
                         "fnf",
                         "fi",
-                        "we"
+                        "we",
+                        "fs",
+                        "ks",
+                        "sm",
+                        "la",
+                        "snf"
                     ],
                     "components": [
                         {
@@ -94,16 +99,6 @@
                             "notices": [
                                 "sl",
                                 "we"
-                            ]
-                        },
-                        {
-                            "name": "Hausgemachter Tomaten-Dip",
-                            "notices": [
-                                "fs",
-                                "ks",
-                                "sm",
-                                "la",
-                                "snf"
                             ]
                         },
                         {
@@ -167,6 +162,11 @@
                         "wa"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,75",
+                        "m": "6,15",
+                        "g": "7,00"
+                    },
                     "category": "mensaVital"
                 }
             ]

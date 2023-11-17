@@ -80,7 +80,7 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes Schnitzel vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit Ketchup",
                     "notices": [
                         "swf",
                         "ei",
@@ -88,11 +88,7 @@
                     ],
                     "components": [
                         {
-                            "name": "Ketchup",
-                            "notices": []
-                        },
-                        {
-                            "name": "Pommes Frites",
+                            "name": "Beilage",
                             "notices": []
                         },
                         {
@@ -102,7 +98,7 @@
                             ]
                         },
                         {
-                            "name": "Stracciatella-Quark",
+                            "name": "Vanillepudding",
                             "notices": [
                                 "la"
                             ]

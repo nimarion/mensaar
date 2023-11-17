@@ -78,20 +78,14 @@
             },
             "meals": [
                 {
-                    "name": "Seelachsfilet paniert",
+                    "name": "Seelachsfilet paniert mit Dillcreme",
                     "notices": [
                         "fnf",
                         "fi",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Dillcreme",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Sp\u00e4tzle",
                             "notices": [
@@ -154,32 +148,41 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Pasta mit Broccoli-Pesto",
+                    "notices": [
+                        "fs",
+                        "ks",
+                        "kn",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,65",
+                        "m": "3,70",
+                        "g": "4,35"
+                    }
                 },
                 {
-                    "name": "Gefillde (saarl\u00e4ndisch)",
+                    "name": "Gefillde (saarl\u00e4ndisch) mit Speck-Rahmso\u00dfe",
                     "notices": [
                         "swf",
-                        "sw"
+                        "sw",
+                        "ks",
+                        "ao",
+                        "la",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Speck-Rahmso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "ao",
-                                "swf",
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Sauerkraut",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,55",
+                        "m": "5,60",
+                        "g": "6,25"
+                    }
                 }
             ]
         }
