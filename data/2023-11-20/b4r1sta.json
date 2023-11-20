@@ -21,13 +21,17 @@
             },
             "meals": [
                 {
-                    "name": "\u00c4gyptisches Kushari",
+                    "name": "Klimateller: \u00c4gyptisches Kushari",
                     "notices": [
                         "kn",
                         "we"
                     ],
                     "components": [],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "2,75",
+                        "m": "3,80",
+                        "g": "4,45"
+                    }
                 }
             ]
         }

@@ -21,19 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "Pasta Penne",
+                    "name": "Pasta Penne mit Tomatenso\u00dfe und Gem\u00fcsestreifen",
                     "notices": [
-                        "we"
+                        "we",
+                        "ks",
+                        "kn",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Tomatenso\u00dfe mit Gem\u00fcsestreifen",
-                            "notices": [
-                                "ks",
-                                "kn",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Ruccola Natur",
                             "notices": []
@@ -84,20 +79,15 @@
             },
             "meals": [
                 {
-                    "name": "Frikadelle (Rind)",
+                    "name": "Frikadelle (Rind) mit Pfeffer-Rahmso\u00dfe",
                     "notices": [
                         "nsf",
                         "azf",
                         "ei",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Pfeffer-Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Sp\u00e4tzle",
                             "notices": [
@@ -160,18 +150,29 @@
             },
             "meals": [
                 {
-                    "name": "Gebackene H\u00e4hnchenkeule",
+                    "name": "Rindergulasch mit Reis",
                     "notices": [
-                        "gf"
+                        "kn"
                     ],
-                    "components": [
-                        {
-                            "name": "Twister Fries",
-                            "notices": [
-                                "we"
-                            ]
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "2,90",
+                        "m": "3,95",
+                        "g": "4,60"
+                    }
+                },
+                {
+                    "name": "Gebackene H\u00e4hnchenkeule mit Twister Fries",
+                    "notices": [
+                        "gf",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "4,30",
+                        "m": "5,35",
+                        "g": "6,00"
+                    }
                 }
             ]
         }

@@ -21,11 +21,11 @@
             },
             "meals": [
                 {
-                    "name": "Rigatoni Auflauf mit Oliven",
+                    "name": "Nudelpfanne mit Gem\u00fcse",
                     "notices": [],
                     "components": [
                         {
-                            "name": "und K\u00e4se \u00fcberbacken",
+                            "name": "und K\u00e4se",
                             "notices": [
                                 "kn",
                                 "ei",
@@ -170,6 +170,33 @@
                         "s": "4,50",
                         "m": "5,55",
                         "g": "6,15"
+                    }
+                },
+                {
+                    "name": "Curry-Frikadelle-Kartoffelt\u00f6pfchen gratinert",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "",
+                            "notices": [
+                                "gv",
+                                "swf",
+                                "kn",
+                                "la",
+                                "sl",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "mit Salat",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,50",
+                        "m": "3,55",
+                        "g": "4,15"
                     }
                 }
             ]
