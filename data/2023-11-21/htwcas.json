@@ -21,28 +21,21 @@
             },
             "meals": [
                 {
-                    "name": "Fr\u00fchlingsrolle vegetarisch",
+                    "name": "Fr\u00fchlingsrolle vegetarisch mit S\u00fc\u00df-Sauer So\u00dfe",
                     "notices": [
                         "ba",
                         "ei",
                         "so",
                         "la",
                         "sl",
-                        "we"
+                        "we",
+                        "fs",
+                        "ks",
+                        "ao",
+                        "su",
+                        "sw"
                     ],
                     "components": [
-                        {
-                            "name": "So\u00dfe S\u00fc\u00df-Sauer",
-                            "notices": [
-                                "fs",
-                                "ks",
-                                "ao",
-                                "su",
-                                "so",
-                                "sw",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Basmatireis",
                             "notices": []
@@ -102,18 +95,13 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchenbrustfilet",
+                    "name": "H\u00e4hnchenbrustfilet mit Ratatouilleso\u00dfe",
                     "notices": [
-                        "gf"
+                        "gf",
+                        "ks",
+                        "kn"
                     ],
                     "components": [
-                        {
-                            "name": "Ratatouilleso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "kn"
-                            ]
-                        },
                         {
                             "name": "Farfalle",
                             "notices": [
@@ -175,29 +163,25 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [
-                        "we"
-                    ],
-                    "components": []
+                    "name": "Kartoffelpfanne mit Kohlrabi und Kr\u00e4utern",
+                    "notices": [],
+                    "components": [],
+                    "prices": {
+                        "s": "2,25",
+                        "m": "3,30",
+                        "g": "3,95"
+                    }
                 },
                 {
-                    "name": "Broccoli-Nussecke",
+                    "name": "Broccoli-Nussecke mit Jus",
                     "notices": [
                         "sl",
                         "we",
                         "ma",
-                        "has"
+                        "has",
+                        "gv"
                     ],
                     "components": [
-                        {
-                            "name": "Jus",
-                            "notices": [
-                                "gv",
-                                "sl",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "S\u00fc\u00dfkartoffelstampf",
                             "notices": [
@@ -212,7 +196,12 @@
                                 "wa"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "6,00",
+                        "m": "7,40",
+                        "g": "8,25"
+                    }
                 }
             ]
         }

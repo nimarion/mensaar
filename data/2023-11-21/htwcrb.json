@@ -86,10 +86,11 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes H\u00e4hnchenschnitzel",
+                    "name": "Paniertes H\u00e4hnchenschnitzel mit Champignon-Rahmso\u00dfe",
                     "notices": [
                         "gf",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
                         {
@@ -97,12 +98,6 @@
                             "notices": [
                                 "ei",
                                 "we"
-                            ]
-                        },
-                        {
-                            "name": "Champignon-Rahmso\u00dfe",
-                            "notices": [
-                                "la"
                             ]
                         },
                         {
@@ -173,6 +168,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "5,70",
+                        "m": "7,10",
+                        "g": "8,00"
+                    },
                     "category": "mensaVital"
                 }
             ]

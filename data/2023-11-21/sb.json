@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -25,7 +47,8 @@
                     "notices": [
                         "kn",
                         "ve",
-                        "vn"
+                        "vn",
+                        "sl"
                     ],
                     "components": [
                         {
@@ -153,21 +176,20 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "6,65",
+                        "m": "8,05",
+                        "g": "8,90"
+                    }
                 },
                 {
-                    "name": "Paniertes Sojaschnitzel mit Paprika-Tomatenf\u00fcllung",
+                    "name": "Klimateller: Gem\u00fcseschnitzel mit Tomatenso\u00dfe",
                     "notices": [
                         "vn",
-                        "so",
-                        "snf",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Tomatenso\u00dfe",
-                            "notices": []
-                        },
                         {
                             "name": "Spaghetti (aus biologischem Anbau)",
                             "notices": [
@@ -175,14 +197,18 @@
                             ]
                         }
                     ],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "3,70",
+                        "m": "4,75",
+                        "g": "5,40"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -230,6 +256,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Cocktailso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -259,24 +299,18 @@
             },
             "meals": [
                 {
-                    "name": "Pizza Diavolo mit Peperoni, Salami und Paprika",
-                    "notices": [
-                        "fs",
-                        "ks",
-                        "ao",
-                        "swf",
-                        "la",
-                        "we"
-                    ],
-                    "components": []
-                },
-                {
-                    "name": "Pizza Mediterran mit Oliven und Gem\u00fcse",
-                    "notices": [
-                        "la",
-                        "we"
-                    ],
-                    "components": []
+                    "name": "In der Zeit vom 20. - 24.11.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }
