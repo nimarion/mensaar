@@ -23,7 +23,6 @@
                 {
                     "name": "Asiatisches Wokgem\u00fcse",
                     "notices": [
-                        "swf",
                         "kn",
                         "so",
                         "sl",
@@ -81,7 +80,7 @@
             },
             "meals": [
                 {
-                    "name": "Puten Borrito",
+                    "name": "Gefl\u00fcgel Borrito",
                     "notices": [
                         "gf",
                         "kn",
@@ -202,7 +201,12 @@
                             "name": "und Pommes Frites",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,40",
+                        "m": "6,45",
+                        "g": "7,05"
+                    }
                 }
             ]
         }

@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -81,14 +103,18 @@
             },
             "meals": [
                 {
-                    "name": "Ungarisches Gulasch von der Pute",
+                    "name": "gebackener Fleischk\u00e4se",
                     "notices": [
-                        "ao",
-                        "gf"
+                        "swf",
+                        "sw"
                     ],
                     "components": [
                         {
-                            "name": "Reis (aus biologischem Anbau)",
+                            "name": "Pommes Frites",
+                            "notices": []
+                        },
+                        {
+                            "name": "Ketchup",
                             "notices": []
                         },
                         {
@@ -140,6 +166,26 @@
             },
             "meals": [
                 {
+                    "name": "Putengeschnetzeltes Thail\u00e4ndische Art mit Reis (aus biologischem Anbau)",
+                    "notices": [
+                        "gf",
+                        "la",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
                     "name": "ZiS: Spezialit\u00e4tentag",
                     "notices": [],
                     "components": [
@@ -150,10 +196,15 @@
                                 "kn"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "2,70",
+                        "m": "3,75",
+                        "g": "4,40"
+                    }
                 },
                 {
-                    "name": "Spaghetti mit Pinien-Knoblauch-So\u00dfe",
+                    "name": "Klimateller: Spaghetti mit Pinien-Knoblauch-So\u00dfe",
                     "notices": [
                         "kn",
                         "vn",
@@ -162,14 +213,18 @@
                         "ha"
                     ],
                     "components": [],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -217,6 +272,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Schnittlauch-Senfdressing",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -246,36 +315,18 @@
             },
             "meals": [
                 {
-                    "name": "Kanadische Poutine",
-                    "notices": [
-                        "fs",
-                        "ao",
-                        "su",
-                        "swf",
-                        "nsf",
-                        "kn",
-                        "la",
-                        "sl",
-                        "snf",
-                        "sw",
-                        "we"
-                    ],
-                    "components": []
-                },
-                {
-                    "name": "Kanadische Poutine",
-                    "notices": [
-                        "fs",
-                        "ao",
-                        "su",
-                        "kn",
-                        "vn",
-                        "snf",
-                        "sw",
-                        "we"
-                    ],
-                    "components": [],
-                    "category": "Vegan"
+                    "name": "In der Zeit vom 20. - 24.11.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }

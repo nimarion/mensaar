@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Spaghetti mit Pinien-Knoblauch-So\u00dfe",
+                    "name": "Klimateller: Spaghetti mit Pinien-Knoblauch-So\u00dfe",
                     "notices": [
                         "kn",
                         "vn",
@@ -30,7 +30,11 @@
                         "ha"
                     ],
                     "components": [],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    }
                 }
             ]
         }

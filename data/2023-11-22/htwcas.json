@@ -147,18 +147,29 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
+                    "name": "Pasta mit Pfeffer-Rahmso\u00dfe und Kohlrabigem\u00fcse",
                     "notices": [
-                        "we"
+                        "we",
+                        "la"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "2,65",
+                        "m": "3,70",
+                        "g": "4,35"
+                    }
                 },
                 {
                     "name": "Quinoa-S\u00fc\u00dfkartoffel-Bowl mit ger\u00f6steten Pistazien",
                     "notices": [
                         "pi"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,50",
+                        "m": "6,55",
+                        "g": "7,20"
+                    }
                 }
             ]
         }
