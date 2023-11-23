@@ -33,7 +33,12 @@
                             "name": "Reis (aus biologischem Anbau)",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    }
                 }
             ]
         }

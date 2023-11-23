@@ -85,27 +85,18 @@
             },
             "meals": [
                 {
-                    "name": "Hausgemachte Frikadelle",
+                    "name": "Hausgemachte Frikadelle mit Rahmso\u00dfe",
                     "notices": [
                         "gv",
                         "swf",
                         "ei",
                         "snf",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
                         {
-                            "name": "Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Pommes Frites",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
+                            "name": "Beilage",
                             "notices": []
                         },
                         {

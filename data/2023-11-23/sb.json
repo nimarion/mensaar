@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -85,21 +107,16 @@
             },
             "meals": [
                 {
-                    "name": "Hausgemachte Frikadelle",
+                    "name": "Hausgemachte Frikadelle mit Rahmso\u00dfe",
                     "notices": [
                         "gv",
                         "swf",
                         "ei",
                         "snf",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Pommes Frites",
                             "notices": []
@@ -119,10 +136,8 @@
                             ]
                         },
                         {
-                            "name": "Milchreis mit Zimt und Zucker",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -152,13 +167,18 @@
             },
             "meals": [
                 {
-                    "name": "Hirschragout mit Birnen-Bohnengem\u00fcse,Th\u00fcringer Kl\u00f6sse",
+                    "name": "Hirschragout mit Birnen-Bohnengem\u00fcse, Th\u00fcringer Kl\u00f6sse",
                     "notices": [
                         "nsf",
                         "la",
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "5,90",
+                        "m": "7,30",
+                        "g": "8,15"
+                    },
                     "category": "mensaVital"
                 },
                 {
@@ -167,14 +187,19 @@
                         "kn",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "2,90",
+                        "m": "3,95",
+                        "g": "4,60"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -222,6 +247,16 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
                         }
                     ],
                     "prices": {
@@ -229,6 +264,40 @@
                         "m": "4,50",
                         "g": "5,20"
                     }
+                }
+            ]
+        },
+        {
+            "id": "mensacafe",
+            "displayName": "Mensacaf\u00e9",
+            "description": "Erdgeschoss",
+            "openingHours": {
+                "start": "1970-01-01T10:30:00.000Z",
+                "end": "1970-01-01T10:30:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2023-11-23T09:30:00.000Z",
+                "end": "2023-11-24T09:30:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "In der Zeit vom 20. - 24.11.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }

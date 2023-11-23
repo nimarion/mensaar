@@ -21,18 +21,12 @@
             },
             "meals": [
                 {
-                    "name": "Bulgur",
+                    "name": "Bulgur mit Kr\u00e4uterso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "so"
                     ],
                     "components": [
-                        {
-                            "name": "Kr\u00e4uterso\u00dfe",
-                            "notices": [
-                                "so",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blumenkohl-Broccoligem\u00fcse",
                             "notices": []
@@ -83,19 +77,14 @@
             },
             "meals": [
                 {
-                    "name": "Rostbratwurst",
+                    "name": "Rostbratwurst mit Bratenso\u00dfe",
                     "notices": [
-                        "swf"
+                        "swf",
+                        "gv",
+                        "sl",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Bratenso\u00dfe",
-                            "notices": [
-                                "gv",
-                                "sl",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Salzkartoffeln",
                             "notices": []
@@ -161,11 +150,26 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
+                    "name": "Asia-Rindfleischpfanne",
                     "notices": [
+                        "ks",
+                        "nsf",
+                        "so",
                         "we"
                     ],
-                    "components": []
+                    "components": [
+                        {
+                            "name": "Pasta",
+                            "notices": [
+                                "we"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,20",
+                        "m": "4,25",
+                        "g": "4,90"
+                    }
                 },
                 {
                     "name": "Gem\u00fcselasagne",
@@ -174,7 +178,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,90",
+                        "m": "4,95",
+                        "g": "5,60"
+                    }
                 }
             ]
         }

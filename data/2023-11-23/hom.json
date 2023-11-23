@@ -21,14 +21,19 @@
             },
             "meals": [
                 {
-                    "name": "Spinat-Kn\u00f6del",
+                    "name": "Teigwaren",
                     "notices": [
-                        "ei",
-                        "sw"
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "mit Spitzkohl-Tomatengem\u00fcse",
+                            "name": "mit geriebenem Gouda",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Spitzkohl-Tomatengem\u00fcse",
                             "notices": []
                         },
                         {

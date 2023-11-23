@@ -81,19 +81,13 @@
             },
             "meals": [
                 {
-                    "name": "Gulasch Szegediner Art",
+                    "name": "Gulasch Szegediner Art mit Penne",
                     "notices": [
                         "gv",
                         "sl",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Penne",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Kombisalat",
                             "notices": []
@@ -160,7 +154,28 @@
                             "notices": []
                         }
                     ],
+                    "prices": {
+                        "s": "4,00",
+                        "m": "5,05",
+                        "g": "5,70"
+                    },
                     "category": "mensaVital"
+                },
+                {
+                    "name": "Scharfes H\u00fchnercurry mit Reis",
+                    "notices": [
+                        "ks",
+                        "gf",
+                        "la",
+                        "sl",
+                        "snf"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    }
                 }
             ]
         }
