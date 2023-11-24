@@ -21,23 +21,16 @@
             },
             "meals": [
                 {
-                    "name": "Fr\u00fchlingsrolle vegetarisch",
+                    "name": "Fr\u00fchlingsrolle vegetarisch mit So\u00dfe s\u00fc\u00df-sauer",
                     "notices": [
                         "ve",
                         "sl",
-                        "we"
+                        "we",
+                        "fs",
+                        "so",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "So\u00dfe s\u00fc\u00df-sauer",
-                            "notices": [
-                                "fs",
-                                "so",
-                                "sl",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Tomatenreis",
                             "notices": []
@@ -87,19 +80,14 @@
             },
             "meals": [
                 {
-                    "name": "Penne Rigate (aus biologischem Anbau)",
+                    "name": "Penne Rigate (aus biologischem Anbau) mit Bolognese So\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "nsf",
+                        "kn",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Bolognese So\u00dfe",
-                            "notices": [
-                                "nsf",
-                                "kn",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [

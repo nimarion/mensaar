@@ -76,19 +76,14 @@
             },
             "meals": [
                 {
-                    "name": "Spaghetti",
+                    "name": "Spaghetti mit Tomatenso\u00dfe Tonno",
                     "notices": [
-                        "we"
+                        "we",
+                        "ks",
+                        "kn",
+                        "fi"
                     ],
                     "components": [
-                        {
-                            "name": "Tomatenso\u00dfe Tonno",
-                            "notices": [
-                                "ks",
-                                "kn",
-                                "fi"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -144,11 +139,14 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [
-                        "we"
-                    ],
-                    "components": []
+                    "name": "Kartoffelpfanne mit Broccoli und Blumenkohl",
+                    "notices": [],
+                    "components": [],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "3,85",
+                        "g": "4,50"
+                    }
                 },
                 {
                     "name": "Pizza Currywurst Style",
@@ -160,7 +158,12 @@
                         "snf",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,00",
+                        "m": "6,05",
+                        "g": "6,70"
+                    }
                 }
             ]
         }

@@ -28,6 +28,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "3,80",
+                        "m": "4,85",
+                        "g": "5,50"
+                    },
                     "category": "mensaVital"
                 }
             ]
