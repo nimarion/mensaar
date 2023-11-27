@@ -148,7 +148,7 @@
             },
             "meals": [
                 {
-                    "name": "Minestrone",
+                    "name": "Minestrone mit K\u00f6rnerflutes",
                     "notices": [
                         "kn",
                         "lab",
@@ -160,7 +160,12 @@
                         "ro",
                         "ge"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,80",
+                        "m": "4,85",
+                        "g": "5,50"
+                    }
                 }
             ]
         }

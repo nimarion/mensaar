@@ -21,18 +21,13 @@
             },
             "meals": [
                 {
-                    "name": "PastaBoccolotti",
+                    "name": "PastaBoccolotti mit Tomaten-Zucchini-Bechamelso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Tomaten-Zucchini-Bechamelso\u00dfe",
-                            "notices": [
-                                "kn",
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Pusztasalat",
                             "notices": [
@@ -87,10 +82,6 @@
                             "notices": [
                                 "we"
                             ]
-                        },
-                        {
-                            "name": "Alternativbeilage",
-                            "notices": []
                         },
                         {
                             "name": "Bunt gemischter Blattsalat",

@@ -21,14 +21,18 @@
             },
             "meals": [
                 {
-                    "name": "Limettenspaghetti mit Erbsen-Pilzragout",
+                    "name": "Klimateller: mensaVital: Limettenspaghetti mit Erbsen-Pilzragout",
                     "notices": [
                         "we",
                         "wa",
                         "kas"
                     ],
                     "components": [],
-                    "category": "mensaVital"
+                    "prices": {
+                        "s": "3,20",
+                        "m": "4,25",
+                        "g": "4,90"
+                    }
                 }
             ]
         }

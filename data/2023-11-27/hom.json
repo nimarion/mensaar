@@ -178,6 +178,26 @@
                         "m": "5,55",
                         "g": "6,15"
                     }
+                },
+                {
+                    "name": "Teigwaren-Rindfleischcurryt\u00f6pfchen",
+                    "notices": [
+                        "we",
+                        "ei",
+                        "la",
+                        "sl"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Salat",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,50",
+                        "m": "3,55",
+                        "g": "4,15"
+                    }
                 }
             ]
         }

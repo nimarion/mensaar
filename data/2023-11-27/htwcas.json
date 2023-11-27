@@ -21,17 +21,12 @@
             },
             "meals": [
                 {
-                    "name": "Paprika-Creme-Ragout",
+                    "name": "Paprika-Creme-Ragout mit Cous Cous",
                     "notices": [
-                        "so"
+                        "so",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Cous Cous",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -78,21 +73,14 @@
             },
             "meals": [
                 {
-                    "name": "Spaghetti",
+                    "name": "Spaghetti mit Schinken-Sahneso\u00dfe (Pute)",
                     "notices": [
-                        "we"
+                        "we",
+                        "ks",
+                        "gf",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Schinken-Sahneso\u00dfe (Pute)",
-                            "notices": [
-                                "ks",
-                                "ao",
-                                "swf",
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -148,23 +136,30 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Karotten-Ingwer Eintopf",
+                    "notices": [
+                        "ks"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,20",
+                        "m": "3,25",
+                        "g": "3,90"
+                    }
                 },
                 {
-                    "name": "Gem\u00fcsespaghetti",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "Gr\u00fcnkernbolognaise",
-                            "notices": [
-                                "kn",
-                                "sl",
-                                "di"
-                            ]
-                        }
-                    ]
+                    "name": "Gem\u00fcsespaghetti mit Gr\u00fcnkernbolognaise",
+                    "notices": [
+                        "kn",
+                        "sl",
+                        "di"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,20"
+                    }
                 }
             ]
         }
