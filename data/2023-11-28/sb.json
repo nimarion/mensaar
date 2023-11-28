@@ -3,6 +3,23 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "Heute ist Veggie Day",
+                    "notices": [],
+                    "components": []
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -77,21 +94,15 @@
             },
             "meals": [
                 {
-                    "name": "Veganes gebackenes Fischfilet",
+                    "name": "Veganer Cornflakes-Burger mit Remouladenso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Remouladenso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Petersilienkartoffel",
                             "notices": []
@@ -145,23 +156,43 @@
             },
             "meals": [
                 {
-                    "name": "Aktionstheke WOK-Station",
-                    "notices": [],
+                    "name": "Klimateller: mensaVital: Limettenspaghetti mit Erbsen-Pilzragout",
+                    "notices": [
+                        "we",
+                        "wa",
+                        "kas"
+                    ],
                     "components": [
                         {
-                            "name": "Gebratene Nudeln mit Sojastreifen",
-                            "notices": [
-                                "fs",
-                                "kn",
-                                "en",
-                                "so",
-                                "sl",
-                                "snf",
-                                "se",
-                                "we"
-                            ]
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
+                    "name": "Aktionstheke WOK-Station: Gebratene Nudeln mit Sojastreifen",
+                    "notices": [
+                        "fs",
+                        "kn",
+                        "en",
+                        "so",
+                        "sl",
+                        "snf",
+                        "se",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,50"
+                    }
                 },
                 {
                     "name": "Sesam-Karotten-Knusperstick",
@@ -185,6 +216,11 @@
                             ]
                         }
                     ],
+                    "prices": {
+                        "s": "4,45",
+                        "m": "5,50",
+                        "g": "6,15"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -192,7 +228,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -240,6 +276,16 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Cocktailso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
                         }
                     ],
                     "prices": {
@@ -269,26 +315,18 @@
             },
             "meals": [
                 {
-                    "name": "Pizza Speziale mit Salami und Schinken",
-                    "notices": [
-                        "fs",
-                        "ks",
-                        "ao",
-                        "swf",
-                        "la",
-                        "snf",
-                        "we"
-                    ],
-                    "components": []
-                },
-                {
                     "name": "Pizza vegetarisch mit Hirtenk\u00e4se und Paprika",
                     "notices": [
                         "bl",
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,10",
+                        "m": "6,15",
+                        "g": "6,80"
+                    }
                 }
             ]
         }

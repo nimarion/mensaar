@@ -82,18 +82,13 @@
             },
             "meals": [
                 {
-                    "name": "Veganes Picadillo",
+                    "name": "Veganes Picadillo mit Fusilli",
                     "notices": [
                         "kn",
-                        "vn"
+                        "vn",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Fusilli",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -149,9 +144,23 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Reis mit So\u00dfe S\u00fc\u00df-Sauer",
+                    "notices": [
+                        "fs",
+                        "ks",
+                        "ao",
+                        "su",
+                        "so",
+                        "sw",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,55"
+                    },
+                    "category": "Vegan"
                 },
                 {
                     "name": "Gebackener Camembert mit Wildpreiselbeeren",
@@ -168,7 +177,29 @@
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,10",
+                        "m": "5,15",
+                        "g": "5,80"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "Heute ist Veggie Day",
+                    "notices": [],
+                    "components": []
                 }
             ]
         }

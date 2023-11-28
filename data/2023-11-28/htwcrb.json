@@ -170,7 +170,29 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,40",
+                        "m": "6,80",
+                        "g": "7,70"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "Heute ist Veggie Day",
+                    "notices": [],
+                    "components": []
                 }
             ]
         }

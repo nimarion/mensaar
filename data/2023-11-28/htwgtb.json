@@ -77,27 +77,17 @@
             },
             "meals": [
                 {
-                    "name": "Veganes gebackenes Fischfilet",
+                    "name": "Veganes gebackenes Fischfilet mit Remouladenso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf"
                     ],
                     "components": [
                         {
-                            "name": "Remouladenso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
                             "name": "Petersilienkartoffel",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
                             "notices": []
                         },
                         {

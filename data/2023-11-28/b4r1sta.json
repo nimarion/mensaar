@@ -24,6 +24,11 @@
                     "name": "Vegetarisches Paprikaragout mit Reis",
                     "notices": [],
                     "components": [],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
                     "category": "Vegan"
                 }
             ]
