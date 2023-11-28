@@ -1,0 +1,130 @@
+{
+    "date": "2023-11-28T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:30:00.000Z"
+            },
+            "color": {
+                "r": 208,
+                "g": 210,
+                "b": 105
+            },
+            "feedback": {
+                "start": "2023-11-28T10:30:00.000Z",
+                "end": "2023-11-29T13:30:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Vegetarisches Paprikaragout mit Reis",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Bunt gemischter Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    },
+                    "category": "Vegan"
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:30:00.000Z"
+            },
+            "color": {
+                "r": 140,
+                "g": 140,
+                "b": 140
+            },
+            "feedback": {
+                "start": "2023-11-28T10:30:00.000Z",
+                "end": "2023-11-29T13:30:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Veganes gebackenes Fischfilet",
+                    "notices": [
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Remouladenso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Petersilienkartoffel",
+                            "notices": []
+                        },
+                        {
+                            "name": "Alternativbeilage",
+                            "notices": []
+                        },
+                        {
+                            "name": "Karottensalat",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Haselnuss-Nougatquark",
+                            "notices": [
+                                "la",
+                                "has"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        }
+    ]
+}
