@@ -21,16 +21,16 @@
             },
             "meals": [
                 {
-                    "name": "Kichererbsencurry",
+                    "name": "Kichererbsencurry mit Jasmin Reis",
                     "notices": [
                         "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Jasmin Reis",
-                            "notices": []
-                        }
-                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,20",
+                        "m": "4,25",
+                        "g": "4,90"
+                    },
                     "category": "Vegan"
                 }
             ]

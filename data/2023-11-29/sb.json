@@ -21,18 +21,18 @@
             },
             "meals": [
                 {
-                    "name": "Vegetarischer Schales",
+                    "name": "Gebratene Nudeln mit Sojastreifen",
                     "notices": [
-                        "gv",
-                        "ve",
-                        "ei",
+                        "fs",
+                        "kn",
+                        "en",
+                        "so",
+                        "sl",
+                        "snf",
+                        "se",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Apfelmus",
-                            "notices": []
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -54,10 +54,8 @@
                             ]
                         },
                         {
-                            "name": "Schokoladenpudding",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -145,35 +143,58 @@
             },
             "meals": [
                 {
-                    "name": "ZiS: Spezialit\u00e4tentag Philipinen",
-                    "notices": [],
+                    "name": "\u201ePicadillo\u201c Argentinisches Hackfleischgericht",
+                    "notices": [
+                        "kn"
+                    ],
                     "components": [
                         {
-                            "name": "Chicken Adobo",
-                            "notices": [
-                                "gf",
-                                "so",
-                                "se",
-                                "we"
-                            ]
+                            "name": "Cous-Cous (aus biologischem Anbau)",
+                            "notices": []
                         },
                         {
-                            "name": "Basmatireis (aus biologischem Anbau)",
+                            "name": "Solange der Vorrat reicht!",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 },
                 {
-                    "name": "Kichererbsencurry",
+                    "name": "ZiS: Spezialit\u00e4tentag Philipinen: Chicken Adobo",
                     "notices": [
+                        "gf",
+                        "so",
+                        "se",
                         "we"
                     ],
                     "components": [
                         {
-                            "name": "Jasmin Reis",
+                            "name": "Basmatireis (aus biologischem Anbau)",
                             "notices": []
                         }
                     ],
+                    "prices": {
+                        "s": "3,70",
+                        "m": "4,75",
+                        "g": "5,40"
+                    }
+                },
+                {
+                    "name": "Kichererbsencurry mit Jasmin Reis",
+                    "notices": [
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,20",
+                        "m": "4,25",
+                        "g": "4,90"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -181,7 +202,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -225,9 +246,23 @@
                             "notices": []
                         },
                         {
+                            "name": "Kichererbsen",
+                            "notices": []
+                        },
+                        {
                             "name": "Klare Salatso\u00dfe",
                             "notices": [
                                 "snf"
+                            ]
+                        },
+                        {
+                            "name": "Schnittlauch-Senfdressing",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
                             ]
                         }
                     ],
@@ -258,33 +293,18 @@
             },
             "meals": [
                 {
-                    "name": "K\u00e4se-Baconburger",
-                    "notices": [
-                        "ks",
-                        "ao",
-                        "sm",
-                        "swf",
-                        "azf",
-                        "ei",
-                        "la",
-                        "snf",
-                        "se",
-                        "we"
-                    ],
-                    "components": []
-                },
-                {
-                    "name": "Vegetarischer Cheesburger",
-                    "notices": [
-                        "sm",
-                        "ei",
-                        "la",
-                        "sl",
-                        "snf",
-                        "se",
-                        "we"
-                    ],
-                    "components": []
+                    "name": "In der Zeit vom 29. - 01.12.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }

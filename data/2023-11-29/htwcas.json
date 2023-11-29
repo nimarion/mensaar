@@ -143,9 +143,17 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Kartoffelgratin mit Kohlrabi und Karotten",
+                    "notices": [
+                        "la",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,40",
+                        "m": "4,45",
+                        "g": "5,10"
+                    }
                 },
                 {
                     "name": "Paniertes H\u00e4hnchenschnitzel",
@@ -162,7 +170,26 @@
                             "name": "Broccoli-Limetten-Gem\u00fcse",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "6,00",
+                        "g": "6,90"
+                    }
+                },
+                {
+                    "name": "Nudelgratin mit Spinat",
+                    "notices": [
+                        "fs",
+                        "la",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    }
                 }
             ]
         }

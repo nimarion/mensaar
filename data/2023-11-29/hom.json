@@ -21,16 +21,13 @@
             },
             "meals": [
                 {
-                    "name": "Moussaka",
+                    "name": "Falafel Bratling mit Pommes frites",
                     "notices": [
-                        "kn",
-                        "ei",
-                        "la",
-                        "sw"
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "mit Tzaziki",
+                            "name": "und Tzaziki",
                             "notices": [
                                 "kn",
                                 "la"
