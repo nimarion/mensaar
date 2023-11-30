@@ -1,0 +1,230 @@
+{
+    "date": "2023-11-30T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "menue1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-11-30T10:15:00.000Z",
+                "end": "2023-12-01T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Florentiner Nudel-Auflauf",
+                    "notices": [
+                        "ei",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "Tomatensauce",
+                            "notices": []
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "menue2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 235,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2023-11-30T10:15:00.000Z",
+                "end": "2023-12-01T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Fr\u00fchlingsrolle Gefl\u00fcgel",
+                    "notices": [
+                        "gf",
+                        "kn",
+                        "ei",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Reis/Alternative",
+                            "notices": []
+                        },
+                        {
+                            "name": "Sauce",
+                            "notices": [
+                                "la",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "wahl",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:10:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-11-30T10:10:00.000Z",
+                "end": "2023-12-01T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Bunter Salatteller mit Gem\u00fcsebratling",
+                    "notices": [
+                        "sl",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "und Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "se"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,85"
+                    }
+                },
+                {
+                    "name": "Pizza Salami",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "oder Pizza vegetarisch",
+                            "notices": []
+                        },
+                        {
+                            "name": "auf Vorbestellung",
+                            "notices": []
+                        },
+                        {
+                            "name": "eine Stunde vorher (06841 1627486)",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,15"
+                    }
+                },
+                {
+                    "name": "Schwenksteak vom Schwein",
+                    "notices": [
+                        "swf",
+                        "sl",
+                        "snf",
+                        "se"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit buntem Nudelsalat",
+                            "notices": [
+                                "fs",
+                                "sm",
+                                "kn",
+                                "ei",
+                                "sl",
+                                "snf",
+                                "sw",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdipp",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "se"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,45"
+                    }
+                }
+            ]
+        }
+    ]
+}
