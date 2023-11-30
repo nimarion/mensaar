@@ -148,12 +148,21 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Veganes Picadillo mit Penne Rigate",
+                    "notices": [
+                        "kn",
+                        "vn",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,55"
+                    }
                 },
                 {
-                    "name": "Gem\u00fcsestrudel",
+                    "name": "Gem\u00fcsestrudel mit Blumenkohlcreme",
                     "notices": [
                         "gv",
                         "la",
@@ -162,19 +171,17 @@
                     ],
                     "components": [
                         {
-                            "name": "Blumenkohlcreme",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
-                        {
                             "name": "Pommes Wedges",
                             "notices": [
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,10",
+                        "m": "5,15",
+                        "g": "5,80"
+                    }
                 }
             ]
         }

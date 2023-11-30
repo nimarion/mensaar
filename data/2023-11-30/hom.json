@@ -21,15 +21,20 @@
             },
             "meals": [
                 {
-                    "name": "Florentiner Nudel-Auflauf",
+                    "name": "Teigwaren",
                     "notices": [
-                        "ei",
-                        "la"
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "Tomatensauce",
+                            "name": "Gem\u00fcse-Tomatensauce",
                             "notices": []
+                        },
+                        {
+                            "name": "geriebener Gouda",
+                            "notices": [
+                                "la"
+                            ]
                         },
                         {
                             "name": "Salat",
@@ -138,27 +143,6 @@
                 "end": "2023-12-01T13:00:00.000Z"
             },
             "meals": [
-                {
-                    "name": "Bunter Salatteller mit Gem\u00fcsebratling",
-                    "notices": [
-                        "sl",
-                        "we"
-                    ],
-                    "components": [
-                        {
-                            "name": "und Br\u00f6tchen",
-                            "notices": [
-                                "gl",
-                                "se"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
-                    }
-                },
                 {
                     "name": "Pizza Salami",
                     "notices": [],

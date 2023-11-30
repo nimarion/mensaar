@@ -148,7 +148,32 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,70",
+                        "m": "5,75",
+                        "g": "6,40"
+                    }
+                },
+                {
+                    "name": "Rum\u00e4nisches Rindergulasch",
+                    "notices": [
+                        "kn",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "Farfalle",
+                            "notices": [
+                                "we"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    }
                 }
             ]
         }
