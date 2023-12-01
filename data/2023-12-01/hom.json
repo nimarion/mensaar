@@ -1,0 +1,246 @@
+{
+    "date": "2023-12-01T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "menue1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-12-01T10:15:00.000Z",
+                "end": "2023-12-02T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Blumenkohl-K\u00e4se-Bratling",
+                    "notices": [
+                        "ei",
+                        "la",
+                        "sl",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Pommes Frites",
+                            "notices": []
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "menue2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 235,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2023-12-01T10:15:00.000Z",
+                "end": "2023-12-02T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Seelachsfilet paniert",
+                    "notices": [
+                        "fi",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Kartoffel-Specksalat",
+                            "notices": [
+                                "fs",
+                                "ks",
+                                "ao",
+                                "swf",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Remouladensauce",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "wahl",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:10:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-12-01T10:10:00.000Z",
+                "end": "2023-12-02T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Bunter Salatteller",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "mit Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "se"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,85"
+                    }
+                },
+                {
+                    "name": "Kartoffel-Wei\u00dfkohleintopf",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "mit Rindermettwurst und Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "snf",
+                                "sw"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,95",
+                        "m": "5,00",
+                        "g": "5,60"
+                    }
+                },
+                {
+                    "name": "Pizza Salami",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "oder Pizza vegetarisch",
+                            "notices": []
+                        },
+                        {
+                            "name": "auf Vorbestellung",
+                            "notices": []
+                        },
+                        {
+                            "name": "eine Stunde vorher (06841 1627486)",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,15"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aktion",
+            "displayName": "Aktionstheke",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 165,
+                "g": 204,
+                "b": 102
+            },
+            "feedback": {
+                "start": "2023-12-01T10:15:00.000Z",
+                "end": "2023-12-02T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Hausgemachte Waffeln mit hei\u00dfen Kirschen",
+                    "notices": [
+                        "gl",
+                        "ei",
+                        "la",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,50"
+                    }
+                }
+            ]
+        }
+    ]
+}
