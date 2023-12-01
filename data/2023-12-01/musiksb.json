@@ -21,18 +21,13 @@
             },
             "meals": [
                 {
-                    "name": "Penne Rigate (aus biologischem Anbau)",
+                    "name": "Penne Rigate (aus biologischem Anbau) mit Karotten in K\u00e4sebechamelso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "ve",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Karotten in K\u00e4sebechamelso\u00dfe",
-                            "notices": [
-                                "ve",
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
@@ -93,21 +88,13 @@
             },
             "meals": [
                 {
-                    "name": "Bratwurst",
+                    "name": "Bratwurst mit Curryso\u00dfe",
                     "notices": [
                         "swf"
                     ],
                     "components": [
                         {
-                            "name": "Curryso\u00dfe",
-                            "notices": []
-                        },
-                        {
-                            "name": "Pommes Frites",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
+                            "name": "Beilage",
                             "notices": []
                         },
                         {

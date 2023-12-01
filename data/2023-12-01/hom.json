@@ -226,14 +226,29 @@
             },
             "meals": [
                 {
-                    "name": "Hausgemachte Waffeln mit hei\u00dfen Kirschen",
-                    "notices": [
-                        "gl",
-                        "ei",
-                        "la",
-                        "we"
+                    "name": "An der Essenausgabe",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Hausgemachte Waffeln",
+                            "notices": []
+                        },
+                        {
+                            "name": "mit hei\u00dfen Kirschen",
+                            "notices": [
+                                "gl",
+                                "ei",
+                                "la",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "und Vanillesauce",
+                            "notices": [
+                                "la"
+                            ]
+                        }
                     ],
-                    "components": [],
                     "prices": {
                         "s": "2,85",
                         "m": "3,90",

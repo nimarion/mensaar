@@ -21,25 +21,25 @@
             },
             "meals": [
                 {
-                    "name": "Penne Rigate (aus biologischem Anbau)",
+                    "name": "Penne Rigate (aus biologischem Anbau) mit Karotten in K\u00e4sebechamelso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "ve",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Karotten in K\u00e4sebechamelso\u00dfe",
-                            "notices": [
-                                "ve",
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    }
                 }
             ]
         }

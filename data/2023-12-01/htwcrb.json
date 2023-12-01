@@ -166,7 +166,34 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,25",
+                        "m": "5,30",
+                        "g": "5,95"
+                    },
                     "category": "mensaVital"
+                },
+                {
+                    "name": "Indisches Butter Chicken",
+                    "notices": [
+                        "gf",
+                        "kn",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "Makkaroni",
+                            "notices": [
+                                "ei",
+                                "we"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    }
                 }
             ]
         }
