@@ -21,21 +21,15 @@
             },
             "meals": [
                 {
-                    "name": "S\u00fc\u00dfkartoffel-Curry",
+                    "name": "S\u00fc\u00dfkartoffel-Curry mit Br\u00f6tchen",
                     "notices": [
                         "kn",
                         "la",
                         "sl",
-                        "snf"
+                        "snf",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -90,35 +84,25 @@
             },
             "meals": [
                 {
-                    "name": "Hackst\u00fcck",
+                    "name": "Hackst\u00fcck mit J\u00e4gerso\u00dfe",
                     "notices": [
                         "gv",
                         "swf",
                         "ei",
                         "snf",
-                        "we"
+                        "we",
+                        "ks",
+                        "ao",
+                        "al",
+                        "la",
+                        "sw"
                     ],
                     "components": [
-                        {
-                            "name": "J\u00e4gerso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "ao",
-                                "swf",
-                                "al",
-                                "la",
-                                "sw"
-                            ]
-                        },
                         {
                             "name": "Hausgemachter Kartoffelstampf",
                             "notices": [
                                 "la"
                             ]
-                        },
-                        {
-                            "name": "Alternativbeilage",
-                            "notices": []
                         },
                         {
                             "name": "Karottensalat",

@@ -78,20 +78,15 @@
             },
             "meals": [
                 {
-                    "name": "Bolognese",
+                    "name": "Spaghetti, Bolognese",
                     "notices": [
+                        "we",
                         "nsf",
                         "kn",
                         "la",
                         "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Spaghetti",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -153,7 +148,33 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    }
+                },
+                {
+                    "name": "Putenragout Mango-Tomaten mit Bandnudeln",
+                    "notices": [
+                        "gf",
+                        "ei",
+                        "la",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 }
             ]
         }

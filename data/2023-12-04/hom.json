@@ -85,8 +85,10 @@
                             ]
                         },
                         {
-                            "name": "Pommes Frites/Alternative",
-                            "notices": []
+                            "name": "Pommes Frites/Kartoffel-Specksalat",
+                            "notices": [
+                                "swf"
+                            ]
                         },
                         {
                             "name": "Salat",
@@ -142,6 +144,15 @@
                             ]
                         },
                         {
+                            "name": "oder Blumenkohlbratling",
+                            "notices": [
+                                "ei",
+                                "la",
+                                "sl",
+                                "we"
+                            ]
+                        },
+                        {
                             "name": "und Br\u00f6tchen",
                             "notices": [
                                 "gl",
@@ -176,6 +187,30 @@
                         "s": "4,50",
                         "m": "5,55",
                         "g": "6,15"
+                    }
+                },
+                {
+                    "name": "Zwiebelfleisch vom Rind",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "mit Gem\u00fcse",
+                            "notices": [
+                                "gv",
+                                "kn",
+                                "la",
+                                "sl"
+                            ]
+                        },
+                        {
+                            "name": "und Reis aus biologischem Anbau",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,50",
+                        "m": "4,55",
+                        "g": "5,15"
                     }
                 }
             ]

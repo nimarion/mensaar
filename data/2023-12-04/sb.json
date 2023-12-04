@@ -21,21 +21,15 @@
             },
             "meals": [
                 {
-                    "name": "S\u00fc\u00dfkartoffel-Curry",
+                    "name": "S\u00fc\u00dfkartoffel-Curry mit Br\u00f6tchen",
                     "notices": [
                         "kn",
                         "la",
                         "sl",
-                        "snf"
+                        "snf",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -90,31 +84,23 @@
             },
             "meals": [
                 {
-                    "name": "Hackst\u00fcck",
+                    "name": "Hackst\u00fcck mit J\u00e4gerso\u00dfe",
                     "notices": [
                         "gv",
                         "swf",
                         "ei",
                         "snf",
-                        "we"
+                        "we",
+                        "ks",
+                        "ao",
+                        "al",
+                        "la",
+                        "sw"
                     ],
                     "components": [
                         {
-                            "name": "J\u00e4gerso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "ao",
-                                "swf",
-                                "al",
-                                "la",
-                                "sw"
-                            ]
-                        },
-                        {
-                            "name": "Hausgemachter Kartoffelstampf",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Salzkartoffel",
+                            "notices": []
                         },
                         {
                             "name": "Alternativbeilage",
@@ -168,6 +154,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,20"
+                    },
                     "category": "mensaVital"
                 },
                 {
@@ -177,6 +168,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "3,30",
+                        "m": "4,35",
+                        "g": "5,00"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -184,7 +180,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -228,9 +224,19 @@
                             "notices": []
                         },
                         {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
+                        },
+                        {
                             "name": "Klare Salatso\u00dfe",
                             "notices": [
                                 "snf"
+                            ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
                             ]
                         }
                     ],
@@ -261,44 +267,47 @@
             },
             "meals": [
                 {
-                    "name": "PastaBoccolotti",
+                    "name": "PastaBoccolotti mit Bolognese So\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "nsf",
+                        "kn",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Bolognese So\u00dfe",
-                            "notices": [
-                                "nsf",
-                                "kn",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,60",
+                        "m": "4,65",
+                        "g": "5,30"
+                    }
                 },
                 {
-                    "name": "PastaBoccolotti",
+                    "name": "Pasta Verdura",
                     "notices": [
+                        "sl",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Tomatenso\u00dfe",
-                            "notices": []
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,00",
+                        "m": "4,05",
+                        "g": "4,70"
+                    },
+                    "category": "Vegan"
                 }
             ]
         }

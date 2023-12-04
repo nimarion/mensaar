@@ -21,19 +21,13 @@
             },
             "meals": [
                 {
-                    "name": "Bulgur",
+                    "name": "Bulgur mit Gem\u00fcseragout",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "so"
                     ],
                     "components": [
-                        {
-                            "name": "Gem\u00fcseragout",
-                            "notices": [
-                                "kn",
-                                "so",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -155,9 +149,18 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Pasta mit Karottencreme",
+                    "notices": [
+                        "gl",
+                        "la",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "3,85",
+                        "g": "4,50"
+                    }
                 }
             ]
         }
