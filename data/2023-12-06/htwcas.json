@@ -166,9 +166,19 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Pasta-Gem\u00fcse-Gratin",
+                    "notices": [
+                        "ei",
+                        "la",
+                        "sl",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    }
                 }
             ]
         }

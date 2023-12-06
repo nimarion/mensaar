@@ -21,13 +21,18 @@
             },
             "meals": [
                 {
-                    "name": "Vietnamesische Nudel-Bowl mit gebratenem Tofu",
+                    "name": "Klimateller: Vietnamesische Nudel-Bowl mit gebratenem Tofu",
                     "notices": [
                         "kn",
                         "so",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,60",
+                        "m": "4,65",
+                        "g": "5,30"
+                    }
                 }
             ]
         }

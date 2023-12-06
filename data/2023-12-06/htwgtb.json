@@ -21,19 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "PastaBoccolotti",
+                    "name": "PastaBoccolotti, So\u00dfe alla romana",
                     "notices": [
-                        "we"
+                        "we",
+                        "al",
+                        "kn",
+                        "sw"
                     ],
                     "components": [
-                        {
-                            "name": "Vegan: So\u00dfe alla romana",
-                            "notices": [
-                                "al",
-                                "kn",
-                                "sw"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
@@ -102,10 +97,6 @@
                     "components": [
                         {
                             "name": "Salzkartoffeln (aus der Region)",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
                             "notices": []
                         },
                         {
