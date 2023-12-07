@@ -21,17 +21,11 @@
             },
             "meals": [
                 {
-                    "name": "Kichererbsencurry",
+                    "name": "Kichererbsencurry mit Ebly",
                     "notices": [
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Ebly",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -78,22 +72,16 @@
             },
             "meals": [
                 {
-                    "name": "K\u00e4sew\u00fcrstchen",
+                    "name": "K\u00e4sew\u00fcrstchen mit Pasta-Pfanne Mediteran",
                     "notices": [
                         "ph",
                         "swf",
                         "kn",
-                        "la"
+                        "la",
+                        "ao",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Pasta-Pfanne Mediteran",
-                            "notices": [
-                                "ao",
-                                "kn",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -149,9 +137,20 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Basmatireis mit Curryso\u00dfe mit buntem Gem\u00fcse",
+                    "notices": [
+                        "ks",
+                        "la",
+                        "sl",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "3,85",
+                        "g": "4,50"
+                    }
                 }
             ]
         }

@@ -21,20 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "Linseneintopf-vegan-",
+                    "name": "Linseneintopf mit Br\u00f6tchen",
                     "notices": [
                         "gv",
                         "sl",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunter Wei\u00dfkrautsalat",
                             "notices": [
@@ -82,10 +76,6 @@
                     "components": [
                         {
                             "name": "Reis (aus biologischem Anbau)",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
                             "notices": []
                         },
                         {

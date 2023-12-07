@@ -21,20 +21,16 @@
             },
             "meals": [
                 {
-                    "name": "Linseneintopf-vegan-",
+                    "name": "Gem\u00fcseschnitzel mit So\u00dfeund Salzkartoffel",
                     "notices": [
                         "gv",
                         "sl",
-                        "we"
+                        "we",
+                        "ei",
+                        "kn",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunter Wei\u00dfkrautsalat",
                             "notices": [
@@ -77,11 +73,23 @@
             },
             "meals": [
                 {
-                    "name": "Rindergeschnetzeltes s\u00fc\u00df-sauer",
-                    "notices": [],
+                    "name": "Rheinischer Sauerbraten",
+                    "notices": [
+                        "al",
+                        "nsf",
+                        "sw",
+                        "ma"
+                    ],
                     "components": [
                         {
-                            "name": "Reis (aus biologischem Anbau)",
+                            "name": "Apfelrotkohl",
+                            "notices": [
+                                "al",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Kartoffelkl\u00f6\u00dfe",
                             "notices": []
                         },
                         {
@@ -109,10 +117,9 @@
                             ]
                         },
                         {
-                            "name": "Nuss-Nougatpudding",
+                            "name": "Grie\u00df-Pudding",
                             "notices": [
-                                "la",
-                                "has"
+                                "we"
                             ]
                         }
                     ],
@@ -162,10 +169,15 @@
                             "name": "Kartoffelkl\u00f6\u00dfe",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "6,20",
+                        "g": "7,05"
+                    }
                 },
                 {
-                    "name": "Rotes Linsengem\u00fcse(Mediterran)",
+                    "name": "Rotes Linsengem\u00fcse (Mediterran)",
                     "notices": [
                         "kn"
                     ],
@@ -175,6 +187,11 @@
                             "notices": []
                         }
                     ],
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -182,7 +199,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -230,6 +247,28 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Chinesischer Karottensalat",
+                            "notices": [
+                                "so"
+                            ]
+                        },
+                        {
+                            "name": "Tofu",
+                            "notices": [
+                                "so"
+                            ]
                         }
                     ],
                     "prices": {
@@ -259,34 +298,18 @@
             },
             "meals": [
                 {
-                    "name": "Hamburger Italian Bastard",
-                    "notices": [
-                        "ks",
-                        "ao",
-                        "swf",
-                        "kn",
-                        "azf",
-                        "ei",
-                        "la",
-                        "snf",
-                        "se",
-                        "we",
-                        "kas"
-                    ],
-                    "components": []
-                },
-                {
-                    "name": "Hamburger Veggie Berlin",
-                    "notices": [
-                        "kn",
-                        "so",
-                        "la",
-                        "we",
-                        "ro",
-                        "ge",
-                        "has"
-                    ],
-                    "components": []
+                    "name": "In der Zeit vom 06.12. - 08.12.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }
