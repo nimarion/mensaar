@@ -160,9 +160,24 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Brizza Salami (Brezelpizza)",
+                    "notices": [
+                        "fs",
+                        "ks",
+                        "ao",
+                        "swf",
+                        "al",
+                        "kn",
+                        "la",
+                        "we",
+                        "ge"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "5,40",
+                        "m": "6,45",
+                        "g": "7,10"
+                    }
                 }
             ]
         }

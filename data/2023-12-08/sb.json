@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -169,7 +191,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,20"
+                    }
                 },
                 {
                     "name": "Rote-Bete-Gnocchi-Pfanne mit Spinat, Tomaten und Waln\u00fcssen",
@@ -179,6 +206,11 @@
                         "wa"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,30",
+                        "m": "5,35",
+                        "g": "6,00"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -186,7 +218,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -234,6 +266,12 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
                         }
                     ],
                     "prices": {
@@ -241,6 +279,40 @@
                         "m": "4,50",
                         "g": "5,20"
                     }
+                }
+            ]
+        },
+        {
+            "id": "mensacafe",
+            "displayName": "Mensacaf\u00e9",
+            "description": "Erdgeschoss",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2023-12-08T10:15:00.000Z",
+                "end": "2023-12-09T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "In der Zeit vom 06.12. - 08.12.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }

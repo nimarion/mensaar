@@ -28,6 +28,11 @@
                         "wa"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,30",
+                        "m": "5,35",
+                        "g": "6,00"
+                    },
                     "category": "Vegan"
                 }
             ]

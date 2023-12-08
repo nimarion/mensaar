@@ -80,19 +80,14 @@
             },
             "meals": [
                 {
-                    "name": "Tonno",
+                    "name": "Tonno mit Cous Cous",
                     "notices": [
                         "ks",
                         "kn",
-                        "fi"
+                        "fi",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Cous Cous",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -155,7 +150,32 @@
                         "sl",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,40",
+                        "m": "5,45",
+                        "g": "6,10"
+                    }
+                },
+                {
+                    "name": "H\u00e4hnchen Thai Curry",
+                    "notices": [
+                        "gf",
+                        "kn",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Basmatireis",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 }
             ]
         }
