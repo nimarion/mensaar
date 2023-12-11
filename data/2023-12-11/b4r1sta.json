@@ -21,19 +21,19 @@
             },
             "meals": [
                 {
-                    "name": "Rote Bete (aus regionalem Anbau) \u00e0 la Bourguignonne",
+                    "name": "Rote Bete (aus regionalem Anbau) \u00e0 la Bourguignon mit Kartoffelkl\u00f6\u00dfe",
                     "notices": [
                         "al",
                         "kn",
                         "sw",
                         "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Kartoffelkl\u00f6\u00dfe",
-                            "notices": []
-                        }
-                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
                     "category": "Vegan"
                 }
             ]

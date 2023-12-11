@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,21 +43,16 @@
             },
             "meals": [
                 {
-                    "name": "Rigatoni (biologischer Anbau)",
+                    "name": "Pasta mit K\u00fcrbis-Curryso\u00dfe",
                     "notices": [
                         "ve",
                         "bio",
-                        "we"
+                        "we",
+                        "la",
+                        "sl",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "K\u00fcrbis-Curryso\u00dfe",
-                            "notices": [
-                                "la",
-                                "sl",
-                                "snf"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
@@ -43,23 +60,13 @@
                             ]
                         },
                         {
-                            "name": "Bunt gemischter Blattsalat",
-                            "notices": []
-                        },
-                        {
-                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "name": "Krautsalat",
                             "notices": [
                                 "sm",
                                 "ei",
                                 "la",
                                 "snf",
                                 "we"
-                            ]
-                        },
-                        {
-                            "name": "Klare Salatso\u00dfe",
-                            "notices": [
-                                "snf"
                             ]
                         },
                         {
@@ -94,25 +101,18 @@
             },
             "meals": [
                 {
-                    "name": "Pfannengyros vom Schwein",
+                    "name": "Pfannengyros vom Schwein mit Knoblauchso\u00dfe",
                     "notices": [
                         "swf",
                         "kn",
                         "sl",
-                        "snf"
+                        "snf",
+                        "sm",
+                        "ei",
+                        "la",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Knoblauchso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "kn",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Pommes Frites",
                             "notices": []
@@ -161,49 +161,42 @@
             },
             "meals": [
                 {
-                    "name": "Weihnachtsmen\u00fc 2023",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "Bouef Bourguignone",
-                            "notices": [
-                                "al",
-                                "kn",
-                                "sw",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Kartoffelkl\u00f6\u00dfe",
-                            "notices": []
-                        }
-                    ]
+                    "name": "Bouef Bourguignon mit Reis",
+                    "notices": [
+                        "al",
+                        "kn",
+                        "sw",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    }
                 },
                 {
-                    "name": "Weihnachtsmen\u00fc 2023",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "Vegan: Rote Bete (aus regionalem Anbau) \u00e0 la Bourguignonne",
-                            "notices": [
-                                "al",
-                                "kn",
-                                "sw",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Kartoffelkl\u00f6\u00dfe",
-                            "notices": []
-                        }
-                    ]
+                    "name": "Rote Bete (aus regionalem Anbau) \u00e0 la Bourguignon mit Reis",
+                    "notices": [
+                        "al",
+                        "kn",
+                        "sw",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,05",
+                        "m": "4,10",
+                        "g": "4,75"
+                    },
+                    "category": "Vegan"
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -251,6 +244,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -280,24 +287,18 @@
             },
             "meals": [
                 {
-                    "name": "T\u00fcrkische Pizza Lahmacun",
-                    "notices": [
-                        "kn",
-                        "so",
-                        "la",
-                        "we"
-                    ],
-                    "components": []
-                },
-                {
-                    "name": "Vegetarische T\u00fcrkische Pizza Lahmacun",
-                    "notices": [
-                        "kn",
-                        "so",
-                        "la",
-                        "we"
-                    ],
-                    "components": []
+                    "name": "In der Zeit vom 11.12.2023 - 15.12.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }

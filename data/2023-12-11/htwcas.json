@@ -82,22 +82,17 @@
             },
             "meals": [
                 {
-                    "name": "Spaghetti",
+                    "name": "Spaghetti \u201eBolognese\u201c",
                     "notices": [
-                        "we"
+                        "we",
+                        "ks",
+                        "nsf",
+                        "kn",
+                        "ei",
+                        "la",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Bolognese",
-                            "notices": [
-                                "ks",
-                                "nsf",
-                                "kn",
-                                "ei",
-                                "la",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
@@ -161,34 +156,34 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Kichererbsencurry mit Sp\u00e4tzle",
+                    "notices": [
+                        "we",
+                        "ei"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    },
+                    "category": "Vegan"
                 },
                 {
-                    "name": "Gem\u00fcsestrudel",
+                    "name": "Gem\u00fcsestrudel mit Bandnudeln und Karotten-Kr\u00e4uter-Creme",
                     "notices": [
                         "gv",
                         "la",
                         "se",
-                        "we"
+                        "we",
+                        "ei"
                     ],
-                    "components": [
-                        {
-                            "name": "Karotten-Kr\u00e4uter-Creme",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Bandnudeln",
-                            "notices": [
-                                "ei",
-                                "we"
-                            ]
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,90"
+                    }
                 }
             ]
         }

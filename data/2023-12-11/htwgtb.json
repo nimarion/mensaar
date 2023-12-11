@@ -21,21 +21,16 @@
             },
             "meals": [
                 {
-                    "name": "Rigatoni (biologischer Anbau)",
+                    "name": "Rigatoni (biologischer Anbau) mit K\u00fcrbis-Curryso\u00dfe",
                     "notices": [
                         "ve",
                         "bio",
-                        "we"
+                        "we",
+                        "la",
+                        "sl",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "K\u00fcrbis-Curryso\u00dfe",
-                            "notices": [
-                                "la",
-                                "sl",
-                                "snf"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
@@ -94,27 +89,20 @@
             },
             "meals": [
                 {
-                    "name": "Pfannengyros vom Schwein",
+                    "name": "Pfannengyros vom Schwein mit Knoblauchso\u00dfe",
                     "notices": [
                         "swf",
                         "kn",
                         "sl",
-                        "snf"
+                        "snf",
+                        "sm",
+                        "ei",
+                        "la",
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "Knoblauchso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "kn",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Pommes Frites",
+                            "name": "Beilage",
                             "notices": []
                         },
                         {

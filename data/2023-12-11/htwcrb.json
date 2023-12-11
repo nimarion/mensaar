@@ -79,20 +79,15 @@
             },
             "meals": [
                 {
-                    "name": "Ratatouille-Hackfleischso\u00dfe",
+                    "name": "Ratatouille-Hackfleischso\u00dfe mit Makkaroni",
                     "notices": [
                         "ks",
                         "nsf",
-                        "kn"
+                        "kn",
+                        "ei",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Makkaroni",
-                            "notices": [
-                                "ei",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Eisbergsalat",
                             "notices": []
@@ -153,7 +148,12 @@
                         "la",
                         "sw"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,00",
+                        "m": "4,05",
+                        "g": "4,70"
+                    }
                 }
             ]
         }
