@@ -1,0 +1,194 @@
+{
+    "date": "2023-12-11T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "menue1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-12-11T10:15:00.000Z",
+                "end": "2023-12-12T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Schw\u00e4bische Schupfnudeln",
+                    "notices": [
+                        "gl",
+                        "ei",
+                        "la",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Karotten-Lauchgem\u00fcse",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "menue2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 235,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2023-12-11T10:15:00.000Z",
+                "end": "2023-12-12T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Paniertes H\u00e4hnchenbrustfilet gebacken",
+                    "notices": [
+                        "gf",
+                        "ei",
+                        "la",
+                        "nu",
+                        "sl",
+                        "snf"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Champignon-Bechamel",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Pommes Frites/Alternative",
+                            "notices": []
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "wahl",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:10:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-12-11T10:10:00.000Z",
+                "end": "2023-12-12T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Bunter Italienischer Salatteller",
+                    "notices": [
+                        "ao",
+                        "swf",
+                        "ei",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "se"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,85"
+                    }
+                },
+                {
+                    "name": "Pizza Salami",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "oder Pizza vegetarisch",
+                            "notices": []
+                        },
+                        {
+                            "name": "auf Vorbestellung",
+                            "notices": []
+                        },
+                        {
+                            "name": "eine Stunde vorher (06841 1627486)",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,15"
+                    }
+                }
+            ]
+        }
+    ]
+}
