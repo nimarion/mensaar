@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Cheese-Rigatoni mit R\u00f6stzwiebeln",
+                    "name": "Cheese-Teigwaren mit R\u00f6stzwiebeln",
                     "notices": [
                         "gl",
                         "la",
@@ -78,7 +78,7 @@
                     ],
                     "components": [
                         {
-                            "name": "Reis aus biologischem Anbau/Alternative",
+                            "name": "Reis/Alternative",
                             "notices": []
                         },
                         {
@@ -148,27 +148,7 @@
                         "m": "5,25",
                         "g": "5,85"
                     }
-                }
-            ]
-        },
-        {
-            "id": "aktion",
-            "displayName": "Aktionstheke",
-            "description": "",
-            "openingHours": {
-                "start": "1970-01-01T11:15:00.000Z",
-                "end": "1970-01-01T14:00:00.000Z"
-            },
-            "color": {
-                "r": 165,
-                "g": 204,
-                "b": 102
-            },
-            "feedback": {
-                "start": "2023-12-12T10:15:00.000Z",
-                "end": "2023-12-13T13:00:00.000Z"
-            },
-            "meals": [
+                },
                 {
                     "name": "Pizza vegetarisch",
                     "notices": [],

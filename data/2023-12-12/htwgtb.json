@@ -74,23 +74,17 @@
             },
             "meals": [
                 {
-                    "name": "Edamame Avocado Bratling",
-                    "notices": [],
+                    "name": "Edamame Avocado Bratling mit Chili-Kr\u00e4uterdip",
+                    "notices": [
+                        "so",
+                        "la",
+                        "snf",
+                        "we"
+                    ],
                     "components": [
                         {
-                            "name": "Chili-Kr\u00e4uterdip",
-                            "notices": [
-                                "so",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "Pommes Wedges",
-                            "notices": [
-                                "we"
-                            ]
+                            "name": "Beilage",
+                            "notices": []
                         },
                         {
                             "name": "Bunt gemischter Blattsalat",

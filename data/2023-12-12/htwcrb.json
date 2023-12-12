@@ -86,25 +86,19 @@
             },
             "meals": [
                 {
-                    "name": "VeggieDay: Quinoa-Gr\u00fcnkohl-Bratling",
+                    "name": "VeggieDay: Quinoa-Gr\u00fcnkohl-Bratling mit  Knoblauchso\u00dfe",
                     "notices": [
                         "so",
                         "we",
-                        "di"
+                        "di",
+                        "kn",
+                        "la"
                     ],
                     "components": [
                         {
                             "name": "Hausgemachter Kartoffelstampf",
                             "notices": [
                                 "la"
-                            ]
-                        },
-                        {
-                            "name": "Knoblauchso\u00dfe",
-                            "notices": [
-                                "kn",
-                                "la",
-                                "we"
                             ]
                         },
                         {
@@ -160,7 +154,7 @@
             },
             "meals": [
                 {
-                    "name": "Gef\u00fcllte Paprikaschote",
+                    "name": "Gef\u00fcllte Paprikaschote mit Rosmarinso\u00dfe",
                     "notices": [
                         "sl",
                         "snf",
@@ -172,12 +166,13 @@
                             "notices": [
                                 "we"
                             ]
-                        },
-                        {
-                            "name": "Rosmarinso\u00dfe",
-                            "notices": []
                         }
                     ],
+                    "prices": {
+                        "s": "3,70",
+                        "m": "4,75",
+                        "g": "5,40"
+                    },
                     "category": "Vegan"
                 }
             ]

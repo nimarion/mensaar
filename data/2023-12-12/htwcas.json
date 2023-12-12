@@ -21,21 +21,15 @@
             },
             "meals": [
                 {
-                    "name": "Sp\u00e4tzle mit Gem\u00fcse",
+                    "name": "Sp\u00e4tzle mit Gem\u00fcse und Frischk\u00e4seso\u00dfe",
                     "notices": [
                         "ei",
                         "sl",
                         "snf",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Frischk\u00e4seso\u00dfe",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -159,9 +153,18 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Farfalle mit Ratatouilleso\u00dfe",
+                    "notices": [
+                        "we",
+                        "ks",
+                        "kn"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,55"
+                    }
                 },
                 {
                     "name": "Vegetarischer Cheeseburger",
@@ -183,7 +186,12 @@
                                 "sl"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,80",
+                        "m": "7,20",
+                        "g": "8,05"
+                    }
                 }
             ]
         }

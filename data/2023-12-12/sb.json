@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,10 +43,8 @@
             },
             "meals": [
                 {
-                    "name": "Bandnudel mit Tomate, Zucchini und Hartk\u00e4se",
+                    "name": "Pasta mit Tomaten-B\u00e9chamelso\u00dfe",
                     "notices": [
-                        "ks",
-                        "ei",
                         "la",
                         "we"
                     ],
@@ -74,18 +94,14 @@
             },
             "meals": [
                 {
-                    "name": "Edamame Avocado Bratling",
-                    "notices": [],
+                    "name": "Edamame Avocado Bratling mit Chili-Kr\u00e4uterdip",
+                    "notices": [
+                        "so",
+                        "la",
+                        "snf",
+                        "we"
+                    ],
                     "components": [
-                        {
-                            "name": "Chili-Kr\u00e4uterdip",
-                            "notices": [
-                                "so",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Pommes Wedges",
                             "notices": [
@@ -144,27 +160,44 @@
             },
             "meals": [
                 {
-                    "name": "Gr\u00fcnkohl-Hanf-Sandwich",
+                    "name": "Rum\u00e4nisches Kartoffelgulasch\nBr\u00f6tchen",
+                    "notices": [
+                        "kn",
+                        "la",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    }
+                },
+                {
+                    "name": "Gr\u00fcnkohl-Hanf-Sandwich mit veganem Kr\u00e4uter-Dip",
                     "notices": [
                         "ba",
                         "vn",
                         "se",
                         "we",
                         "ge",
-                        "ha"
+                        "ha",
+                        "so"
                     ],
-                    "components": [
-                        {
-                            "name": "Vegan: Kr\u00e4uter-Dip",
-                            "notices": [
-                                "vn",
-                                "so"
-                            ]
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "5,15",
+                        "m": "6,20",
+                        "g": "6,85"
+                    }
                 },
                 {
-                    "name": "Gebratene Bratwurst",
+                    "name": "Klimateller: Gebratene Bratwurst mit Curryso\u00dfe",
                     "notices": [
                         "kn",
                         "so",
@@ -172,22 +205,22 @@
                     ],
                     "components": [
                         {
-                            "name": "Curryso\u00dfe",
-                            "notices": []
-                        },
-                        {
-                            "name": "Pommes Frites",
+                            "name": "Steakhouse Pommes",
                             "notices": []
                         }
                     ],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "3,70",
+                        "m": "4,75",
+                        "g": "5,40"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -235,6 +268,24 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Cocktailso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -264,15 +315,18 @@
             },
             "meals": [
                 {
-                    "name": "Pizza Vier K\u00e4se",
-                    "notices": [
-                        "ks",
-                        "lab",
-                        "ei",
-                        "la",
-                        "we"
-                    ],
-                    "components": []
+                    "name": "In der Zeit vom 11.12.2023 - 15.12.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }
