@@ -21,13 +21,18 @@
             },
             "meals": [
                 {
-                    "name": "Gebratener Reis mit exotischem Gem\u00fcse",
+                    "name": "Gebratene Nudeln mit exotischem Gem\u00fcse",
                     "notices": [
                         "so",
                         "se",
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "2,65",
+                        "m": "3,70",
+                        "g": "4,35"
+                    },
                     "category": "Vegan"
                 }
             ]

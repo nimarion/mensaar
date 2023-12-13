@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Gnocchi tricolore",
+                    "name": "Weihnachtsmen\u00fc:Gnocchi tricolore",
                     "notices": [
                         "ei",
                         "we"
@@ -30,7 +30,8 @@
                         {
                             "name": "mit Basilikum-Tomatensahne",
                             "notices": [
-                                "la"
+                                "la",
+                                "ma"
                             ]
                         },
                         {
@@ -46,15 +47,11 @@
                             ]
                         },
                         {
-                            "name": "Bratapfelquark mit Mandelbl\u00e4ttchen",
-                            "notices": [
-                                "ao",
-                                "la",
-                                "ma"
-                            ]
+                            "name": "Dessert",
+                            "notices": []
                         },
                         {
-                            "name": "Gem\u00fcsekraftbr\u00fche mit Fl\u00e4dle",
+                            "name": "Gem\u00fcsekraftbr\u00fche",
                             "notices": [
                                 "ba",
                                 "ei",
@@ -91,7 +88,7 @@
             },
             "meals": [
                 {
-                    "name": "Kalbsgeschnetzeltes mit Karotten",
+                    "name": "Weihnachtsmen\u00fc:Kalbsgeschnetzeltes mit Karotten",
                     "notices": [],
                     "components": [
                         {
@@ -118,23 +115,11 @@
                             "notices": []
                         },
                         {
-                            "name": "Dressing",
-                            "notices": [
-                                "kn",
-                                "sl",
-                                "snf"
-                            ]
+                            "name": "Dessert",
+                            "notices": []
                         },
                         {
-                            "name": "Bratapfelquark mit Mandelbl\u00e4ttchen",
-                            "notices": [
-                                "ao",
-                                "la",
-                                "ma"
-                            ]
-                        },
-                        {
-                            "name": "Gem\u00fcsekraftbr\u00fche mit Fl\u00e4dle",
+                            "name": "Gem\u00fcsekraftbr\u00fche",
                             "notices": [
                                 "ba",
                                 "ei",
@@ -172,7 +157,12 @@
             "meals": [
                 {
                     "name": "Bunter Salatteller mit Anti-Pasti",
-                    "notices": [],
+                    "notices": [
+                        "fs",
+                        "ao",
+                        "su",
+                        "sw"
+                    ],
                     "components": [
                         {
                             "name": "Br\u00f6tchen",
@@ -186,29 +176,6 @@
                         "s": "4,20",
                         "m": "5,25",
                         "g": "5,85"
-                    }
-                },
-                {
-                    "name": "Pizza Salami",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "oder Pizza vegetarisch",
-                            "notices": []
-                        },
-                        {
-                            "name": "auf Vorbestellung",
-                            "notices": []
-                        },
-                        {
-                            "name": "eine Stunde vorher (06841 1627486)",
-                            "notices": []
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,50",
-                        "m": "5,55",
-                        "g": "6,15"
                     }
                 }
             ]

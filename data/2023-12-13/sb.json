@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,24 +43,12 @@
             },
             "meals": [
                 {
-                    "name": "Italienischer Gem\u00fcsereis",
+                    "name": "Pasta mit Tomaten-B\u00e9chamelso\u00dfe",
                     "notices": [
-                        "ao",
-                        "al",
-                        "kn",
-                        "sw"
+                        "la",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Kr\u00e4uterdip",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -68,8 +78,7 @@
                         "s": "2,80",
                         "m": "5,30",
                         "g": "7,50"
-                    },
-                    "category": "Vegan"
+                    }
                 }
             ]
         },
@@ -92,7 +101,7 @@
             },
             "meals": [
                 {
-                    "name": "K\u00f6ttbullar",
+                    "name": "K\u00f6ttbullar mit  Kr\u00e4uterdip",
                     "notices": [
                         "swf",
                         "ei",
@@ -101,21 +110,13 @@
                         "sl",
                         "snf",
                         "we",
-                        "ge"
+                        "ge",
+                        "sm"
                     ],
                     "components": [
                         {
-                            "name": "Rahmso\u00dfe mit Champignons",
-                            "notices": [
-                                "ao",
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Hausgemachter Kartoffelstampf",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Salzkartoffel",
+                            "notices": []
                         },
                         {
                             "name": "Karottensalat mit Erbsen",
@@ -168,16 +169,26 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "6,35",
+                        "m": "7,40",
+                        "g": "8,05"
+                    }
                 },
                 {
-                    "name": "Gebratener Reis mit exotischem Gem\u00fcse",
+                    "name": "Gebratene Nudeln mit exotischem Gem\u00fcse",
                     "notices": [
                         "so",
                         "se",
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "2,65",
+                        "m": "3,70",
+                        "g": "4,35"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -185,7 +196,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -233,6 +244,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Schnittlauch-Senfdressing",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -262,49 +287,16 @@
             },
             "meals": [
                 {
-                    "name": "Spaghetti (aus biologischem Anbau)",
-                    "notices": [
-                        "we"
-                    ],
+                    "name": "In der Zeit vom 11.12.2023 - 15.12.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
                     "components": [
                         {
-                            "name": "Carbonara (Schinkensahneso\u00dfe)",
-                            "notices": [
-                                "ks",
-                                "ao",
-                                "swf",
-                                "la"
-                            ]
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
                         },
                         {
-                            "name": "Geriebener K\u00e4se",
-                            "notices": [
-                                "la"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "Spaghetti (aus biologischem Anbau)",
-                    "notices": [
-                        "we"
-                    ],
-                    "components": [
-                        {
-                            "name": "So\u00dfe Florentiner Art",
-                            "notices": [
-                                "ks",
-                                "kn",
-                                "ve",
-                                "ei",
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Geriebener K\u00e4se",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
                         }
                     ]
                 }

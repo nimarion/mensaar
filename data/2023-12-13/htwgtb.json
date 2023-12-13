@@ -21,24 +21,19 @@
             },
             "meals": [
                 {
-                    "name": "Italienischer Gem\u00fcsereis",
+                    "name": "Italienischer Gem\u00fcsereis mit Kr\u00e4uterdip",
                     "notices": [
                         "ao",
                         "al",
                         "kn",
-                        "sw"
+                        "sw",
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Kr\u00e4uterdip",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -92,7 +87,7 @@
             },
             "meals": [
                 {
-                    "name": "K\u00f6ttbullar",
+                    "name": "K\u00f6ttbullar mit Rahmso\u00dfe und Champignons",
                     "notices": [
                         "swf",
                         "ei",
@@ -101,16 +96,10 @@
                         "sl",
                         "snf",
                         "we",
-                        "ge"
+                        "ge",
+                        "ao"
                     ],
                     "components": [
-                        {
-                            "name": "Rahmso\u00dfe mit Champignons",
-                            "notices": [
-                                "ao",
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Hausgemachter Kartoffelstampf",
                             "notices": [

@@ -21,18 +21,11 @@
             },
             "meals": [
                 {
-                    "name": "Pasta Farfalle",
+                    "name": "Pasta Farfalle und Gr\u00fcnkernragout mit dreierlei Gem\u00fcse",
                     "notices": [
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Gr\u00fcnkernragout mit dreierlei Gem\u00fcse",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -79,27 +72,21 @@
             },
             "meals": [
                 {
-                    "name": "Crispy Chickenbratling (pikant)",
+                    "name": "Crispy Chickenbratling (pikant) mit Red-Curryso\u00dfe",
                     "notices": [
                         "fs",
                         "gf",
                         "azf",
                         "we",
-                        "ge"
+                        "ge",
+                        "ks",
+                        "kr",
+                        "fi",
+                        "la",
+                        "sl",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Red-Curryso\u00dfe",
-                            "notices": [
-                                "ks",
-                                "kr",
-                                "fi",
-                                "la",
-                                "sl",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Basmatireis",
                             "notices": []
@@ -159,9 +146,20 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Tofu-Ragout mit Gem\u00fcse und Reis",
+                    "notices": [
+                        "fs",
+                        "so",
+                        "la",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "3,40",
+                        "m": "4,45",
+                        "g": "5,10"
+                    }
                 },
                 {
                     "name": "Weihnachtsmen\u00fc:",
@@ -199,13 +197,16 @@
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "7,95",
+                        "m": "9,35",
+                        "g": "10,20"
+                    }
                 },
                 {
-                    "name": "Weihnachtsmen\u00fc:",
-                    "notices": [
-                        "we"
-                    ],
+                    "name": "Vegetarisches Weihnachtsmen\u00fc:",
+                    "notices": [],
                     "components": [
                         {
                             "name": "Maronencremesuppe",
@@ -248,7 +249,12 @@
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "7,55",
+                        "m": "8,95",
+                        "g": "9,85"
+                    }
                 }
             ]
         }
