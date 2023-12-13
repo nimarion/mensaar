@@ -1,0 +1,142 @@
+{
+    "date": "2023-12-13T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:30:00.000Z"
+            },
+            "color": {
+                "r": 208,
+                "g": 210,
+                "b": 105
+            },
+            "feedback": {
+                "start": "2023-12-13T10:30:00.000Z",
+                "end": "2023-12-14T13:30:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Italienischer Gem\u00fcsereis",
+                    "notices": [
+                        "ao",
+                        "al",
+                        "kn",
+                        "sw"
+                    ],
+                    "components": [
+                        {
+                            "name": "Kr\u00e4uterdip",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Bunt gemischter Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    },
+                    "category": "Vegan"
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:30:00.000Z"
+            },
+            "color": {
+                "r": 140,
+                "g": 140,
+                "b": 140
+            },
+            "feedback": {
+                "start": "2023-12-13T10:30:00.000Z",
+                "end": "2023-12-14T13:30:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "K\u00f6ttbullar",
+                    "notices": [
+                        "swf",
+                        "ei",
+                        "so",
+                        "la",
+                        "sl",
+                        "snf",
+                        "we",
+                        "ge"
+                    ],
+                    "components": [
+                        {
+                            "name": "Rahmso\u00dfe mit Champignons",
+                            "notices": [
+                                "ao",
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Hausgemachter Kartoffelstampf",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Karottensalat mit Erbsen",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Milchreis mit Zimt und Zucker",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        }
+    ]
+}
