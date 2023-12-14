@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,23 +43,16 @@
             },
             "meals": [
                 {
-                    "name": "Hausgemachte vegetarische Kartoffelsuppe",
+                    "name": "Veganes Pilzragout mit Gerstoni",
                     "notices": [
-                        "ao",
-                        "gv",
-                        "ve",
-                        "la",
-                        "sl",
-                        "we"
+                        "fs",
+                        "al",
+                        "snf",
+                        "sw",
+                        "ha",
+                        "ge"
                     ],
                     "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -59,10 +74,8 @@
                             ]
                         },
                         {
-                            "name": "Quarkspeise mit Kirschen",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -92,34 +105,27 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchen-Cordon-Bleu (mit Putenschinken)",
+                    "name": "Schweinebraten mit Paprikarahmso\u00dfe",
                     "notices": [
-                        "ks",
-                        "gf",
                         "la",
-                        "we"
+                        "swf"
                     ],
                     "components": [
                         {
-                            "name": "Paprikarahmso\u00dfe",
+                            "name": "Meerrettichstampfkartoffeln Rohkostsalat",
                             "notices": [
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Hausgemachter Kartoffelstampf",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Krautsalat Maryland",
-                            "notices": [
-                                "sm",
+                                "fs",
+                                "ks",
+                                "ao",
+                                "su",
+                                "fnf",
                                 "ei",
+                                "fi",
                                 "la",
                                 "snf",
-                                "we"
+                                "sw",
+                                "we",
+                                "sm"
                             ]
                         },
                         {
@@ -154,6 +160,46 @@
             },
             "meals": [
                 {
+                    "name": "Gulasch vom Schwein \u201eG\u00e4rtnerin Art\u201c mit Reis (aus biologischem Anbau)",
+                    "notices": [
+                        "swf",
+                        "la",
+                        "kn"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
+                    "name": "Gebackener Lammauflauf mit Joghurt",
+                    "notices": [
+                        "ei",
+                        "la",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
                     "name": "Tilapiafilet, Balsamicolinsen, Meerrettichstampfkartoffeln",
                     "notices": [
                         "fs",
@@ -169,32 +215,36 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "5,75",
+                        "m": "7,15",
+                        "g": "8,00"
+                    },
                     "category": "mensaVital"
                 },
                 {
-                    "name": "Veganes Pilzragout",
+                    "name": "Veganes Pilzragout mit Gerstoni",
                     "notices": [
                         "fs",
                         "al",
                         "snf",
                         "sw",
-                        "ha"
+                        "ha",
+                        "ge"
                     ],
-                    "components": [
-                        {
-                            "name": "Hausgemachter Kartoffelstampf (Vegan)",
-                            "notices": [
-                                "so"
-                            ]
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "4,40",
+                        "g": "5,05"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -238,10 +288,17 @@
                             "notices": []
                         },
                         {
-                            "name": "Klare Salatso\u00dfe",
+                            "name": "Klare Salatso\u00dfe,Wei\u00dfe Salatso\u00dfe",
                             "notices": [
-                                "snf"
+                                "snf",
+                                "sm",
+                                "la",
+                                "we"
                             ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -249,6 +306,40 @@
                         "m": "4,50",
                         "g": "5,20"
                     }
+                }
+            ]
+        },
+        {
+            "id": "mensacafe",
+            "displayName": "Mensacaf\u00e9",
+            "description": "Erdgeschoss",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2023-12-14T10:15:00.000Z",
+                "end": "2023-12-15T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "In der Zeit vom 11.12.2023 - 15.12.2023 schlie\u00dft das Mensacaf\u00e9 bereits um 10:30 Uhr.",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Grund daf\u00fcr ist der Hohe Krankenstand bei den Mitarbeitenden in der Mensa SB. Das Personal des Mensacaf\u00e9s hilft in der Mensa aus",
+                            "notices": []
+                        },
+                        {
+                            "name": "um den Betrieb dort Aufrecht erhalten zu k\u00f6nnen.",
+                            "notices": []
+                        }
+                    ]
                 }
             ]
         }

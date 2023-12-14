@@ -92,7 +92,7 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchen-Cordon-Bleu (mit Putenschinken)",
+                    "name": "H\u00e4hnchen-Cordon-Bleu (mit Putenschinken) mit Paprikarahmso\u00dfe",
                     "notices": [
                         "ks",
                         "gf",
@@ -101,16 +101,8 @@
                     ],
                     "components": [
                         {
-                            "name": "Paprikarahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
-                        {
-                            "name": "Hausgemachter Kartoffelstampf",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Salzkartoffeln (aus der Region)",
+                            "notices": []
                         },
                         {
                             "name": "Krautsalat Maryland",

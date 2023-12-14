@@ -21,22 +21,21 @@
             },
             "meals": [
                 {
-                    "name": "Veganes Pilzragout",
+                    "name": "Veganes Pilzragout mit Gerstoni",
                     "notices": [
                         "fs",
                         "al",
                         "snf",
                         "sw",
-                        "ha"
+                        "ha",
+                        "ge"
                     ],
-                    "components": [
-                        {
-                            "name": "Hausgemachter Kartoffelstampf (Vegan)",
-                            "notices": [
-                                "so"
-                            ]
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "4,40",
+                        "g": "5,05"
+                    }
                 }
             ]
         }

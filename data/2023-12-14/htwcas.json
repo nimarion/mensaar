@@ -21,19 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "Cous Cous",
+                    "name": "Cous Cous mit mediterraner Gem\u00fcsecreme und Rucola",
                     "notices": [
-                        "we"
+                        "we",
+                        "ks",
+                        "kn",
+                        "so"
                     ],
                     "components": [
-                        {
-                            "name": "Medterrane Gem\u00fcsecreme mit Rucola",
-                            "notices": [
-                                "ks",
-                                "kn",
-                                "so"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -91,15 +86,11 @@
             "meals": [
                 {
                     "knownMealId": "gebfl",
-                    "name": "Gebackener Fleischk\u00e4se (Schwein)",
+                    "name": "Gebackener Fleischk\u00e4se (Schwein) mit Bratkartoffeln",
                     "notices": [
                         "swf"
                     ],
                     "components": [
-                        {
-                            "name": "Bratkartoffeln",
-                            "notices": []
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -155,9 +146,17 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Gr\u00fcnkernragout mit Gem\u00fcse und Reis",
+                    "notices": [
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,70",
+                        "m": "3,75",
+                        "g": "4,40"
+                    },
+                    "category": "Vegan"
                 },
                 {
                     "name": "Super Food: Orientalische Poularden-Cous Cous-Bowl mit Knoblauchbrot",
@@ -165,7 +164,12 @@
                         "gf",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,15",
+                        "m": "5,20",
+                        "g": "5,85"
+                    }
                 }
             ]
         }

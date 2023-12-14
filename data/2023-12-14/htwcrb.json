@@ -148,11 +148,15 @@
             },
             "meals": [
                 {
-                    "name": "Weihnachtsmen\u00fc                            Maronencremesuppe",
-                    "notices": [
-                        "la"
-                    ],
+                    "name": "Weihnachtsmen\u00fc",
+                    "notices": [],
                     "components": [
+                        {
+                            "name": "Maronencremesuppe",
+                            "notices": [
+                                "la"
+                            ]
+                        },
                         {
                             "name": "Rheinischer Sauerbraten",
                             "notices": [
@@ -186,7 +190,12 @@
                                 "sw"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "7,75",
+                        "m": "9,15",
+                        "g": "10,00"
+                    }
                 }
             ]
         }
