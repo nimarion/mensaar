@@ -1,0 +1,269 @@
+{
+    "date": "2023-12-14T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "menue1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-12-14T10:15:00.000Z",
+                "end": "2023-12-15T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Reisauflauf Don Pedro",
+                    "notices": [
+                        "ei",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Italienischer Sauce",
+                            "notices": [
+                                "kn",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "menue2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 235,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2023-12-14T10:15:00.000Z",
+                "end": "2023-12-15T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "H\u00e4hnchenkeule Dijon",
+                    "notices": [
+                        "me",
+                        "gf",
+                        "kn",
+                        "gl",
+                        "la",
+                        "snf"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Pommes Frites/Alternative",
+                            "notices": []
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "wahl",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:10:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2023-12-14T10:10:00.000Z",
+                "end": "2023-12-15T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Bunter Salatteller",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "mit gebratenem Fenchel",
+                            "notices": []
+                        },
+                        {
+                            "name": "und Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "se"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,85"
+                    }
+                },
+                {
+                    "name": "Pizza Salami",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "oder Pizza vegetarisch",
+                            "notices": []
+                        },
+                        {
+                            "name": "auf Vorbestellung",
+                            "notices": []
+                        },
+                        {
+                            "name": "eine Stunde vorher (06841 1627486)",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,10",
+                        "m": "5,15",
+                        "g": "5,75"
+                    }
+                },
+                {
+                    "name": "Schwenkbraten vom Schwein",
+                    "notices": [
+                        "swf",
+                        "sl",
+                        "snf",
+                        "se"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Petersilienkartoffeln",
+                            "notices": [
+                                "la",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Cocktaildipp",
+                            "notices": [
+                                "fs",
+                                "sm",
+                                "kn",
+                                "ei",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "und Br\u00f6tchen",
+                            "notices": [
+                                "gl",
+                                "se"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,95",
+                        "m": "6,00",
+                        "g": "6,60"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aktion",
+            "displayName": "Aktionstheke",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 165,
+                "g": 204,
+                "b": 102
+            },
+            "feedback": {
+                "start": "2023-12-14T10:15:00.000Z",
+                "end": "2023-12-15T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Pizza Salami",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "oder Pizza vegetarisch",
+                            "notices": []
+                        },
+                        {
+                            "name": "auf Vorbestellung",
+                            "notices": []
+                        },
+                        {
+                            "name": "eine Stunde vorher (06841 1627486)",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,15"
+                    }
+                }
+            ]
+        }
+    ]
+}
