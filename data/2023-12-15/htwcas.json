@@ -83,20 +83,14 @@
             },
             "meals": [
                 {
-                    "name": "Pestoso\u00dfe Tonno",
+                    "name": "Farfalle mit Pestoso\u00dfe Tonno",
                     "notices": [
+                        "we",
                         "kn",
                         "fi",
-                        "la",
-                        "we"
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Farfalle",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -152,23 +146,38 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
-                },
-                {
-                    "name": "Pizza",
+                    "name": "Pizza Currywurst Style oder",
                     "notices": [
-                        "fs",
                         "ks",
                         "ao",
+                        "ph",
                         "swf",
-                        "al",
-                        "kn",
                         "la",
+                        "sl",
+                        "snf",
                         "we"
                     ],
-                    "components": []
+                    "components": [
+                        {
+                            "name": "Brizza Salami mit Salami und Paprika",
+                            "notices": [
+                                "fs",
+                                "ks",
+                                "ao",
+                                "swf",
+                                "al",
+                                "kn",
+                                "la",
+                                "we",
+                                "ge"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "5,20",
+                        "m": "6,25",
+                        "g": "6,90"
+                    }
                 }
             ]
         }

@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Blumenkohl-K\u00e4se-Medaillon",
+                    "name": "Blumenkohl-K\u00e4se-Medaillon mit Tomatenso\u00dfe",
                     "notices": [
                         "ei",
                         "la",
@@ -29,10 +29,6 @@
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Tomatenso\u00dfe",
-                            "notices": []
-                        },
                         {
                             "name": "Bandnudeln",
                             "notices": [
@@ -92,23 +88,17 @@
             },
             "meals": [
                 {
-                    "name": "Gebackenes Seelachsfilet",
+                    "name": "Gebackenes Seelachsfilet mit Remouladenso\u00dfe",
                     "notices": [
                         "fnf",
                         "fi",
-                        "we"
+                        "we",
+                        "sm",
+                        "ei",
+                        "la",
+                        "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Remouladenso\u00dfe",
-                            "notices": [
-                                "sm",
-                                "ei",
-                                "la",
-                                "snf",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Petersilienkartoffel",
                             "notices": []

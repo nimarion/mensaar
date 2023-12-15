@@ -90,7 +90,6 @@
                                 "fs",
                                 "ks",
                                 "ao",
-                                "swf",
                                 "snf",
                                 "sw"
                             ]
@@ -145,30 +144,26 @@
             },
             "meals": [
                 {
-                    "name": "Bunter Salatteller",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "mit Br\u00f6tchen",
-                            "notices": [
-                                "gl",
-                                "se"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
-                    }
-                },
-                {
                     "name": "Hausgemachter Kartoffeleintopf",
                     "notices": [],
                     "components": [
                         {
-                            "name": "mit Lauch und Karotten",
+                            "name": "mit Lauch",
+                            "notices": []
+                        },
+                        {
+                            "name": "Karotten",
+                            "notices": []
+                        },
+                        {
+                            "name": "und Fleischw\u00fcrstchen",
                             "notices": [
+                                "ks",
+                                "ao",
+                                "gv",
+                                "swf",
+                                "sl",
+                                "snf",
                                 "sw"
                             ]
                         },
@@ -230,16 +225,21 @@
             },
             "meals": [
                 {
-                    "name": "Cr\u00eapes mit Nutella oder Zimt-Zucker",
-                    "notices": [
-                        "gl",
-                        "ei",
-                        "so",
-                        "la",
-                        "we",
-                        "has"
+                    "name": "An der Essenausgabe",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Cr\u00eapes mit Nutella oder Zimt-Zucker",
+                            "notices": [
+                                "gl",
+                                "ei",
+                                "so",
+                                "la",
+                                "we",
+                                "has"
+                            ]
+                        }
                     ],
-                    "components": [],
                     "prices": {
                         "s": "1,80",
                         "m": "2,50",

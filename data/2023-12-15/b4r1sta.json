@@ -21,18 +21,18 @@
             },
             "meals": [
                 {
-                    "name": "Kaiserschmarren",
+                    "name": "Klimateller: Kaiserschmarren mit Apfelmus",
                     "notices": [
                         "ei",
                         "la",
                         "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Apfelmus",
-                            "notices": []
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "4,70",
+                        "m": "5,75",
+                        "g": "6,40"
+                    }
                 }
             ]
         }
