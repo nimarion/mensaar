@@ -163,6 +163,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,25",
+                        "m": "5,30",
+                        "g": "5,95"
+                    },
                     "category": "Vegan"
                 }
             ]

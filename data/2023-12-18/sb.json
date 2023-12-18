@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -90,16 +112,31 @@
             },
             "meals": [
                 {
-                    "name": "Scharfes Hackfleischgericht mit Reis",
+                    "name": "Scharfes Hackfleischgericht mit Pasta",
                     "notices": [
                         "nsf",
-                        "kn"
+                        "kn",
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "Schlemmersalat",
+                            "name": "Bunt gemischter Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
                             "notices": [
-                                "la"
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
                             ]
                         },
                         {
@@ -134,7 +171,7 @@
             },
             "meals": [
                 {
-                    "name": "mensaVital:H\u00e4hnchenpfanne mit Kurkumareis und Mandelromanesco",
+                    "name": "H\u00e4hnchenpfanne mit Kurkumareis und Mandelromanesco",
                     "notices": [
                         "gf",
                         "kn",
@@ -144,10 +181,16 @@
                         "sl",
                         "ma"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,95",
+                        "m": "6,35",
+                        "g": "7,20"
+                    },
+                    "category": "mensaVital"
                 },
                 {
-                    "name": "Spaghetti (aus biologischem Anbau)",
+                    "name": "Pasta (aus biologischem Anbau)",
                     "notices": [
                         "we"
                     ],
@@ -167,7 +210,12 @@
                                 "vn"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,60",
+                        "m": "4,65",
+                        "g": "5,30"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
@@ -222,6 +270,16 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -262,7 +320,12 @@
                         "snf",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,15",
+                        "m": "5,20",
+                        "g": "5,85"
+                    }
                 },
                 {
                     "name": "Bami Goreng mit Nudeln",
@@ -276,6 +339,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "3,65",
+                        "m": "4,70",
+                        "g": "5,35"
+                    },
                     "category": "Vegan"
                 }
             ]
