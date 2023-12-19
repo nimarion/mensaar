@@ -170,9 +170,26 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
+                    "name": "Reis",
                     "notices": [],
-                    "components": []
+                    "components": [
+                        {
+                            "name": "Rotes Curry mit Gem\u00fcse",
+                            "notices": [
+                                "ks",
+                                "so",
+                                "la",
+                                "sl",
+                                "snf",
+                                "we"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "3,85",
+                        "g": "4,50"
+                    }
                 },
                 {
                     "name": "Schnitzel vom Schwein",
@@ -198,7 +215,12 @@
                             "name": "Blumenkohlgem\u00fcse",
                             "notices": []
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "6,45",
+                        "m": "7,85",
+                        "g": "8,70"
+                    }
                 }
             ]
         }

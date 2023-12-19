@@ -30,7 +30,12 @@
                         "snf",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "2,95",
+                        "m": "4,00",
+                        "g": "4,65"
+                    }
                 }
             ]
         }

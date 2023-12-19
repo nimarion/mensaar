@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Gem\u00fcsesp\u00e4tzle",
+                    "name": "Gem\u00fcsepasta",
                     "notices": [
                         "ve",
                         "ei",
@@ -132,10 +132,33 @@
             },
             "meals": [
                 {
-                    "name": "Chicken wings",
+                    "name": "Blumenkohl-K\u00e4se-Medaillon\nKetchup",
+                    "notices": [
+                        "ei",
+                        "la",
+                        "sl",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
+                    "name": "H\u00fchnernuggets im Tempura-teig",
                     "notices": [
                         "gf",
-                        "we"
+                        "we",
+                        "kn",
+                        "la"
                     ],
                     "components": [
                         {
@@ -150,14 +173,31 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "5,80",
+                        "m": "6,85",
+                        "g": "7,50"
+                    }
                 },
                 {
-                    "name": "Quinoa-K\u00fcrbis-Bowl mit ger\u00f6steten Pinienkernen",
-                    "notices": [
-                        "kn"
+                    "name": "Falafel Bowl mit Roter-Bete, Buchweizen und Sonnenblumenken",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Vegan: Sesam-Kr\u00e4uter-Dip",
+                            "notices": [
+                                "vn",
+                                "so",
+                                "se"
+                            ]
+                        }
                     ],
-                    "components": []
+                    "prices": {
+                        "s": "4,35",
+                        "m": "5,40",
+                        "g": "6,05"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
@@ -241,7 +281,7 @@
             },
             "meals": [
                 {
-                    "name": "Pizza Speziale mit Salami und Schinken",
+                    "name": "Pizza Peperoni",
                     "notices": [
                         "fs",
                         "ks",
@@ -251,7 +291,12 @@
                         "snf",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,20"
+                    }
                 },
                 {
                     "name": "Pizza mit frischen Champignons",
@@ -259,7 +304,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    }
                 }
             ]
         }
