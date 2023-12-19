@@ -1,0 +1,206 @@
+{
+    "date": "2023-12-19T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 124,
+                "g": 252,
+                "b": 0
+            },
+            "feedback": {
+                "start": "2023-12-19T10:00:00.000Z",
+                "end": "2023-12-20T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Gem\u00fcsebratling",
+                    "notices": [
+                        "gv",
+                        "ei",
+                        "sl",
+                        "we",
+                        "has"
+                    ],
+                    "components": [
+                        {
+                            "name": "Zitrone",
+                            "notices": []
+                        },
+                        {
+                            "name": "Rahmspinat",
+                            "notices": [
+                                "kn",
+                                "la",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Hausgemachter Kartoffelstampf",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc$ 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 71,
+                "b": 239
+            },
+            "feedback": {
+                "start": "2023-12-19T10:00:00.000Z",
+                "end": "2023-12-20T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Rindergulasch",
+                    "notices": [
+                        "kn"
+                    ],
+                    "components": [
+                        {
+                            "name": "Sp\u00e4tzle",
+                            "notices": [
+                                "ei",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,30",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Wahlessen",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2023-12-19T10:00:00.000Z",
+                "end": "2023-12-20T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Siehe Aushang",
+                    "notices": [],
+                    "components": []
+                },
+                {
+                    "name": "Schnitzel vom Schwein",
+                    "notices": [
+                        "swf",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Champignon-Rahmso\u00dfe",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Kartoffelgratin",
+                            "notices": [
+                                "la",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Blumenkohlgem\u00fcse",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
