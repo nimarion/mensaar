@@ -1,0 +1,140 @@
+{
+    "date": "2023-12-20T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 238,
+                "g": 238,
+                "b": 0
+            },
+            "feedback": {
+                "start": "2023-12-20T10:00:00.000Z",
+                "end": "2023-12-21T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Penne",
+                    "notices": [
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Tomaten-Sahneso\u00dfe",
+                            "notices": [
+                                "kn",
+                                "la",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 193,
+                "b": 37
+            },
+            "feedback": {
+                "start": "2023-12-20T10:00:00.000Z",
+                "end": "2023-12-21T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Rindergeschnetzeltes Provencial",
+                    "notices": [
+                        "al",
+                        "kn",
+                        "sw"
+                    ],
+                    "components": [
+                        {
+                            "name": "Fusilli",
+                            "notices": [
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,30",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        }
+    ]
+}
