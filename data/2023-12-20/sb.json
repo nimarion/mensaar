@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,7 +43,7 @@
             },
             "meals": [
                 {
-                    "name": "Tomatenmakkaroni mit geriebenem K\u00e4se",
+                    "name": "Pasta mit So\u00dfe \u201eNeapolitaner\u201c und geriebenem K\u00e4se",
                     "notices": [
                         "ks",
                         "kn",
@@ -108,7 +130,7 @@
                             "notices": []
                         },
                         {
-                            "name": "Salat Esterhazy",
+                            "name": "Mischsalat mit Dressing nach Wahl",
                             "notices": [
                                 "ao",
                                 "sl",
@@ -157,28 +179,45 @@
                         "we",
                         "ge"
                     ],
-                    "components": []
+                    "components": [
+                        {
+                            "name": "Barbecueso\u00dfe",
+                            "notices": [
+                                "sl"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "5,40",
+                        "m": "6,80",
+                        "g": "7,65"
+                    }
                 },
                 {
-                    "name": "Rote Bete Puffer paniert",
+                    "name": "Klimateller: Vegan:Gr\u00fcnkohlhanfmedaillons",
                     "notices": [
                         "vn",
-                        "we"
+                        "we",
+                        "so"
                     ],
                     "components": [
                         {
-                            "name": "Vegan: Kr\u00e4uter-Dip",
+                            "name": "Tomatenfrischk\u00e4se-Dip",
                             "notices": [
                                 "vn",
                                 "so"
                             ]
                         },
                         {
-                            "name": "Salzkartoffeln (aus der Region)",
+                            "name": "Pommes frites",
                             "notices": []
                         }
                     ],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "4,20",
+                        "m": "5,25",
+                        "g": "5,90"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
@@ -193,6 +232,10 @@
                             "notices": []
                         },
                         {
+                            "name": "Karotten",
+                            "notices": []
+                        },
+                        {
                             "name": "Gurken",
                             "notices": []
                         },
@@ -201,7 +244,11 @@
                             "notices": []
                         },
                         {
-                            "name": "Karotten",
+                            "name": "Peperoni",
+                            "notices": []
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
                             "notices": []
                         },
                         {
@@ -213,7 +260,7 @@
                             "notices": []
                         },
                         {
-                            "name": "Peperoni",
+                            "name": "Kichererbsen",
                             "notices": []
                         },
                         {
@@ -232,6 +279,20 @@
                             "name": "Klare Salatso\u00dfe",
                             "notices": [
                                 "snf"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        },
+                        {
+                            "name": "Schnittlauch-Senfdressing",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
                             ]
                         }
                     ],
@@ -269,7 +330,7 @@
                     ],
                     "components": [
                         {
-                            "name": "Wiener W\u00fcrstchen",
+                            "name": "Lyonerw\u00fcrfel",
                             "notices": [
                                 "swf"
                             ]
@@ -281,7 +342,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,80",
+                        "m": "5,20",
+                        "g": "6,05"
+                    }
                 },
                 {
                     "name": "Tomatensuppe",
@@ -297,7 +363,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "2,35",
+                        "m": "3,40",
+                        "g": "4,05"
+                    }
                 }
             ]
         }

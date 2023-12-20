@@ -169,9 +169,25 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "H\u00e4hnchengulasch",
+                    "notices": [
+                        "gf",
+                        "kn"
+                    ],
+                    "components": [
+                        {
+                            "name": "Sp\u00e4tzle",
+                            "notices": [
+                                "ei",
+                                "we"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,10",
+                        "m": "4,15",
+                        "g": "4,80"
+                    }
                 },
                 {
                     "name": "Gebackener Camembert mit Wildpreiselbeeren oder",
@@ -186,7 +202,12 @@
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "4,40",
+                        "g": "5,05"
+                    }
                 }
             ]
         }

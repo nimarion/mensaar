@@ -21,19 +21,13 @@
             },
             "meals": [
                 {
-                    "name": "Penne",
+                    "name": "Penne mit Tomaten-Sahneso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Tomaten-Sahneso\u00dfe",
-                            "notices": [
-                                "kn",
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -89,16 +83,22 @@
             },
             "meals": [
                 {
-                    "name": "Rindergeschnetzeltes Provencial",
+                    "name": "Paniertes H\u00e4hnchenschnitzel",
                     "notices": [
-                        "al",
-                        "kn",
-                        "sw"
+                        "gf",
+                        "we"
                     ],
                     "components": [
                         {
-                            "name": "Fusilli",
+                            "name": "Champignon-Rahmso\u00dfe",
                             "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Penne",
+                            "notices": [
+                                "gl",
                                 "we"
                             ]
                         },
