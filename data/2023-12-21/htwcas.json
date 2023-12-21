@@ -1,0 +1,173 @@
+{
+    "date": "2023-12-21T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 124,
+                "g": 252,
+                "b": 0
+            },
+            "feedback": {
+                "start": "2023-12-21T10:00:00.000Z",
+                "end": "2023-12-22T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Pasta",
+                    "notices": [
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Gem\u00fcseragout",
+                            "notices": [
+                                "kn",
+                                "so",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    },
+                    "category": "Vegan"
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc$ 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 71,
+                "b": 239
+            },
+            "feedback": {
+                "start": "2023-12-21T10:00:00.000Z",
+                "end": "2023-12-22T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Frikadelle (Rind) oder",
+                    "notices": [
+                        "nsf",
+                        "azf",
+                        "ei",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "W\u00fcrstchen",
+                            "notices": [
+                                "swf"
+                            ]
+                        },
+                        {
+                            "name": "Kartoffelbeilage",
+                            "notices": []
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,30",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Wahlessen",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2023-12-21T10:00:00.000Z",
+                "end": "2023-12-22T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Siehe Aushang",
+                    "notices": [],
+                    "components": []
+                },
+                {
+                    "name": "Vegetarische T\u00fcrkische Pizza Lahmacun",
+                    "notices": [
+                        "kn",
+                        "so",
+                        "la",
+                        "we"
+                    ],
+                    "components": []
+                }
+            ]
+        }
+    ]
+}
