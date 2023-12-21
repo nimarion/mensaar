@@ -21,20 +21,18 @@
             },
             "meals": [
                 {
-                    "name": "Fagottoni mit Tomaten-Basilikumf\u00fcllung",
+                    "name": "Fagottoni mit Tomaten-Basilikumf\u00fcllung in Tomatenso\u00dfe Toskana",
                     "notices": [
                         "kn",
                         "vn",
                         "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Tomatenso\u00dfe Toskana -vegan-",
-                            "notices": [
-                                "kn"
-                            ]
-                        }
-                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    },
                     "category": "Vegan"
                 }
             ]

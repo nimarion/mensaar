@@ -21,19 +21,13 @@
             },
             "meals": [
                 {
-                    "name": "Pasta",
+                    "name": "Pasta mit Gem\u00fcseragout",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "so"
                     ],
                     "components": [
-                        {
-                            "name": "Gem\u00fcseragout",
-                            "notices": [
-                                "kn",
-                                "so",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -80,7 +74,7 @@
             },
             "meals": [
                 {
-                    "name": "Frikadelle (Rind) oder",
+                    "name": "Frikadelle (vom Rind) oder",
                     "notices": [
                         "nsf",
                         "azf",
@@ -153,9 +147,18 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Reis mit Tomatenso\u00dfe mit Gr\u00fcnkern",
+                    "notices": [
+                        "ks",
+                        "kn",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,65",
+                        "m": "3,70",
+                        "g": "4,35"
+                    }
                 },
                 {
                     "name": "Vegetarische T\u00fcrkische Pizza Lahmacun",
@@ -165,7 +168,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,50"
+                    }
                 }
             ]
         }

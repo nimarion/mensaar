@@ -83,22 +83,17 @@
             },
             "meals": [
                 {
-                    "name": "Ratatouille-Hackfleischso\u00dfe",
+                    "name": "Ratatouille-Hackfleischso\u00dfe mit Beilage",
                     "notices": [
                         "ks",
                         "nsf",
                         "kn",
                         "ei",
                         "la",
-                        "sl"
+                        "sl",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Beilage",
-                            "notices": [
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Kombisalat",
                             "notices": []

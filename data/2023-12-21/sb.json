@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,8 +43,10 @@
             },
             "meals": [
                 {
-                    "name": "Reisgericht mit Pilzen",
+                    "name": "Pasta in Tomatenso\u00dfe Toskana",
                     "notices": [
+                        "we",
+                        "ei",
                         "kn"
                     ],
                     "components": [
@@ -86,7 +110,7 @@
                             ]
                         },
                         {
-                            "name": "Salzkartoffeln (aus der Region)",
+                            "name": "Pommes Frites",
                             "notices": []
                         },
                         {
@@ -165,23 +189,26 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,75",
+                        "m": "5,80",
+                        "g": "6,45"
+                    }
                 },
                 {
-                    "name": "Fagottoni mit Tomaten-Basilikumf\u00fcllung",
+                    "name": "Fagottoni mit Tomaten-Basilikumf\u00fcllung in Tomatenso\u00dfe Toskana",
                     "notices": [
                         "kn",
                         "vn",
                         "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Tomatenso\u00dfe Toskana -vegan-",
-                            "notices": [
-                                "kn"
-                            ]
-                        }
-                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -237,6 +264,24 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -266,14 +311,19 @@
             },
             "meals": [
                 {
-                    "name": "T\u00fcrkische Pizza Lahmacun",
+                    "name": "Klimateller: T\u00fcrkische Pizza Lahmacun",
                     "notices": [
                         "kn",
                         "so",
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    }
                 },
                 {
                     "name": "Vegetarische T\u00fcrkische Pizza Lahmacun",
@@ -283,7 +333,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,50"
+                    }
                 }
             ]
         }
