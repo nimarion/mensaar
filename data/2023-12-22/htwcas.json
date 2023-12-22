@@ -21,11 +21,41 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
+                    "name": "Tomatenso\u00dfe mit Beilage",
                     "notices": [
+                        "ks",
+                        "kn",
                         "we"
                     ],
-                    "components": [],
+                    "components": [
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
                     "prices": {
                         "s": "2,80",
                         "m": "5,30",
@@ -53,11 +83,41 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
+                    "name": "Hackfleisch-Gem\u00fcse-Pfanne",
                     "notices": [
-                        "we"
+                        "ks",
+                        "nsf",
+                        "kn",
+                        "ei",
+                        "la",
+                        "sl"
                     ],
-                    "components": [],
+                    "components": [
+                        {
+                            "name": "Beilage",
+                            "notices": [
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
                     "prices": {
                         "s": "3,30",
                         "m": "6,40",

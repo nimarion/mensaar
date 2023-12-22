@@ -21,18 +21,13 @@
             },
             "meals": [
                 {
-                    "name": "PastaBoccolotti",
+                    "name": "Pasta Boccolotti mit Tomaten-Bechamelso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "so"
                     ],
                     "components": [
-                        {
-                            "name": "Vegan: Tomaten-Bechamelso\u00dfe",
-                            "notices": [
-                                "kn",
-                                "so"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -99,7 +94,7 @@
                             "notices": []
                         },
                         {
-                            "name": "Pommes Frites",
+                            "name": "Beilage",
                             "notices": []
                         },
                         {

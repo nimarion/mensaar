@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,18 +43,13 @@
             },
             "meals": [
                 {
-                    "name": "PastaBoccolotti",
+                    "name": "Pasta Boccolotti mit Tomaten-Bechamelso\u00dfe",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn",
+                        "so"
                     ],
                     "components": [
-                        {
-                            "name": "Vegan: Tomaten-Bechamelso\u00dfe",
-                            "notices": [
-                                "kn",
-                                "so"
-                            ]
-                        },
                         {
                             "name": "Bunt gemischter Blattsalat",
                             "notices": []
@@ -54,10 +71,8 @@
                             ]
                         },
                         {
-                            "name": "Schokoladenpudding",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -95,8 +110,15 @@
                     ],
                     "components": [
                         {
-                            "name": "Ketchup",
-                            "notices": []
+                            "name": "J\u00e4gerso\u00dfe",
+                            "notices": [
+                                "ks",
+                                "ao",
+                                "swf",
+                                "al",
+                                "la",
+                                "sw"
+                            ]
                         },
                         {
                             "name": "Pommes Frites",
