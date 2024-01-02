@@ -1,0 +1,183 @@
+{
+    "date": "2024-01-02T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 238,
+                "g": 238,
+                "b": 0
+            },
+            "feedback": {
+                "start": "2024-01-02T10:00:00.000Z",
+                "end": "2024-01-03T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Semmelkn\u00f6del",
+                    "notices": [
+                        "ba",
+                        "ei",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Bechamelso\u00dfe mit Kr\u00e4utern",
+                            "notices": [
+                                "la",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Frischer Blattspinat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 193,
+                "b": 37
+            },
+            "feedback": {
+                "start": "2024-01-02T10:00:00.000Z",
+                "end": "2024-01-03T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Kassler",
+                    "notices": [
+                        "swf",
+                        "snf"
+                    ],
+                    "components": [
+                        {
+                            "name": "Bratenso\u00dfe",
+                            "notices": []
+                        },
+                        {
+                            "name": "Sauerkraut",
+                            "notices": []
+                        },
+                        {
+                            "name": "Salzkartoffeln",
+                            "notices": []
+                        },
+                        {
+                            "name": "Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Joghurtdressing",
+                            "notices": [
+                                "fs",
+                                "gv",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uterdressing",
+                            "notices": [
+                                "su",
+                                "kn",
+                                "snf",
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "Dessert siehe Aushang",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,30",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Wahlessen",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:00:00.000Z",
+                "end": "1970-01-01T14:15:00.000Z"
+            },
+            "color": {
+                "r": 16,
+                "g": 107,
+                "b": 10
+            },
+            "feedback": {
+                "start": "2024-01-02T10:00:00.000Z",
+                "end": "2024-01-03T13:15:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Gnocchi-Gem\u00fcsepfanne",
+                    "notices": [
+                        "fs",
+                        "kn",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [],
+                    "category": "Vegan"
+                }
+            ]
+        }
+    ]
+}
