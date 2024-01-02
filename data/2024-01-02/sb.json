@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -83,19 +105,14 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes Schnitzel vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit Rahmso\u00dfe",
                     "notices": [
                         "swf",
                         "ei",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Rahmso\u00dfe",
-                            "notices": [
-                                "la"
-                            ]
-                        },
                         {
                             "name": "Pommes Frites",
                             "notices": []
@@ -105,7 +122,17 @@
                             "notices": []
                         },
                         {
-                            "name": "Bunter Wei\u00dfkrautsalat",
+                            "name": "Bunt gemischter Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
                             "notices": [
                                 "sm",
                                 "ei",
@@ -115,11 +142,8 @@
                             ]
                         },
                         {
-                            "name": "Grie\u00df-Pudding",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -149,18 +173,18 @@
             },
             "meals": [
                 {
-                    "name": "Indisches Butter Chicken",
+                    "name": "Indisches Butter Chicken mit Basmatireis (aus biologischem Anbau)",
                     "notices": [
                         "gf",
                         "kn",
                         "la"
                     ],
-                    "components": [
-                        {
-                            "name": "Basmatireis (aus biologischem Anbau)",
-                            "notices": []
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "4,90",
+                        "m": "5,95",
+                        "g": "6,60"
+                    }
                 },
                 {
                     "name": "Cous-Couspfanne mit Gem\u00fcse, Tofu und N\u00fcssen",
@@ -169,6 +193,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,45",
+                        "m": "5,85",
+                        "g": "6,70"
+                    },
                     "category": "mensaVital"
                 },
                 {
@@ -176,7 +205,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -220,10 +249,19 @@
                             "notices": []
                         },
                         {
-                            "name": "Klare Salatso\u00dfe",
+                            "name": "Klare Salatso\u00dfe,Limetten-Joghurt-Dressing",
                             "notices": [
-                                "snf"
+                                "snf",
+                                "la"
                             ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -253,20 +291,18 @@
             },
             "meals": [
                 {
-                    "name": "Gem\u00fcsesuppe von frischem Gem\u00fcse",
+                    "name": "Gem\u00fcsesuppe von frischem Gem\u00fcse mit Br\u00f6tchen",
                     "notices": [
                         "kn",
-                        "la"
+                        "la",
+                        "we"
                     ],
-                    "components": [
-                        {
-                            "name": "Br\u00f6tchen",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        }
-                    ]
+                    "components": [],
+                    "prices": {
+                        "s": "3,40",
+                        "m": "4,45",
+                        "g": "5,10"
+                    }
                 }
             ]
         }

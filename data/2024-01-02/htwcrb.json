@@ -21,20 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "Semmelkn\u00f6del",
+                    "name": "Semmelkn\u00f6del mit Bechamelso\u00dfe mit Kr\u00e4utern",
                     "notices": [
                         "ba",
                         "ei",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Bechamelso\u00dfe mit Kr\u00e4utern",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Frischer Blattspinat",
                             "notices": []
@@ -44,7 +38,7 @@
                             "notices": []
                         },
                         {
-                            "name": "Joghurtdressing",
+                            "name": "Wei\u00dfe Salatso\u00dfe",
                             "notices": [
                                 "fs",
                                 "gv",
@@ -56,10 +50,8 @@
                         {
                             "name": "Kr\u00e4uterdressing",
                             "notices": [
-                                "su",
-                                "kn",
-                                "snf",
-                                "sw"
+                                "sl",
+                                "snf"
                             ]
                         },
                         {
@@ -94,16 +86,12 @@
             },
             "meals": [
                 {
-                    "name": "Kassler",
+                    "name": "Kassler mit Bratenso\u00dfe",
                     "notices": [
                         "swf",
                         "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Bratenso\u00dfe",
-                            "notices": []
-                        },
                         {
                             "name": "Sauerkraut",
                             "notices": []
@@ -117,7 +105,7 @@
                             "notices": []
                         },
                         {
-                            "name": "Joghurtdressing",
+                            "name": "Wei\u00dfe Salatso\u00dfe",
                             "notices": [
                                 "fs",
                                 "gv",
@@ -129,10 +117,8 @@
                         {
                             "name": "Kr\u00e4uterdressing",
                             "notices": [
-                                "su",
-                                "kn",
-                                "snf",
-                                "sw"
+                                "sl",
+                                "snf"
                             ]
                         },
                         {
@@ -175,6 +161,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "3,75",
+                        "m": "4,80",
+                        "g": "5,45"
+                    },
                     "category": "Vegan"
                 }
             ]

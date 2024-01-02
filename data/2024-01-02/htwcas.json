@@ -21,20 +21,14 @@
             },
             "meals": [
                 {
-                    "name": "Semmelkn\u00f6del",
+                    "name": "Semmelkn\u00f6del mit Bechamelso\u00dfe mit Kr\u00e4utern",
                     "notices": [
                         "ba",
                         "ei",
-                        "we"
+                        "we",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Bechamelso\u00dfe mit Kr\u00e4utern",
-                            "notices": [
-                                "la",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Frischer Blattspinat",
                             "notices": []
@@ -94,16 +88,12 @@
             },
             "meals": [
                 {
-                    "name": "Kassler",
+                    "name": "Kassler mit Bratenso\u00dfe",
                     "notices": [
                         "swf",
                         "snf"
                     ],
                     "components": [
-                        {
-                            "name": "Bratenso\u00dfe",
-                            "notices": []
-                        },
                         {
                             "name": "Sauerkraut",
                             "notices": []
@@ -167,11 +157,6 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
-                },
-                {
                     "name": "Gnocchi-Gem\u00fcsepfanne",
                     "notices": [
                         "fs",
@@ -180,6 +165,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "3,75",
+                        "m": "4,80",
+                        "g": "5,45"
+                    },
                     "category": "Vegan"
                 }
             ]
