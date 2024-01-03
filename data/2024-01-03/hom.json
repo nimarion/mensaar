@@ -95,11 +95,8 @@
                     ],
                     "components": [
                         {
-                            "name": "mit Kartoffelp\u00fcree/Alternative",
-                            "notices": [
-                                "la",
-                                "sw"
-                            ]
+                            "name": "mit Pommes frites/Alternative",
+                            "notices": []
                         },
                         {
                             "name": "Bratensauce",

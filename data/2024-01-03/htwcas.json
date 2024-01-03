@@ -21,17 +21,12 @@
             },
             "meals": [
                 {
-                    "name": "Pasta Spaghetti",
+                    "name": "Spaghetti mit M\u00f6hrenpesto mit Sonnenblumenkernen und Ingwer",
                     "notices": [
-                        "we"
+                        "we",
+                        "kn"
                     ],
                     "components": [
-                        {
-                            "name": "M\u00f6hrenpesto mit Sonnenblumenkernen und Ingwer",
-                            "notices": [
-                                "kn"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -78,18 +73,13 @@
             },
             "meals": [
                 {
-                    "name": "Putengulasch G\u00e4rtnerin Art",
+                    "name": "Putengulasch G\u00e4rtnerin Art mit Sp\u00e4tzle",
                     "notices": [
-                        "gf"
+                        "gf",
+                        "ei",
+                        "we"
                     ],
                     "components": [
-                        {
-                            "name": "Sp\u00e4tzle",
-                            "notices": [
-                                "ei",
-                                "we"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -163,7 +153,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,60",
+                        "m": "5,65",
+                        "g": "6,30"
+                    }
                 }
             ]
         }

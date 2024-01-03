@@ -46,9 +46,10 @@
                             ]
                         },
                         {
-                            "name": "Sahnepudding",
+                            "name": "Grie\u00df-Pudding",
                             "notices": [
-                                "la"
+                                "la",
+                                "we"
                             ]
                         }
                     ],
@@ -92,10 +93,6 @@
                         },
                         {
                             "name": "Reis (aus biologischem Anbau)",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
                             "notices": []
                         },
                         {

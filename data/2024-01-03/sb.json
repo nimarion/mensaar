@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -46,9 +68,10 @@
                             ]
                         },
                         {
-                            "name": "Sahnepudding",
+                            "name": "Grie\u00df-Pudding",
                             "notices": [
-                                "la"
+                                "la",
+                                "we"
                             ]
                         }
                     ],
@@ -79,20 +102,17 @@
             },
             "meals": [
                 {
-                    "name": "H\u00e4hnchenbrustfilet  Toscana",
+                    "name": "H\u00e4hnchenbrustfilet Toscana mit Tomatenso\u00dfe mit Gem\u00fcse",
                     "notices": [
-                        "gf"
+                        "gf",
+                        "kn"
                     ],
                     "components": [
                         {
-                            "name": "Tomatenso\u00dfe mit Gem\u00fcse",
+                            "name": "Pasta (aus biologischem Anbau)",
                             "notices": [
-                                "kn"
+                                "we"
                             ]
-                        },
-                        {
-                            "name": "Reis (aus biologischem Anbau)",
-                            "notices": []
                         },
                         {
                             "name": "Alternativbeilage",
@@ -150,6 +170,25 @@
             },
             "meals": [
                 {
+                    "name": "mensaVital: Cous-Couspfanne mit Gem\u00fcse, Tofu und N\u00fcssen",
+                    "notices": [
+                        "so",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
                     "name": "Fish and chips",
                     "notices": [
                         "ph",
@@ -171,7 +210,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,50"
+                    }
                 },
                 {
                     "name": "Spaghetti mit Bohnen-Carbonara-So\u00dfe",
@@ -181,6 +225,11 @@
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "2,90",
+                        "m": "3,95",
+                        "g": "4,60"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -188,7 +237,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -236,6 +285,16 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Cocktailso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
                         }
                     ],
                     "prices": {
@@ -273,7 +332,12 @@
                         "sl",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,20",
+                        "m": "6,25",
+                        "g": "6,90"
+                    }
                 },
                 {
                     "name": "Pizza vegetarisch mit Oliven, Paprika,Broccoli und getrockneten Tomaten",
@@ -282,7 +346,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,50",
+                        "m": "6,55",
+                        "g": "7,20"
+                    }
                 }
             ]
         }
