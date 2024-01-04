@@ -1,0 +1,129 @@
+{
+    "date": "2024-01-04T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:45:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 135,
+                "g": 10,
+                "b": 194
+            },
+            "feedback": {
+                "start": "2024-01-04T10:45:00.000Z",
+                "end": "2024-01-05T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Punjabi Rajama (Indisches Gericht)",
+                    "notices": [
+                        "kn",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Reis (aus biologischem Anbau)",
+                            "notices": []
+                        },
+                        {
+                            "name": "Bunt gemischter Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:45:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 197,
+                "g": 94,
+                "b": 247
+            },
+            "feedback": {
+                "start": "2024-01-04T10:45:00.000Z",
+                "end": "2024-01-05T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "knownMealId": "gebfl",
+                    "name": "Gebackener Fleischk\u00e4se",
+                    "notices": [
+                        "swf"
+                    ],
+                    "components": [
+                        {
+                            "name": "Ketchup",
+                            "notices": []
+                        },
+                        {
+                            "name": "Pommes Frites",
+                            "notices": []
+                        },
+                        {
+                            "name": "Alternativbeilage",
+                            "notices": []
+                        },
+                        {
+                            "name": "Bohnensalat",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Himbeerquark",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        }
+    ]
+}
