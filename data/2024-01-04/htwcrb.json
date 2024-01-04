@@ -81,22 +81,16 @@
             },
             "meals": [
                 {
-                    "name": "Currywurst",
+                    "name": "Currywurst mit Pommes Frites",
                     "notices": [
                         "ks",
                         "ao",
                         "sl",
-                        "snf"
+                        "snf",
+                        "fs",
+                        "la"
                     ],
                     "components": [
-                        {
-                            "name": "Pommes Frites",
-                            "notices": [
-                                "fs",
-                                "la",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Blattsalat",
                             "notices": []
@@ -156,7 +150,37 @@
                         "wa"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,80",
+                        "m": "5,85",
+                        "g": "6,50"
+                    },
                     "category": "Vegan"
+                },
+                {
+                    "name": "Putengulasch G\u00e4rtnerin Art",
+                    "notices": [
+                        "gf"
+                    ],
+                    "components": [
+                        {
+                            "name": "Sp\u00e4tzle",
+                            "notices": [
+                                "ei",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
                 }
             ]
         }

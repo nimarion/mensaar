@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,9 +43,9 @@
             },
             "meals": [
                 {
-                    "name": "Punjabi Rajama (Indisches Gericht)",
+                    "name": "Schupfnudeln Mexikanische Art vegetarisch",
                     "notices": [
-                        "kn",
+                        "ei",
                         "we"
                     ],
                     "components": [
@@ -83,10 +105,11 @@
             },
             "meals": [
                 {
-                    "knownMealId": "gebfl",
-                    "name": "Gebackener Fleischk\u00e4se",
+                    "name": "Paniertes Schnitzel vom Schwein",
                     "notices": [
-                        "swf"
+                        "swf",
+                        "we",
+                        "ei"
                     ],
                     "components": [
                         {
@@ -161,7 +184,12 @@
                                 "we"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,45",
+                        "m": "5,50",
+                        "g": "6,15"
+                    }
                 },
                 {
                     "name": "Bunter Gem\u00fcseteller",
@@ -179,6 +207,11 @@
                             ]
                         }
                     ],
+                    "prices": {
+                        "s": "5,45",
+                        "m": "6,50",
+                        "g": "7,15"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -186,7 +219,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -230,9 +263,27 @@
                             "notices": []
                         },
                         {
+                            "name": "Kichererbsen",
+                            "notices": []
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
+                        },
+                        {
                             "name": "Klare Salatso\u00dfe",
                             "notices": [
                                 "snf"
+                            ]
+                        },
+                        {
+                            "name": "Schnittlauch-Senfdressing",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
                             ]
                         }
                     ],
@@ -269,16 +320,25 @@
                         "ei",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,50",
+                        "m": "4,55",
+                        "g": "5,20"
+                    }
                 },
                 {
-                    "name": "Schupfnudeln Mexikanische Art",
+                    "name": "Schupfnudeln Mexikanische Art vegetarisch",
                     "notices": [
-                        "swf",
                         "ei",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "3,40",
+                        "m": "4,45",
+                        "g": "5,10"
+                    }
                 }
             ]
         }

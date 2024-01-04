@@ -3,75 +3,6 @@
     "isPast": false,
     "counters": [
         {
-            "id": "menue1",
-            "displayName": "Men\u00fc 1",
-            "description": "",
-            "openingHours": {
-                "start": "1970-01-01T11:15:00.000Z",
-                "end": "1970-01-01T14:00:00.000Z"
-            },
-            "color": {
-                "r": 204,
-                "g": 255,
-                "b": 153
-            },
-            "feedback": {
-                "start": "2024-01-04T10:15:00.000Z",
-                "end": "2024-01-05T13:00:00.000Z"
-            },
-            "meals": [
-                {
-                    "name": "Falafel-Burger",
-                    "notices": [
-                        "kn",
-                        "gl",
-                        "sl",
-                        "snf",
-                        "se",
-                        "we"
-                    ],
-                    "components": [
-                        {
-                            "name": "Pommes Frites",
-                            "notices": []
-                        },
-                        {
-                            "name": "Teri-Yakicreme",
-                            "notices": [
-                                "fs",
-                                "kn",
-                                "la",
-                                "sl",
-                                "snf",
-                                "se"
-                            ]
-                        },
-                        {
-                            "name": "Salat",
-                            "notices": []
-                        },
-                        {
-                            "name": "Dressing",
-                            "notices": [
-                                "kn",
-                                "sl",
-                                "snf"
-                            ]
-                        },
-                        {
-                            "name": "Obst",
-                            "notices": []
-                        }
-                    ],
-                    "prices": {
-                        "s": "2,80",
-                        "m": "5,30",
-                        "g": "7,50"
-                    }
-                }
-            ]
-        },
-        {
             "id": "menue2",
             "displayName": "Men\u00fc 2",
             "description": "",
@@ -154,32 +85,6 @@
                 "end": "2024-01-05T13:00:00.000Z"
             },
             "meals": [
-                {
-                    "name": "Bunter Salatteller",
-                    "notices": [],
-                    "components": [
-                        {
-                            "name": "mit Blumenkohl im Backteig",
-                            "notices": [
-                                "gl",
-                                "ei",
-                                "we"
-                            ]
-                        },
-                        {
-                            "name": "und Br\u00f6tchen",
-                            "notices": [
-                                "gl",
-                                "se"
-                            ]
-                        }
-                    ],
-                    "prices": {
-                        "s": "4,20",
-                        "m": "5,25",
-                        "g": "5,85"
-                    }
-                },
                 {
                     "name": "Pizza Salami",
                     "notices": [],
