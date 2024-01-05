@@ -1,0 +1,136 @@
+{
+    "date": "2024-01-05T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Men\u00fc 1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:45:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 135,
+                "g": 10,
+                "b": 194
+            },
+            "feedback": {
+                "start": "2024-01-05T10:45:00.000Z",
+                "end": "2024-01-06T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Gem\u00fcse-Paella",
+                    "notices": [
+                        "al",
+                        "kn",
+                        "sw"
+                    ],
+                    "components": [
+                        {
+                            "name": "Kr\u00e4uterdip",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Pusztasalat",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Pudding Karamel",
+                            "notices": [
+                                "la"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    },
+                    "category": "Vegan"
+                }
+            ]
+        },
+        {
+            "id": "Men\u00fc 2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:45:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 197,
+                "g": 94,
+                "b": 247
+            },
+            "feedback": {
+                "start": "2024-01-05T10:45:00.000Z",
+                "end": "2024-01-06T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Gulasch vom Schwein G\u00e4rtnerin Art",
+                    "notices": [
+                        "swf"
+                    ],
+                    "components": [
+                        {
+                            "name": "Sp\u00e4tzle",
+                            "notices": [
+                                "ei",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Alternativbeilage",
+                            "notices": []
+                        },
+                        {
+                            "name": "Bunt gemischter Blattsalat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Klare Salatso\u00dfe",
+                            "notices": [
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        }
+    ]
+}
