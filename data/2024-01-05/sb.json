@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -49,10 +71,8 @@
                             ]
                         },
                         {
-                            "name": "Pudding Karamel",
-                            "notices": [
-                                "la"
-                            ]
+                            "name": "Obst",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -122,6 +142,13 @@
                         {
                             "name": "Obst",
                             "notices": []
+                        },
+                        {
+                            "name": "Gem\u00fcsecremesuppe",
+                            "notices": [
+                                "kn",
+                                "la"
+                            ]
                         }
                     ],
                     "prices": {
@@ -151,6 +178,36 @@
             },
             "meals": [
                 {
+                    "name": "Asiatisches Putten Curry (12,17,La,)",
+                    "notices": [
+                        "ks",
+                        "kr",
+                        "fi",
+                        "so",
+                        "sl",
+                        "se",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Nudeln Chinesische Art",
+                            "notices": [
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
                     "name": "Hokifilet M\u00fcllerin Art",
                     "notices": [
                         "fi",
@@ -175,7 +232,12 @@
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "4,95",
+                        "m": "6,00",
+                        "g": "6,65"
+                    }
                 },
                 {
                     "name": "Erdnusspf\u00e4nnchen mit Gem\u00fcse und Soja",
@@ -187,12 +249,15 @@
                     ],
                     "components": [
                         {
-                            "name": "Risoni",
-                            "notices": [
-                                "we"
-                            ]
+                            "name": "Reis",
+                            "notices": []
                         }
                     ],
+                    "prices": {
+                        "s": "2,85",
+                        "m": "3,90",
+                        "g": "4,55"
+                    },
                     "category": "Vegan"
                 },
                 {
@@ -200,7 +265,7 @@
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -244,9 +309,23 @@
                             "notices": []
                         },
                         {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
+                        },
+                        {
                             "name": "Klare Salatso\u00dfe",
                             "notices": [
                                 "snf"
+                            ]
+                        },
+                        {
+                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "notices": [
+                                "sm",
+                                "ei",
+                                "la",
+                                "snf",
+                                "we"
                             ]
                         }
                     ],
@@ -284,7 +363,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,00",
+                        "m": "6,05",
+                        "g": "6,70"
+                    }
                 },
                 {
                     "name": "Flammkuchen mit buntem Gem\u00fcse",
@@ -292,7 +376,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,20"
+                    }
                 }
             ]
         }

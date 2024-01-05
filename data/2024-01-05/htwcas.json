@@ -112,8 +112,10 @@
                             "notices": []
                         },
                         {
-                            "name": "Basmatireis",
-                            "notices": []
+                            "name": "Spaghetti",
+                            "notices": [
+                                "we"
+                            ]
                         },
                         {
                             "name": "Blattsalat",
@@ -170,17 +172,17 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
-                },
-                {
                     "name": "Flammkuchen mit Ziegenk\u00e4se, Honig und Rosmarin",
                     "notices": [
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "4,10",
+                        "m": "5,15",
+                        "g": "5,80"
+                    }
                 }
             ]
         }

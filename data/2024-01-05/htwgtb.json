@@ -85,7 +85,8 @@
                 {
                     "name": "Gulasch vom Schwein G\u00e4rtnerin Art",
                     "notices": [
-                        "swf"
+                        "swf",
+                        "la"
                     ],
                     "components": [
                         {
@@ -94,10 +95,6 @@
                                 "ei",
                                 "we"
                             ]
-                        },
-                        {
-                            "name": "Alternativbeilage",
-                            "notices": []
                         },
                         {
                             "name": "Bunt gemischter Blattsalat",
