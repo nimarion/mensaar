@@ -1,0 +1,50 @@
+{
+    "date": "2024-01-08T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "Caf\u00e9 B4.r1sta",
+            "displayName": "Caf\u00e9 B4.r1sta",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:30:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 128,
+                "g": 0,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2024-01-08T10:30:00.000Z",
+                "end": "2024-01-09T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Schwarzwurzel-Cremesuppe",
+                    "notices": [
+                        "kn",
+                        "ha"
+                    ],
+                    "components": [
+                        {
+                            "name": "K\u00f6rnerbr\u00f6tchen",
+                            "notices": [
+                                "se",
+                                "we",
+                                "ro",
+                                "ge"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,70",
+                        "m": "3,75",
+                        "g": "4,40"
+                    },
+                    "category": "Vegan"
+                }
+            ]
+        }
+    ]
+}

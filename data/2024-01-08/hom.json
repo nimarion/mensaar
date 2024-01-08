@@ -1,0 +1,199 @@
+{
+    "date": "2024-01-08T00:00:00.000Z",
+    "isPast": false,
+    "counters": [
+        {
+            "id": "menue1",
+            "displayName": "Men\u00fc 1",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2024-01-08T10:15:00.000Z",
+                "end": "2024-01-09T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Tortellini mit Ricotta-Spinatf\u00fcllung",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "und geriebenem Gouda",
+                            "notices": [
+                                "gl",
+                                "ei",
+                                "la",
+                                "sl",
+                                "snf",
+                                "we"
+                            ]
+                        },
+                        {
+                            "name": "Sauce",
+                            "notices": []
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Obst",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "5,30",
+                        "g": "7,50"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "menue2",
+            "displayName": "Men\u00fc 2",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:15:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 204,
+                "g": 235,
+                "b": 255
+            },
+            "feedback": {
+                "start": "2024-01-08T10:15:00.000Z",
+                "end": "2024-01-09T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Gefl\u00fcgelfrikadelle",
+                    "notices": [
+                        "gf",
+                        "ei",
+                        "sl",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "mit Bratkartoffel/Alternative",
+                            "notices": [
+                                "sw"
+                            ]
+                        },
+                        {
+                            "name": "und Zwiebelsauce",
+                            "notices": [
+                                "gv",
+                                "kn",
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Salat",
+                            "notices": []
+                        },
+                        {
+                            "name": "Dressing",
+                            "notices": [
+                                "kn",
+                                "sl",
+                                "snf"
+                            ]
+                        },
+                        {
+                            "name": "Dessert",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "3,35",
+                        "m": "6,40",
+                        "g": "9,05"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "wahl",
+            "displayName": "Wahlessen",
+            "description": "",
+            "openingHours": {
+                "start": "1970-01-01T11:10:00.000Z",
+                "end": "1970-01-01T14:00:00.000Z"
+            },
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 153
+            },
+            "feedback": {
+                "start": "2024-01-08T10:10:00.000Z",
+                "end": "2024-01-09T13:00:00.000Z"
+            },
+            "meals": [
+                {
+                    "name": "Bunter Salatteller Griechisch",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "mit Br\u00f6tchen",
+                            "notices": [
+                                "fs",
+                                "sm",
+                                "gl",
+                                "ei",
+                                "la"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,70",
+                        "m": "5,75",
+                        "g": "6,35"
+                    }
+                },
+                {
+                    "name": "Pizza Salami",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "oder Pizza vegetarisch",
+                            "notices": []
+                        },
+                        {
+                            "name": "auf Vorbestellung",
+                            "notices": []
+                        },
+                        {
+                            "name": "eine Stunde vorher (06841 1627486)",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "4,50",
+                        "m": "5,55",
+                        "g": "6,15"
+                    }
+                }
+            ]
+        }
+    ]
+}
