@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Schwarzwurzel-Cremesuppe",
+                    "name": "Klimateller: Schwarzwurzel-Cremesuppe",
                     "notices": [
                         "kn",
                         "ha"
@@ -38,11 +38,10 @@
                         }
                     ],
                     "prices": {
-                        "s": "2,70",
-                        "m": "3,75",
-                        "g": "4,40"
-                    },
-                    "category": "Vegan"
+                        "s": "2,65",
+                        "m": "3,70",
+                        "g": "4,35"
+                    }
                 }
             ]
         }

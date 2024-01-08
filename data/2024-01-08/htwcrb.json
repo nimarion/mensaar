@@ -21,27 +21,20 @@
             },
             "meals": [
                 {
-                    "name": "Fr\u00fchlingsrolle vegetarisch",
+                    "name": "Fr\u00fchlingsrolle vegetarisch mit  S\u00fc\u00df-Sauer So\u00dfe",
                     "notices": [
                         "ba",
                         "ei",
                         "so",
                         "la",
                         "sl",
-                        "we"
+                        "we",
+                        "ks"
                     ],
                     "components": [
                         {
                             "name": "Basmatireis",
                             "notices": []
-                        },
-                        {
-                            "name": "So\u00dfe S\u00fc\u00df-Sauer",
-                            "notices": [
-                                "ks",
-                                "so",
-                                "we"
-                            ]
                         },
                         {
                             "name": "Blattsalat",
@@ -174,9 +167,9 @@
                     ],
                     "components": [],
                     "prices": {
-                        "s": "4,10",
-                        "m": "5,15",
-                        "g": "5,80"
+                        "s": "3,35",
+                        "m": "4,40",
+                        "g": "5,05"
                     },
                     "category": "mensaVital"
                 }

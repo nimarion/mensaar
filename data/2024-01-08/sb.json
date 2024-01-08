@@ -3,6 +3,28 @@
     "isPast": false,
     "counters": [
         {
+            "id": "info",
+            "displayName": "Information",
+            "description": "",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            "meals": [
+                {
+                    "name": "WinterAktion Saar:",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "Unter Vorlage des Berechtigungsscheines erhalten Sie das Vegetarische Men\u00fc",
+                            "notices": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "Men\u00fc 1",
             "displayName": "Men\u00fc 1",
             "description": "Aufgang B",
@@ -21,26 +43,17 @@
             },
             "meals": [
                 {
-                    "name": "Bandnudel mit Tomate, Zucchini und Hartk\u00e4se",
+                    "name": "Bandnudeln mit Tomate, Zucchini und geriebener K\u00e4se",
                     "notices": [
                         "ks",
                         "ei",
                         "la",
-                        "we"
+                        "we",
+                        "kn"
                     ],
                     "components": [
                         {
-                            "name": "Bunt gemischter Blattsalat",
-                            "notices": []
-                        },
-                        {
-                            "name": "Klare Salatso\u00dfe",
-                            "notices": [
-                                "snf"
-                            ]
-                        },
-                        {
-                            "name": "Wei\u00dfe Salatso\u00dfe",
+                            "name": "Rohkostsalat",
                             "notices": [
                                 "sm",
                                 "ei",
@@ -81,19 +94,14 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes Schnitzel vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit So\u00dfe \u201eBalkan Art\u201c",
                     "notices": [
                         "swf",
                         "ei",
-                        "we"
+                        "we",
+                        "sm"
                     ],
                     "components": [
-                        {
-                            "name": "So\u00dfe Balkan Art",
-                            "notices": [
-                                "sm"
-                            ]
-                        },
                         {
                             "name": "Tomatenreis",
                             "notices": []
@@ -146,17 +154,62 @@
             },
             "meals": [
                 {
-                    "name": "Putengeschnetzeltes Thail\u00e4ndische Art mit Duftreis",
+                    "name": "Erdnusspf\u00e4nnchen mit Gem\u00fcse, Soja Tomatenreis",
+                    "notices": [
+                        "kn",
+                        "en",
+                        "so",
+                        "we"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
+                    "name": "Gulasch vom Schwein \u201eG\u00e4rtnerin Art\u201c mit Tomatenreis",
+                    "notices": [
+                        "swf",
+                        "la"
+                    ],
+                    "components": [
+                        {
+                            "name": "Solange der Vorrat reicht!",
+                            "notices": []
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,15",
+                        "m": "3,10",
+                        "g": "3,70"
+                    },
+                    "category": "Tagesessen"
+                },
+                {
+                    "name": "Putengeschnetzeltes \u201eThail\u00e4ndische Art\u201c mit Duftreis",
                     "notices": [
                         "gf",
                         "la",
                         "we"
                     ],
                     "components": [],
+                    "prices": {
+                        "s": "4,00",
+                        "m": "5,05",
+                        "g": "5,70"
+                    },
                     "category": "mensaVital"
                 },
                 {
-                    "name": "Schwarzwurzel-Cremesuppe",
+                    "name": "Klimateller: Schwarzwurzel-Cremesuppe",
                     "notices": [
                         "kn",
                         "ha"
@@ -172,14 +225,18 @@
                             ]
                         }
                     ],
-                    "category": "Vegan"
+                    "prices": {
+                        "s": "2,65",
+                        "m": "3,70",
+                        "g": "4,35"
+                    }
                 },
                 {
                     "name": "Salatbuffet",
                     "notices": [],
                     "components": [
                         {
-                            "name": "Tomatensalat",
+                            "name": "Salattheke: Tomatensalat",
                             "notices": []
                         },
                         {
@@ -227,6 +284,20 @@
                             "notices": [
                                 "snf"
                             ]
+                        },
+                        {
+                            "name": "Limetten-Joghurt-Dressing",
+                            "notices": [
+                                "la"
+                            ]
+                        },
+                        {
+                            "name": "Kr\u00e4uter",
+                            "notices": []
+                        },
+                        {
+                            "name": "H\u00fclsenfr\u00fcchte",
+                            "notices": []
                         }
                     ],
                     "prices": {
@@ -256,49 +327,51 @@
             },
             "meals": [
                 {
-                    "name": "Spaghetti (aus biologischem Anbau)",
+                    "name": "Pasta(aus biologischem Anbau) mit Bolognese So\u00dfe",
                     "notices": [
-                        "we"
+                        "ei",
+                        "we",
+                        "nsf",
+                        "kn",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Bolognese So\u00dfe",
-                            "notices": [
-                                "nsf",
-                                "kn",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,55",
+                        "m": "4,60",
+                        "g": "5,25"
+                    }
                 },
                 {
-                    "name": "Spaghetti (aus biologischem Anbau)",
+                    "name": "Klimateller: Pasta (aus biologischem Anbau) mit veganer Soja Bolognaise",
                     "notices": [
-                        "we"
+                        "ei",
+                        "we",
+                        "kn",
+                        "vn",
+                        "so",
+                        "sl"
                     ],
                     "components": [
-                        {
-                            "name": "Vegan: Soja Bolognaise",
-                            "notices": [
-                                "kn",
-                                "vn",
-                                "so",
-                                "sl"
-                            ]
-                        },
                         {
                             "name": "Geriebener K\u00e4se",
                             "notices": [
                                 "la"
                             ]
                         }
-                    ]
+                    ],
+                    "prices": {
+                        "s": "3,20",
+                        "m": "4,25",
+                        "g": "4,90"
+                    }
                 }
             ]
         }

@@ -81,25 +81,16 @@
             },
             "meals": [
                 {
-                    "name": "Paniertes Schnitzel vom Schwein",
+                    "name": "Paniertes Schnitzel vom Schwein mit So\u00dfe \u201eBalkan Art\u201c",
                     "notices": [
                         "swf",
                         "ei",
-                        "we"
+                        "we",
+                        "sm"
                     ],
                     "components": [
                         {
-                            "name": "So\u00dfe Balkan Art",
-                            "notices": [
-                                "sm"
-                            ]
-                        },
-                        {
                             "name": "Tomatenreis",
-                            "notices": []
-                        },
-                        {
-                            "name": "Alternativbeilage",
                             "notices": []
                         },
                         {

@@ -21,7 +21,7 @@
             },
             "meals": [
                 {
-                    "name": "Bulgurpfanne mit Sesam-Hirtenk\u00e4se",
+                    "name": "Bulgurpfanne mit Kr\u00e4uter-Sesam Dipp",
                     "notices": [
                         "bl",
                         "la",
@@ -84,17 +84,13 @@
             },
             "meals": [
                 {
-                    "name": "H\u00fchnerfrikassee",
+                    "name": "H\u00fchnerfrikassee mit Petersilienreis",
                     "notices": [
                         "gf",
                         "la",
                         "we"
                     ],
                     "components": [
-                        {
-                            "name": "Petersilienreis",
-                            "notices": []
-                        },
                         {
                             "name": "Alternativbeilage",
                             "notices": []
@@ -154,9 +150,20 @@
             },
             "meals": [
                 {
-                    "name": "Siehe Aushang",
-                    "notices": [],
-                    "components": []
+                    "name": "Spaghetti mit Tofu-Gem\u00fcse Curry",
+                    "notices": [
+                        "so",
+                        "la",
+                        "sl",
+                        "snf",
+                        "we"
+                    ],
+                    "components": [],
+                    "prices": {
+                        "s": "2,80",
+                        "m": "3,85",
+                        "g": "4,50"
+                    }
                 },
                 {
                     "name": "Tortillas mit Chili con carne mit creme fraiche",
@@ -167,7 +174,12 @@
                         "la",
                         "we"
                     ],
-                    "components": []
+                    "components": [],
+                    "prices": {
+                        "s": "5,00",
+                        "m": "6,05",
+                        "g": "6,70"
+                    }
                 }
             ]
         }

@@ -192,6 +192,31 @@
                         "m": "5,55",
                         "g": "6,15"
                     }
+                },
+                {
+                    "name": "Teigwaren-Fleischt\u00f6pfchen gratiniert",
+                    "notices": [],
+                    "components": [
+                        {
+                            "name": "",
+                            "notices": [
+                                "gv",
+                                "swf",
+                                "kn",
+                                "gl",
+                                "so",
+                                "la",
+                                "sl",
+                                "snf",
+                                "we"
+                            ]
+                        }
+                    ],
+                    "prices": {
+                        "s": "2,50",
+                        "m": "3,55",
+                        "g": "4,15"
+                    }
                 }
             ]
         }
